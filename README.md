@@ -271,6 +271,7 @@
 
 ### MySQL专题
 
+* [糟了，生产环境MySQL主从数据库不一致怎么办？！](https://mp.weixin.qq.com/s/IeisUfNywi4O2SI3iZUd9A)
 * [如何最大程度防止人为误操作MySQL数据库？这次我懂了！！](https://mp.weixin.qq.com/s/EsY7V1jXvzDyiawJF8wMzw)
 * [从零到千万用户，我是如何一步步优化MySQL数据库的？](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489149&idx=1&sn=c8db6b1b72b1117a85b632c20c7d4e2b&chksm=cee509b0f99280a667e9298b0942469615aff15b42d2310cbf241b98baeeca4edfaf0ed5bd2e&token=1078684296&lang=zh_CN#rd)
 * [怒肝两个月MySQL源码，我总结出这篇2W字的MySQL协议详解（超硬核干货）！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247488694&idx=1&sn=ebff91ae2525390bb1c9fc76a18c6c89&chksm=cee50b7bf992826dad8220985a70f504cadbf1bc49ef1734b221b634c06d6a7c59d8ef7a7e27&token=1078684296&lang=zh_CN#rd)
