@@ -290,6 +290,7 @@
 
 ### MySQL专题
 
+* [面试官：MySQL如何实现查询数据并根据条件更新到另一张表？](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489358&idx=1&sn=fc2f09b8404f5cb6e1d5fb5543fbb3eb&chksm=cee50883f9928195a51ea00d324e1c8d6f0066388f1b2e31cb0e54b961ee4f13dad3f8a0ebd5#rd)
 * [糟了，生产环境MySQL主从数据库不一致怎么办？！](https://mp.weixin.qq.com/s/IeisUfNywi4O2SI3iZUd9A)
 * [如何最大程度防止人为误操作MySQL数据库？这次我懂了！！](https://mp.weixin.qq.com/s/EsY7V1jXvzDyiawJF8wMzw)
 * [从零到千万用户，我是如何一步步优化MySQL数据库的？](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489149&idx=1&sn=c8db6b1b72b1117a85b632c20c7d4e2b&chksm=cee509b0f99280a667e9298b0942469615aff15b42d2310cbf241b98baeeca4edfaf0ed5bd2e&token=1078684296&lang=zh_CN#rd)
