@@ -2,7 +2,7 @@
 
 
 
-这次，我将 【**冰河技术**】 微信公众号的文章整理出来了，很多细节的点，可能想得不是很完善，大家可以去【**冰河技术**】公众号获取或者在公众号内回复【**冰河**】加我【**微信**】提意见(别忘记**Star**哟)。
+这次，我将 【**冰河技术**】 微信公众号的文章整理出来了，很多细节的点，可能想得不是很完善，大家可以去【**冰河技术**】公众号获取或者在公众号内回复【**冰河**】或者微信搜索【**sun_shine_lyz**】加我【**微信**】提意见(别忘记**Star**哟)。
 
 原创文章每周更新，公众号首发文章，比博客早一到两篇。
 
@@ -33,8 +33,8 @@
 
 * [我的《海量数据处理与大数据技术实战》出版啦！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247486521&idx=1&sn=df715803a8ae6dd2e5a94c34685cf4c8&chksm=cee513f4f9929ae25128bdc1080084c61c3c8fb8f7b9cd25ac883694710fcc684328bc5d5813&token=1078684296&lang=zh_CN#rd)
 * 我的《MySQL技术大全：开发、优化与运维实战》下月出版，敬请期待
-
-
+* [《海量数据处理与大数据技术实战》读者福利！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489420&idx=1&sn=631e2bb708c89b08d07dfed31c82bf73&chksm=cee50841f992815743e63cc52695c69c4120975f58210d739a751d795a98d63bdf205344fc04&token=712788738&lang=zh_CN#rd)
+* [两本书，你更喜欢哪一本？](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489423&idx=1&sn=f36a605efeb9b400481267f833e1324a&chksm=cee50842f99281543fc4e3b1dd85c4363d37a370cdfdf3867ffe5d4b7e428991aca4f56d86c2&token=712788738&lang=zh_CN#rd)
 
 ### 高并发编程
 
@@ -290,6 +290,7 @@
 
 ### MySQL专题
 
+* [怒肝四个月MySQL源码，我总结出这篇MySQL协议（详尽版，文末有福利）！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489381&idx=1&sn=21a68e8765b8ea7a9d5ba86953cea01f&chksm=cee508a8f99281be23323b4d63c4d69d3385ffea0cd57d45435e2ec2baa71c1f722f8f1957f8&token=712788738&lang=zh_CN#rd)
 * [面试官：MySQL如何实现查询数据并根据条件更新到另一张表？](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489358&idx=1&sn=fc2f09b8404f5cb6e1d5fb5543fbb3eb&chksm=cee50883f9928195a51ea00d324e1c8d6f0066388f1b2e31cb0e54b961ee4f13dad3f8a0ebd5#rd)
 * [糟了，生产环境MySQL主从数据库不一致怎么办？！](https://mp.weixin.qq.com/s/IeisUfNywi4O2SI3iZUd9A)
 * [如何最大程度防止人为误操作MySQL数据库？这次我懂了！！](https://mp.weixin.qq.com/s/EsY7V1jXvzDyiawJF8wMzw)
@@ -381,6 +382,7 @@
 
 ### Dubbo专题
 
+* [结合实战和源码来聊聊Java中的SPI机制？](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489410&idx=1&sn=293d6e5c4807c0086c3b368137c40324&chksm=cee5084ff992815960269174c5e81ea5b67a082aa008ee3c5a9a0953aa329c58d361844bd039&token=712788738&lang=zh_CN#rd)
 * [Dubbo Filter实战](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247483823&idx=1&sn=0d05b695a54c20fa6ea90cc51af72dd5&chksm=cee51e62f992977493a4044c76cefe792e5b86a5119e400ad8f23203f2aa16b1ef072d2c1585&token=1235656640&lang=zh_CN#rd)
 * [服务只订阅(开发调试)](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247483818&idx=1&sn=5be5f0cfa5729347acb104af8cb13eef&chksm=cee51e67f9929771ad4c016f1e92e2bb7459e1323751e1b1ea495e546708b625f6bfc1b3c8a9&token=1235656640&lang=zh_CN#rd)
 * [你知道如何使用Dubbo消费端直连服务提供者进行开发和调试吗？？](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247483814&idx=1&sn=d84d730d20fc0a06eb3d2e6c038a7f14&chksm=cee51e6bf992977d7546e86eac472a17837f75e4ddef21f983dd0613b38358cc95b5677a0d33&token=1235656640&lang=zh_CN#rd)
