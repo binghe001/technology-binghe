@@ -317,6 +317,7 @@
 
 ### 中间件专题
 
+* [贼好用，冰河开源了这款精准定时任务和延时队列框架！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489495&idx=1&sn=561cd479b265331d91b02395802fa968&chksm=cee5081af992810cf9789995c6234590d701b21a6ea0d5362156230f76cab36f259ae90f1165&token=712788738&lang=zh_CN#rd)
 * [基于java开发的功能强大、配置灵活的数据库之间的同步工具](https://mp.weixin.qq.com/s/nILpBQ9EGcKPmbPldrGU9g)
 * [Mycat核心开发者带你轻松掌握Mycat路由转发！！](https://mp.weixin.qq.com/s/xk1Sx8aVst36k4tIkiXJig)
 * [Mycat核心开发者带你看尽Mycat三大核心配置文件！！](https://mp.weixin.qq.com/s/DnVpp4V_Y3vgkrUn2P0Blg)
