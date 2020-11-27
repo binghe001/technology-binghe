@@ -38,6 +38,8 @@
 
 ### 高并发编程
 
+
+* [这部高并发PDF全网下载5W+，原创作者继续送福利！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489668&idx=1&sn=f9b25b72545365f1ac4bad29d6898da0&chksm=cee50749f9928e5fae7ed564f7cadc659e1515297547c01dea830c24b81f362631ea86fe87f6&token=899210164&lang=zh_CN#rd)
 * [肝了三天三夜整理出这份36万字全网最牛的开源高并发编程PDF！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489006&idx=1&sn=b38b8888def8320764a42c524c6e6539&chksm=cee50a23f99283351cf0d21f9b76aa0de5c70b8b3b1f9c1994c2602cb796a0d2ad64c4a590a7&token=1078684296&lang=zh_CN#rd)
 * [并发编程到底应该学什么？一张图秒懂！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489108&idx=1&sn=c258712f6cece41d9acbec0443bb1962&chksm=cee50999f992808f74fcb714f832b0c19514ffea120b626bc0bc0ebcba264ad3583fe59ba238&token=1078684296&lang=zh_CN#rd)
 * [学好并发编程，关键是要理解这三个核心问题！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247488744&idx=1&sn=bf2a1e913d2aaad34f23eb27cb3461d2&chksm=cee50b25f992823367a80c1dff263287739dac0933fb45ddd904da907246d2eb12eabc904f04&token=1078684296&lang=zh_CN#rd)
@@ -244,6 +246,7 @@
 
 ### Spring专题
 
+* [一张图带你彻底理解Spring如何解决循环依赖！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489677&idx=1&sn=1bc8e130146593b589183033931cc62f&chksm=cee50740f9928e566d28e45b6040ae3a3901fa2bd63f97b48e48c1c38fd730665ef46b60b32f&token=899210164&lang=zh_CN#rd)
 * [如何实现多数据源读写分离？这是我看过最详细的一篇！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489519&idx=1&sn=89ecaeb241080ceb725f95105cfd489f&chksm=cee50822f9928134bae4261cf2bd7f2908b228b2aa3e4511c00bd67ec6b7cc7d58a9b0985575&token=1893358395&lang=zh_CN#rd)
 * [IOC容器注解汇总，你想要的都在这儿了！！（文末可留言）](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247487088&idx=1&sn=2dbe28200a01463defd55d607bff23c8&chksm=cee511bdf99298abea3332d2b40353dbe46c000a9071a107a1fb68cda70c903e3368074f9821&token=1078684296&lang=zh_CN#rd)
 * [AOP核心类源码解析，这是最全的一篇了！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247486778&idx=1&sn=d1d722f3aa33e645e712836ccccf11d6&chksm=cee512f7f9929be106a0ceef3e1c632ac98ef376222ec7f12b916b2710c4c8331b7f53a44329&token=1078684296&lang=zh_CN#rd)
@@ -291,6 +294,7 @@
 
 ### MySQL专题
 
+* [结合实战，我为MySQL主从复制总结了几张图！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489710&idx=1&sn=992d8fb5e89a0887e2b2d2f91edaf1c1&chksm=cee50763f9928e751a93806a44bef454718547e4cb68268bd356c90b9a1dba03bba86d65383d&token=899210164&lang=zh_CN#rd)
 * [MySQL如何实现万亿级数据存储？](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489643&idx=1&sn=1578dd1a5df7c13c879d553eeea83590&chksm=cee507a6f9928eb076b6b05335cb2d3939516ae15f9c9c260fabb1634ad42a3f6b4845c401c7&token=1893358395&lang=zh_CN#rd)
 * [怒肝四个月MySQL源码，我总结出这篇MySQL协议（详尽版，文末有福利）！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489381&idx=1&sn=21a68e8765b8ea7a9d5ba86953cea01f&chksm=cee508a8f99281be23323b4d63c4d69d3385ffea0cd57d45435e2ec2baa71c1f722f8f1957f8&token=712788738&lang=zh_CN#rd)
 * [面试官：MySQL如何实现查询数据并根据条件更新到另一张表？](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489358&idx=1&sn=fc2f09b8404f5cb6e1d5fb5543fbb3eb&chksm=cee50883f9928195a51ea00d324e1c8d6f0066388f1b2e31cb0e54b961ee4f13dad3f8a0ebd5#rd)
