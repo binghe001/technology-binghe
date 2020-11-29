@@ -117,6 +117,8 @@
 * [如何安全的发布对象（含各种单例代码分析）](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247483673&idx=1&sn=c5eaf899cb813fe863bc7e843e7077a8&chksm=cee51ed4f99297c2e20450ff2e8c3cb4ab9244ce4926fa264de5624c2e9357196e72d7f8bd06&token=1235656640&lang=zh_CN#rd)
 * [内存模型（八种操作+同步规则）](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247483668&idx=1&sn=6d3cfcebfc21abc34467623fe4a8a4e8&chksm=cee51ed9f99297cfcd5c3822d5e07b9f0b6ed59124eed67dd94fb4d41af06627bc6e857ec71d&token=1235656640&lang=zh_CN#rd)
 
+### 云原生专题
+* [三万字无坑搭建基于Docker+K8S+GitLab/SVN+Jenkins+Harbor持续集成交付环境！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489879&idx=1&sn=5d8d78489b630e17d464d352946a3a74&chksm=cee5069af9928f8c6811c44c9fd6489c398b8592cb2c8074b54cb2ddfbcfdab5db94c00b62c4&token=1057374909&lang=zh_CN#rd)
 
 
 ### 面试专题
