@@ -119,6 +119,7 @@
 
 ### 云原生专题
 * [三万字无坑搭建基于Docker+K8S+GitLab/SVN+Jenkins+Harbor持续集成交付环境！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489879&idx=1&sn=5d8d78489b630e17d464d352946a3a74&chksm=cee5069af9928f8c6811c44c9fd6489c398b8592cb2c8074b54cb2ddfbcfdab5db94c00b62c4&token=1057374909&lang=zh_CN#rd)
+* [冰河教你一次性成功安装K8S集群（基于一主两从模式）！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489939&idx=1&sn=49cbcf19a0fdcfcd8e54375ff0c5b1fc&chksm=cee5065ef9928f4841fc7b83bc77db2b369fb2bbc7d3c47606af9205bb6ee2f2f84a1b915079&token=1318226570&lang=zh_CN#rd)
 
 
 ### 面试专题
