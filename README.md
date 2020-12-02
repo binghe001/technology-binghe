@@ -218,6 +218,7 @@
 
 ### Nginx技术
 
+* [都是Nginx前缀惹的祸，FastDFS不能访问了！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489962&idx=1&sn=5b631916676fa008527da0d2508848fd&chksm=cee50667f9928f7181316df7360e1b0b53bac775cbf1567942d88876b403ff72bf639c78dc7f&token=261835649&lang=zh_CN#rd)
 * [冰河又一本超硬核Nginx PDF教程免费开源！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247487408&idx=1&sn=a6d45535fb6a97017084df3515438d5a&chksm=cee5107df992996b56326fb3fd23c3eeaa0cbcfe973f07f0a0e4be15f1ff5507ac2eb4348c78&token=1078684296&lang=zh_CN#rd)
 * [如何搭建Nginx+Keepalived双机热备环境？这是最全的一篇了！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247486701&idx=1&sn=4e9273c7723c6d71c453c50c83010f84&chksm=cee51320f9929a36bd1a90df9864c39603323a48325f62108a90bfa99edb8041865987e6f8dd&token=1078684296&lang=zh_CN#rd)
 * [如何使用自签CA配置HTTPS加密反向代理访问？看了这篇我会了！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247486419&idx=1&sn=005427594bdfe103d75c009d69cd5758&chksm=cee5141ef9929d0890038ff4a6d2af49f32aa44501972a21de864c8ed46af5e89d98266970c1&token=1078684296&lang=zh_CN#rd)
