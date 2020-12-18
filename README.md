@@ -47,7 +47,7 @@
 
 ### 高并发编程
 
-* [并发编程中一种经典的分而治之的思想！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247490292&idx=1&sn=9d3d85013a933de9114244a7154124bf&chksm=cee50539f9928c2f58b30230c7771b5bb575786c8c19fc9da9f7497d2d9deb9f2ebda2356ef9&token=2007101246&lang=zh_CN#rd)
+* [并发编程中一种经典的分而治之的思想！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489094&idx=1&sn=9cd9c4efeb31d96cde375f15ea8e6ccb&chksm=cf55a147f8222851080c47f4dd5a4ef3aff6d2bdc7d9be3640f8dd9ab05e2ec32210719bba38&token=420299024&lang=zh_CN#rd)
 * [这部高并发PDF全网下载5W+，原创作者继续送福利！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489668&idx=1&sn=f9b25b72545365f1ac4bad29d6898da0&chksm=cee50749f9928e5fae7ed564f7cadc659e1515297547c01dea830c24b81f362631ea86fe87f6&token=899210164&lang=zh_CN#rd)
 * [肝了三天三夜整理出这份36万字全网最牛的开源高并发编程PDF！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489006&idx=1&sn=b38b8888def8320764a42c524c6e6539&chksm=cee50a23f99283351cf0d21f9b76aa0de5c70b8b3b1f9c1994c2602cb796a0d2ad64c4a590a7&token=1078684296&lang=zh_CN#rd)
 * [并发编程到底应该学什么？一张图秒懂！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489108&idx=1&sn=c258712f6cece41d9acbec0443bb1962&chksm=cee50999f992808f74fcb714f832b0c19514ffea120b626bc0bc0ebcba264ad3583fe59ba238&token=1078684296&lang=zh_CN#rd)
@@ -459,6 +459,8 @@
 
 ### 程序人生
 
+* [冰河技术微信公众号终于可以留言了（文末领福利）！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489478&idx=1&sn=b06a4ac9282679fe601170a85a739fdc&chksm=cf55a0c7f82229d11b3b0b196793647422a774296bff91891604f4ed37219d6b7a0dcdbffa94&token=420299024&lang=zh_CN#rd)
+* [致读者：关于冰河技术微信公众号的重大调整！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489093&idx=1&sn=324f2847939fc2a45eab802113fc0b9c&chksm=cf55a144f82228522acebae4887df472b413fc2d1c558175d041d8295d68202a7885079eaf9f&token=420299024&lang=zh_CN#rd)
 * [接下来，冰河要有大动作了！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247490274&idx=1&sn=b45148f72f343d31456990af7d5332fe&chksm=cee5052ff9928c394dd78d541ba12096d739b0401f10e320a4e0ae091073f4dc03786cd039ac&token=2007101246&lang=zh_CN#rd)
 * [大家国庆中秋准备怎么过呀？](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247487950&idx=1&sn=a90f9cd071978f2a1271bedd513ae76e&chksm=cee50e03f9928715e0c6ce335f8fddd2cf740d75040e80563643c0d24b50737bc6c889f6ca4b&token=1078684296&lang=zh_CN#rd)
 * [下班咯~老地方见！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247486905&idx=1&sn=de233cd84a01a0d4f5246aefe75f8c9a&chksm=cee51274f9929b62381017c7aaa3190e6615eb0c19cfeff933123ee76cc82e25e9603218b141&token=1078684296&lang=zh_CN#rd)
