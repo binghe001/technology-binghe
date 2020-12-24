@@ -69,7 +69,7 @@
 * [高并发环境下构建缓存服务需要注意哪些问题？我和阿里P9聊了很久！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247485699&idx=1&sn=00f65b37d8745cd2d4cae6db14293d7f&chksm=cee516cef9929fd81c9f1bfbf30943c63ba9e7d00ad9b63c2a05df3421e36cf55c3e6710dd8e&token=1078684296&lang=zh_CN#rd)
 * [如何设计一个支撑高并发大流量的系统？这次我将设计思路分享给大家！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247485659&idx=1&sn=e2350e1da8cbaf5eb1ed883b54a95189&chksm=cee51716f9929e00d4ba0c13a4e274a4d819dd05ca8a2648541b33537a7bb0b77cf3f7062cb5&token=1078684296&lang=zh_CN#rd)
 * [学习高并发我们究竟要不要读源码？别纠结，肝就完了！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247485386&idx=1&sn=85982b75e00f24ab50d09a8ac2a93a19&chksm=cee51807f9929111cbc0e4db525553477b51c9e63e278f0f1e8435033b4811ce1092bbb43c41&token=1078684296&lang=zh_CN#rd)
-* [为何高并发系统中都要使用消息队列？这次彻底懂了！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247485353&idx=1&sn=9747a7c143a19130d456d16e7fc9f066&chksm=cee51864f9929172a10d7858c18f6240434c4efbf5cc09f6b5425a01f63d1a48ab611cc87511&token=1078684296&lang=zh_CN#rd)
+* [为何高并发系统中都要使用消息队列？这次彻底懂了！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489613&idx=1&sn=aa0ac24ae416effed3a11c46aaa127f4&chksm=cf55af4cf822265a2fcbb454265d2c3676bd481c3e1429c38a3999afb405f329ab6d4088826d&token=739666743&lang=zh_CN#rd)
 * [几种典型的内存溢出案例，都在这儿了！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247484635&idx=1&sn=43936a65f947cd284d08cf7f9f9268ac&chksm=cee51b16f9929200635ba3325bd03123e921558ebe61bed65b77b17558372272eec326fa0883&token=1078684296&lang=zh_CN#rd)
 * [你敢信？？HashMap竟然干掉了CPU！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247484584&idx=1&sn=1694fae2b3c5503d0fc4730dfc7bd74f&chksm=cee51b65f9929273702733dab2e6dc5cfa302e7c35cbae10eb56692c19cd4bdab104bc598da3&token=1078684296&lang=zh_CN#rd)
 * [线程的生命周期其实没有我们想象的那么简单！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247484492&idx=1&sn=4918cb75dccd1e51e5a2c822b54dd9b2&chksm=cee51b81f9929297057bd29c5925a4ae4082bcb125286e41f7687fa25d7c399911b657ed351b&token=1078684296&lang=zh_CN#rd)
@@ -84,7 +84,7 @@
 * [不废话，言简意赅介绍BlockingQueue](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247484408&idx=1&sn=2493fdbdd476d5dce9051c6afe83950a&chksm=cee51c35f9929523e0856c55a5aa0b75742f2a2b48ea4faa2053d25a89f22830f98405fba29e&token=1235656640&lang=zh_CN#rd)
 * [高并发环境下如何优化Tomcat性能？看完我懂了！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247484403&idx=1&sn=1163c44d9331a5540e51e5718a4b3a9a&chksm=cee51c3ef992952876b3b3024058dde36ac30dc0933bdb6b1c0ff675e022e1870db32699ec80&token=1235656640&lang=zh_CN#rd)
 * [在高并发环境下该如何构建应用级缓存？](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247484398&idx=1&sn=f9622694ba72478eaf084c05658ca95b&chksm=cee51c23f992953530b1bf6779859bded33a7c52a7232fb24f11c29bb5948e5d4f17884a2196&token=1235656640&lang=zh_CN#rd)
-* [为何高并发系统中都要使用消息队列？这次彻底懂了！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247484391&idx=1&sn=c6b09401b20922cd0c8a2e1cb0f5c67d&chksm=cee51c2af992953c24ecd556f73012162bfdec3c27568783027e2f5e3626e5862154ee90e4e9&token=1235656640&lang=zh_CN#rd)
+* [为何高并发系统中都要使用消息队列？这次彻底懂了！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489613&idx=1&sn=aa0ac24ae416effed3a11c46aaa127f4&chksm=cf55af4cf822265a2fcbb454265d2c3676bd481c3e1429c38a3999afb405f329ab6d4088826d&token=739666743&lang=zh_CN#rd)
 * [你知道吗？大家都在使用Redisson实现分布式锁了！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247484386&idx=1&sn=b3467e23eaaecc3601ce7ff8b2f802fa&chksm=cee51c2ff9929539b06b9d7915d27feb176c59b89314d78c0c7ffe371d9b74d034c7f3fa17be&token=1235656640&lang=zh_CN#rd)
 * [优化加锁方式时竟然死锁了！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247484382&idx=1&sn=8b2a1544f9efac88142973970cc8ea31&chksm=cee51c13f99295057a39ea4b0587c1c35e8d073018cd663ff53e5d082d0b19f18048fe8a881e&token=1235656640&lang=zh_CN#rd)
 * [什么是ForkJoin？看这一篇就够了！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247484376&idx=1&sn=82933713d8ac67e3b514f2d4fec1f96e&chksm=cee51c15f9929503e90b8662ea702c93de20750ecb2335d946ab1401163fbc03c20bfdf7658e&token=1235656640&lang=zh_CN#rd)
@@ -186,7 +186,7 @@
 ### 分布式事务
 
 * [如何基于消息中间件实现分布式事务？我想说的都在这儿了！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247488882&idx=1&sn=4449f42ce09d42f5d443b1af1a739f00&chksm=cee50abff99283a92ee1cc3c3f53c97a0d9fdfa8db5801ee3e0f0226a151da1035c51568683f&token=1078684296&lang=zh_CN#rd)
-* [12张图带你彻底理解分布式事务产生的场景和解决方案！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247488593&idx=1&sn=c7533c2578f8b3701ca9ee9bb7f0cac1&chksm=cee50b9cf992828adb6c07dd91cbd77b2325476b123d94dc4dedccb426bfae9f52bf2280e3cd&token=1078684296&lang=zh_CN#rd)
+* [12张图带你彻底理解分布式事务产生的场景和解决方案！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489572&idx=1&sn=283f24189f3add773ffa2f8a314ac8d1&chksm=cf55af25f822263342c3d67490d803b1de9a7199ee765c8614f7dda90441480877d2af02c8ef&token=739666743&lang=zh_CN#rd)
 * [如何基于消息中间件实现分布式事务？万字长文给你答案！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247484974&idx=1&sn=fe58e49290879ad74ad616b035954108&chksm=cee519e3f99290f564d3cb122c415a53ab256e7c949ed41afd66861437ce6397cdb4cd068439&token=1078684296&lang=zh_CN#rd)
 * [tcc-transaction分布式TCC型事务框架搭建与实战案例(基于Dubbo/Dubbox)](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247484548&idx=1&sn=d2ebe1a94b5cf4989413679e7baa72a5&chksm=cee51b49f992925f61d5d3dcdcbc2e120c6e13ade001f297a4c2f651b4abb3708b93450b0a3d&token=1078684296&lang=zh_CN#rd)
 
