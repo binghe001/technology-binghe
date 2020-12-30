@@ -47,7 +47,7 @@
 
 ### 高并发编程
 
-* []
+* [为何高并发系统中都要使用消息队列？这次彻底懂了！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489613&idx=1&sn=aa0ac24ae416effed3a11c46aaa127f4&chksm=cf55af4cf822265a2fcbb454265d2c3676bd481c3e1429c38a3999afb405f329ab6d4088826d&token=1924668976&lang=zh_CN#rd)
 * [我们该如何正确的中断一个正在执行的线程？？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489540&idx=1&sn=c86aa20794d406f11ce79b40ce356ef3&chksm=cf55af05f822261382ad28c05d0eb4374e3a941ee258ff09f78e5d0eceeb90b54a9cb5380825&token=420299024&lang=zh_CN#rd)
 * [并发编程中一种经典的分而治之的思想！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489094&idx=1&sn=9cd9c4efeb31d96cde375f15ea8e6ccb&chksm=cf55a147f8222851080c47f4dd5a4ef3aff6d2bdc7d9be3640f8dd9ab05e2ec32210719bba38&token=420299024&lang=zh_CN#rd)
 * [这部高并发PDF全网下载5W+，原创作者继续送福利！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489668&idx=1&sn=f9b25b72545365f1ac4bad29d6898da0&chksm=cee50749f9928e5fae7ed564f7cadc659e1515297547c01dea830c24b81f362631ea86fe87f6&token=899210164&lang=zh_CN#rd)
@@ -170,6 +170,7 @@
 
 ### 分布式存储
 
+* [互联网大厂有哪些分库分表的思路和技巧？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489682&idx=1&sn=1ce0d3631bc1054d53767bc3c47321c9&chksm=cf55af93f8222685205e2d2be2a696cd3be7e8102f0edfb52d8276aa91a1e3818c779eb934c8&token=1924668976&lang=zh_CN#rd)
 * [冰河，能不能讲讲如何实现MySQL数据存储的无限扩容？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489525&idx=1&sn=3a2d41612b208f67ead0c114fc6f7ca8&chksm=cf55a0f4f82229e29a03397d11a4cb366f1d6870d0b94d701ecd12ba5a89bedbd11a06402795&token=420299024&lang=zh_CN#rd)
 * [海量数据架构下如何保证Mycat的高可用？](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247490263&idx=1&sn=66723d9390149d7d368635d99feeac85&chksm=cee5051af9928c0c53d41ec0d81815fce5a0c8375e08a90c5c3f779f64c64fdf7bca41ba37dd&token=2007101246&lang=zh_CN#rd)
 * [冰河又一超硬核分布式存储PDF教程免费开源！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247487883&idx=1&sn=789c8e852cd728f440da24153ac21c5e&chksm=cee50e46f99287501cfcdfd99419db338c5daa504f7270726267194c20f1947510551942c60a&token=1078684296&lang=zh_CN#rd)
@@ -464,6 +465,9 @@
 
 ### 程序人生
 
+* [冰河又一MySQL技术力作出版（文末送书）！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489670&idx=1&sn=fe4e1d4f3db05607e37f35cbd7837fc8&chksm=cf55af87f8222691c42b252444a2d5ec1989aadbc0956463169fe6bc8f77c4977b3a4d2dfe9c&token=1924668976&lang=zh_CN#rd)
+* [冰河是谁？到底是干啥的？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489644&idx=1&sn=f77943df3a6f2cc33974f83d7f536627&chksm=cf55af6df822267bbe9ed604c59db4cd71b004c489bc58d7441b3066455450ce5b066113186a&token=1924668976&lang=zh_CN#rd)
+* [毕业三年，如何达到月薪30K？我想跟你聊聊！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489631&idx=1&sn=755cff80d63168634464666cffc74219&chksm=cf55af5ef8222648b65e1b9963d799b4fcf8563cc0c962bcaa06c34cfb2016a9167ef1d15b82&token=1924668976&lang=zh_CN#rd)
 * [冰河技术微信公众号终于可以留言了（文末领福利）！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489478&idx=1&sn=b06a4ac9282679fe601170a85a739fdc&chksm=cf55a0c7f82229d11b3b0b196793647422a774296bff91891604f4ed37219d6b7a0dcdbffa94&token=420299024&lang=zh_CN#rd)
 * [致读者：关于冰河技术微信公众号的重大调整！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489093&idx=1&sn=324f2847939fc2a45eab802113fc0b9c&chksm=cf55a144f82228522acebae4887df472b413fc2d1c558175d041d8295d68202a7885079eaf9f&token=420299024&lang=zh_CN#rd)
 * [接下来，冰河要有大动作了！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247490274&idx=1&sn=b45148f72f343d31456990af7d5332fe&chksm=cee5052ff9928c394dd78d541ba12096d739b0401f10e320a4e0ae091073f4dc03786cd039ac&token=2007101246&lang=zh_CN#rd)
