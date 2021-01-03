@@ -41,7 +41,7 @@
 ### 我出版的图书
 
 * [我的《海量数据处理与大数据技术实战》出版啦！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247486521&idx=1&sn=df715803a8ae6dd2e5a94c34685cf4c8&chksm=cee513f4f9929ae25128bdc1080084c61c3c8fb8f7b9cd25ac883694710fcc684328bc5d5813&token=1078684296&lang=zh_CN#rd)
-* 我的《MySQL技术大全：开发、优化与运维实战》下月出版，敬请期待~~
+* [冰河又一MySQL技术力作出版（文末送书）！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489670&idx=1&sn=fe4e1d4f3db05607e37f35cbd7837fc8&chksm=cf55af87f8222691c42b252444a2d5ec1989aadbc0956463169fe6bc8f77c4977b3a4d2dfe9c&token=959714600&lang=zh_CN#rd)
 * [《海量数据处理与大数据技术实战》读者福利！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489420&idx=1&sn=631e2bb708c89b08d07dfed31c82bf73&chksm=cee50841f992815743e63cc52695c69c4120975f58210d739a751d795a98d63bdf205344fc04&token=712788738&lang=zh_CN#rd)
 * [两本书，你更喜欢哪一本？](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489423&idx=1&sn=f36a605efeb9b400481267f833e1324a&chksm=cee50842f99281543fc4e3b1dd85c4363d37a370cdfdf3867ffe5d4b7e428991aca4f56d86c2&token=712788738&lang=zh_CN#rd)
 
