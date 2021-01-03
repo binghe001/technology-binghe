@@ -465,6 +465,9 @@
 
 ### 程序人生
 
+* [元旦在家撸了两天Seata源码，你们是咋度过的呢？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489729&idx=1&sn=64c1c1089a8ff2103673042c7ddf0d3c&chksm=cf55afc0f82226d6e5d54724349d358c7298a9bacc57d0419127656c443eb6c78678428d20cb&token=959714600&lang=zh_CN#rd)
+* [新年新气象，2021年我们一起携手前行！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489715&idx=1&sn=f6153571a149be56ee5c9242eccc2c35&chksm=cf55afb2f82226a4ac7101378220b60528015989e1c805b59575f982d993e9556e411c9d42df&token=959714600&lang=zh_CN#rd)
+* [总结2020：5个月出版两本书，日更公众号是一种怎样的体验？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489703&idx=1&sn=5fb966a0269ff9728e827ea4ecb0fb67&chksm=cf55afa6f82226b064a19b7bcbb39b6e9b0d7dc4fbc6b0fdc344206ac25eeb80d14382986a7e&token=959714600&lang=zh_CN#rd)
 * [冰河又一MySQL技术力作出版（文末送书）！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489670&idx=1&sn=fe4e1d4f3db05607e37f35cbd7837fc8&chksm=cf55af87f8222691c42b252444a2d5ec1989aadbc0956463169fe6bc8f77c4977b3a4d2dfe9c&token=1924668976&lang=zh_CN#rd)
 * [冰河是谁？到底是干啥的？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489644&idx=1&sn=f77943df3a6f2cc33974f83d7f536627&chksm=cf55af6df822267bbe9ed604c59db4cd71b004c489bc58d7441b3066455450ce5b066113186a&token=1924668976&lang=zh_CN#rd)
 * [毕业三年，如何达到月薪30K？我想跟你聊聊！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489631&idx=1&sn=755cff80d63168634464666cffc74219&chksm=cf55af5ef8222648b65e1b9963d799b4fcf8563cc0c962bcaa06c34cfb2016a9167ef1d15b82&token=1924668976&lang=zh_CN#rd)
