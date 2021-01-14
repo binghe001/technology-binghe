@@ -137,6 +137,7 @@
 
 ### 面试专题
 
+* [面试官：如果让你设计一个高并发的消息中间件，你会怎么做？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490267&idx=1&sn=2181dd10bc930f49b3bf5a44d62fcabc&chksm=cf55addaf82224cc42086018b6d77a8a17586ec414a324ec8473745150d60b7d1f14c626e2b8&token=1511921100&lang=zh_CN#rd)
 * [面试官：讲讲MySQL主从复制的原理和注意事项？？](https://mp.weixin.qq.com/s/diccpnkcbtjxiUQ7hLaerA)
 * [面试官：讲讲Redis的虚拟内存？](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489099&idx=1&sn=dc9367e58e337fc72082f1e759331c3f&chksm=cee50986f9928090f4e269cafd0ffba14e19e267837ecce81808a4833061d23748b083eaa988&token=1078684296&lang=zh_CN#rd)
 * [面试官：如何以最高的效率从MySQL中随机查询一条记录？](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489071&idx=1&sn=4c987b43ab7b7c119ebaa9806d04d938&chksm=cee509e2f99280f48a54867e6e4b7663463370bbd339fdf7903d474acb533e438d5bb7a41a12&token=1078684296&lang=zh_CN#rd)
@@ -203,6 +204,7 @@
 
 ### 性能优化
 
+* [高并发场景下如何优化服务器的性能？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490255&idx=1&sn=714509ac9747898d34489045e382387c&chksm=cf55adcef82224d8f2570dd02bd1bb1c3c23d1c564a820f09eb5158c6632d5faaf4bf716a741&token=1511921100&lang=zh_CN#rd)
 * [纳尼？内存又溢出了？！是时候总结一波了！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489087&idx=1&sn=719261df19cd272df4459c68f75f0ba1&chksm=cee509f2f99280e4cd4e7c0262c78eb516c6646210756a8b1659e96855bdfdba6e96a4ecbe20&token=1078684296&lang=zh_CN#rd)
 * [Java中的String到底占用多大的内存空间？你所了解的可能都是错误的！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247488761&idx=1&sn=a2f161b4d4ff28535fc27f3a75695592&chksm=cee50b34f9928222d19244d30f92b6c700acbeb97e8309242366f302fcefe06c0069dc72da57&token=1078684296&lang=zh_CN#rd)
 * [你敢信？String类竟然是导致生产环境频繁内存溢出的罪魁祸首！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247488710&idx=1&sn=f7d6e6d82d28ca8fd7cc17f240c2b474&chksm=cee50b0bf992821d8a60339124f8b039e96850fb4f0507e952cd0e66db222fd91fd38575505b&token=1078684296&lang=zh_CN#rd)
@@ -318,6 +320,7 @@
 
 ### MySQL专题
 
+* [两行代码修复了解析MySQL8.x binlog错位的问题！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490278&idx=1&sn=1681ff3ce2d7ccc133d5a4436fb21359&chksm=cf55ade7f82224f145462689ed0b0e7d0e86e162c1707a954b30fcb293f997d60568f2466534&token=1511921100&lang=zh_CN#rd)
 * [冰河，能不能讲讲如何实现MySQL数据存储的无限扩容？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489525&idx=1&sn=3a2d41612b208f67ead0c114fc6f7ca8&chksm=cf55a0f4f82229e29a03397d11a4cb366f1d6870d0b94d701ecd12ba5a89bedbd11a06402795&token=420299024&lang=zh_CN#rd)
 * [结合实战，我为MySQL主从复制总结了几张图！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489710&idx=1&sn=992d8fb5e89a0887e2b2d2f91edaf1c1&chksm=cee50763f9928e751a93806a44bef454718547e4cb68268bd356c90b9a1dba03bba86d65383d&token=899210164&lang=zh_CN#rd)
 * [MySQL如何实现万亿级数据存储？](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489643&idx=1&sn=1578dd1a5df7c13c879d553eeea83590&chksm=cee507a6f9928eb076b6b05335cb2d3939516ae15f9c9c260fabb1634ad42a3f6b4845c401c7&token=1893358395&lang=zh_CN#rd)
@@ -418,6 +421,7 @@
 
 ### Dubbo专题
 
+* [我是如何在短期内快速掌握Dubbo的原理和源码的（纯干货）？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490192&idx=1&sn=afedf86349f76c864f42b2b48a245c62&chksm=cf55ad91f8222487088c333cb7160dd63496f9754c5533dbc868d9ac875101cc67dc1483c0da&token=1511921100&lang=zh_CN#rd)
 * [俯瞰Dubbo全局，阅读源码前必须掌握这些！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489831&idx=1&sn=e1126303a91f8fccb6154196695c5e6e&chksm=cf55ae26f82227302f71ced14c0aa312f631c8f03df65650dd3a49dc7fa9f339685342c38f5a&token=1473173499&lang=zh_CN#rd)
 * [冰河开始对Dubbo下手了！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489794&idx=1&sn=aa9efb732ac7fe3d2bc927c1491cae57&chksm=cf55ae03f82227157bb69cb487df2081b5b623d173b1df603be66347692acec56d455da6aae1&token=1473173499&lang=zh_CN#rd)
 * [结合实战和源码来聊聊Java中的SPI机制？](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489410&idx=1&sn=293d6e5c4807c0086c3b368137c40324&chksm=cee5084ff992815960269174c5e81ea5b67a082aa008ee3c5a9a0953aa329c58d361844bd039&token=712788738&lang=zh_CN#rd)
