@@ -130,6 +130,13 @@
 * [内存模型（八种操作+同步规则）](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247483668&idx=1&sn=6d3cfcebfc21abc34467623fe4a8a4e8&chksm=cee51ed9f99297cfcd5c3822d5e07b9f0b6ed59124eed67dd94fb4d41af06627bc6e857ec71d&token=1235656640&lang=zh_CN#rd)
 
 ### 程序员进阶系列
+
+* [计算机中的层次化存储究竟是个什么鬼？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490594&idx=1&sn=187341456d21256536b63e7caac8538a&chksm=cf55ab23f8222235078eb54e7356d981da5f64f4202668f46ccff9ee8938070541c99873259f&token=990338459&lang=zh_CN#rd)
+* [如何在服务器上进行双网卡双IP双网关配置？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490573&idx=1&sn=e9c39a58032ed20701079b4d6a1f02a6&chksm=cf55ab0cf822221a0ed0d395def3943079cb75b9b843a542120efc023afb33c7ae3d9d1df95c&token=990338459&lang=zh_CN#rd)
+* [计算机中的流水线技术到底是个啥？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490553&idx=1&sn=8f62d853786e57af9045ad98d1eefe16&chksm=cf55acf8f82225ee47f2e4dbec44142ca3d318034b6be07c364a8e0a9bb54fd1a78796621a3f&token=990338459&lang=zh_CN#rd)
+* [Http Header中到底有些啥？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490533&idx=1&sn=11bb993617094185a034c007f7fefa8f&chksm=cf55ace4f82225f2728de2d223da886fa1a9b4d39d243424ad26f99ae69f80fecf80eefa1707&token=990338459&lang=zh_CN#rd)
+* [图解计算机结构与体系分类！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490467&idx=1&sn=6a3d54679657583b64f9167d9fdabbe4&chksm=cf55aca2f82225b4f88fe239cc8a80bb9d802befa5d5be74235970379af9891da246aa000c76&token=990338459&lang=zh_CN#rd)
+* [图解计算机中的数值范围和浮点数运算](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490432&idx=1&sn=12b644c45d8b5bbc1379426a7c9eeee9&chksm=cf55ac81f8222597307784843d90dfe2f1f2c6b6fd09328070509bd79aaa3fa36b85b42131f2&token=990338459&lang=zh_CN#rd)
 * [图解计算机中数据的表示形式](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490388&idx=1&sn=1805a62814452c598c567e65de274c67&chksm=cf55ac55f8222543d1506fb48dcc22c3d5be0a458e3b11a224fd98248e11f86d17468204fcfc&token=456594555&lang=zh_CN#rd)
 
 ### 云原生专题
@@ -139,8 +146,10 @@
 * [冰河教你一次性成功安装K8S集群（基于一主两从模式）！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489939&idx=1&sn=49cbcf19a0fdcfcd8e54375ff0c5b1fc&chksm=cee5065ef9928f4841fc7b83bc77db2b369fb2bbc7d3c47606af9205bb6ee2f2f84a1b915079&token=1318226570&lang=zh_CN#rd)
 
 
-### 面试专题
+### 我要进大厂系列
 
+* [即使技术再精，面试时一问这个必挂！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490521&idx=1&sn=da5bdb9e9079625a82cd843cbe4d136b&chksm=cf55acd8f82225ce9ef57ea0a2c7076eb267d65d02d703277cc254c35fa73e51d235544d7e2c&token=990338459&lang=zh_CN#rd)
+* [同时拿到BATJMD的Offer是怎样的一种体验？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490503&idx=1&sn=3b2ad39a88ec09eeb1dc17d1ce259e7b&chksm=cf55acc6f82225d0cf074310020a2fc2d4ec85ebf44524bad96d2b239aa1fd11cc852c5f1353&token=990338459&lang=zh_CN#rd)
 * [面试官：如果让你设计一个高并发的消息中间件，你会怎么做？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490267&idx=1&sn=2181dd10bc930f49b3bf5a44d62fcabc&chksm=cf55addaf82224cc42086018b6d77a8a17586ec414a324ec8473745150d60b7d1f14c626e2b8&token=1511921100&lang=zh_CN#rd)
 * [面试官：讲讲MySQL主从复制的原理和注意事项？？](https://mp.weixin.qq.com/s/diccpnkcbtjxiUQ7hLaerA)
 * [面试官：讲讲Redis的虚拟内存？](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489099&idx=1&sn=dc9367e58e337fc72082f1e759331c3f&chksm=cee50986f9928090f4e269cafd0ffba14e19e267837ecce81808a4833061d23748b083eaa988&token=1078684296&lang=zh_CN#rd)
@@ -482,6 +491,9 @@
 
 ### 程序人生
 
+* [冰河去腾讯了？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490481&idx=1&sn=d0e39c092165536f165ee5ceced37e2a&chksm=cf55acb0f82225a6d35f227e3b26d409a4b30683fb6531b3cad5e4c50c133ec3f79e8f0a1a9b&token=990338459&lang=zh_CN#rd)
+* [真正牛逼的人，都是极简主义者！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490442&idx=1&sn=f0fc5a95f429e75f1c5726867152ebd6&chksm=cf55ac8bf822259d639a1ee405167a8935cfa0c35c46f7f3c8c2622b6659c224f9d930cc7370&token=990338459&lang=zh_CN#rd)
+* [完了，这货迟早要超过我！我该怎么办？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490414&idx=1&sn=1bf8eec5825d0a1299e32e643d8e0eda&chksm=cf55ac6ff8222579bace9de611cb34e258664fecb27420d41def225d990a61fc6f464cd73cfb&token=990338459&lang=zh_CN#rd)
 * [程序员如何让自己更快的废掉？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489844&idx=1&sn=30bbf9c5e4ab1ea59029a01738fc386d&chksm=cf55ae35f82227231f51b4dcc68b90b2270b4310f4d7960d1cce3c64fe755e4de7c36b824136&token=1473173499&lang=zh_CN#rd)
 * [元旦在家撸了两天Seata源码，你们是咋度过的呢？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489729&idx=1&sn=64c1c1089a8ff2103673042c7ddf0d3c&chksm=cf55afc0f82226d6e5d54724349d358c7298a9bacc57d0419127656c443eb6c78678428d20cb&token=959714600&lang=zh_CN#rd)
 * [新年新气象，2021年我们一起携手前行！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489715&idx=1&sn=f6153571a149be56ee5c9242eccc2c35&chksm=cf55afb2f82226a4ac7101378220b60528015989e1c805b59575f982d993e9556e411c9d42df&token=959714600&lang=zh_CN#rd)
