@@ -131,6 +131,8 @@
 
 ### 程序员进阶系列
 
+
+* [程序员心中的一道坎：主存的编址与计算和串并联系统！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490610&idx=1&sn=62ab9e5f3916d52ee4e6c1ddb56eb7a4&chksm=cf55ab33f82222254990d42b81ecd3c03d5e1636926f3347c409ab983e4dd6a95d8a2381b4dc&token=1733057501&lang=zh_CN#rd)
 * [计算机中的层次化存储究竟是个什么鬼？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490594&idx=1&sn=187341456d21256536b63e7caac8538a&chksm=cf55ab23f8222235078eb54e7356d981da5f64f4202668f46ccff9ee8938070541c99873259f&token=990338459&lang=zh_CN#rd)
 * [如何在服务器上进行双网卡双IP双网关配置？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490573&idx=1&sn=e9c39a58032ed20701079b4d6a1f02a6&chksm=cf55ab0cf822221a0ed0d395def3943079cb75b9b843a542120efc023afb33c7ae3d9d1df95c&token=990338459&lang=zh_CN#rd)
 * [计算机中的流水线技术到底是个啥？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490553&idx=1&sn=8f62d853786e57af9045ad98d1eefe16&chksm=cf55acf8f82225ee47f2e4dbec44142ca3d318034b6be07c364a8e0a9bb54fd1a78796621a3f&token=990338459&lang=zh_CN#rd)
@@ -148,6 +150,8 @@
 
 ### 我要进大厂系列
 
+* [字节跳动面试官这样问有关字符串的问题！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490675&idx=1&sn=eb63db12f3004dcde676224145128e50&chksm=cf55ab72f82222646f91b4c4c4f6b76b76b672f4f62e2a2916c29a9009d6e2473fadc1d703a9&token=1733057501&lang=zh_CN#rd)
+* [肝了很久的字节跳动消息队列面经，我不信你能看完！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490647&idx=1&sn=a002c9a5f547ce699a4fa4a9113cc74d&chksm=cf55ab56f82222406dc2966ccedd9a6eee31a937ac19baff844fd86d53ef49f8fc14eb6256a6&token=1733057501&lang=zh_CN#rd)
 * [即使技术再精，面试时一问这个必挂！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490521&idx=1&sn=da5bdb9e9079625a82cd843cbe4d136b&chksm=cf55acd8f82225ce9ef57ea0a2c7076eb267d65d02d703277cc254c35fa73e51d235544d7e2c&token=990338459&lang=zh_CN#rd)
 * [同时拿到BATJMD的Offer是怎样的一种体验？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490503&idx=1&sn=3b2ad39a88ec09eeb1dc17d1ce259e7b&chksm=cf55acc6f82225d0cf074310020a2fc2d4ec85ebf44524bad96d2b239aa1fd11cc852c5f1353&token=990338459&lang=zh_CN#rd)
 * [面试官：如果让你设计一个高并发的消息中间件，你会怎么做？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490267&idx=1&sn=2181dd10bc930f49b3bf5a44d62fcabc&chksm=cf55addaf82224cc42086018b6d77a8a17586ec414a324ec8473745150d60b7d1f14c626e2b8&token=1511921100&lang=zh_CN#rd)
@@ -277,6 +281,7 @@
 
 ### 微服务专题
 
+* [冰河公开了这份4万字的SpringCloud与SpringCloudAlibaba学习笔记！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490745&idx=1&sn=fb3cc2c3e94eec9e4dd4d5d3a33d8ffb&chksm=cf55abb8f82222aec0d694cb3e1a4f503d072e55a2cd6f35e2de1dee56c17f6cc92876cfe6e5&token=1733057501&lang=zh_CN#rd)
 * [卧槽，被SpringBoot整合原生OpenFegin坑惨了（非SpringCloud）！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247488968&idx=1&sn=20717c24357e96eb3bf480ec39151817&chksm=cee50a05f9928313db0bc2193ceddc6231f9e396edc33c5334e63a5e3d2e3404d0734fca4ee0&token=1078684296&lang=zh_CN#rd)
 * [SpringCloud Alibaba开篇：SpringCloud这么火，为何还要学习SpringCloud Alibaba？](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247488920&idx=1&sn=20d980f4886e7f016db7d5200163f090&chksm=cee50a55f9928343582698ac98720695e4b82a28982d0bece020926c5b014bdc61b86ef5e1c5&token=1078684296&lang=zh_CN#rd)
 * [为啥你用@JsonFormat注解反序列化LocalDateTime总失败？](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247487952&idx=1&sn=61ff9687fec9de55a1b23670f1e083d1&chksm=cee50e1df992870b2ad2ac4a29dfe4c426798fbe4be328edf784c4bdc850ebed8a03ca56f5c7&token=1078684296&lang=zh_CN#rd)
@@ -491,6 +496,7 @@
 
 ### 程序人生
 
+* [满满的干货，我不信你能看完！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490629&idx=1&sn=8fbbefd2da5f15e0e0827d2d50292385&chksm=cf55ab44f8222252c89aa414e75a818e370c0642eb3bd2eec03b6eefefc8b4dabedf9d156724&token=1733057501&lang=zh_CN#rd)
 * [冰河去腾讯了？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490481&idx=1&sn=d0e39c092165536f165ee5ceced37e2a&chksm=cf55acb0f82225a6d35f227e3b26d409a4b30683fb6531b3cad5e4c50c133ec3f79e8f0a1a9b&token=990338459&lang=zh_CN#rd)
 * [真正牛逼的人，都是极简主义者！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490442&idx=1&sn=f0fc5a95f429e75f1c5726867152ebd6&chksm=cf55ac8bf822259d639a1ee405167a8935cfa0c35c46f7f3c8c2622b6659c224f9d930cc7370&token=990338459&lang=zh_CN#rd)
 * [完了，这货迟早要超过我！我该怎么办？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490414&idx=1&sn=1bf8eec5825d0a1299e32e643d8e0eda&chksm=cf55ac6ff8222579bace9de611cb34e258664fecb27420d41def225d990a61fc6f464cd73cfb&token=990338459&lang=zh_CN#rd)
