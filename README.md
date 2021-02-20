@@ -45,6 +45,13 @@
 * [《海量数据处理与大数据技术实战》读者福利！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489420&idx=1&sn=631e2bb708c89b08d07dfed31c82bf73&chksm=cee50841f992815743e63cc52695c69c4120975f58210d739a751d795a98d63bdf205344fc04&token=712788738&lang=zh_CN#rd)
 * [两本书，你更喜欢哪一本？](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489423&idx=1&sn=f36a605efeb9b400481267f833e1324a&chksm=cee50842f99281543fc4e3b1dd85c4363d37a370cdfdf3867ffe5d4b7e428991aca4f56d86c2&token=712788738&lang=zh_CN#rd)
 
+### 视频
+
+* [冰河假期去哪啦？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490779&idx=1&sn=8d8183198cac59ef69a065301cb48ce6&chksm=cf55abdaf82222ccd2e593a0691de509fdfab9262892ec2aa392ee2dcded7cb1e78d1a4c0885&token=1421790844&lang=zh_CN#rd)
+* [春节喜气洋洋，小区给大家发红包，我也沾沾喜气！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490755&idx=1&sn=a57491f87164366ada53577f4218078f&chksm=cf55abc2f82222d406c09d4f881d8f83ff9e78db364cf770f1633e69baa00e937be7830fce9c&token=1421790844&lang=zh_CN#rd)
+* [AI正在深刻改变人们的生活！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490768&idx=1&sn=932d696c84b4d30358a7c4a6696dcd30&chksm=cf55abd1f82222c7c2763207783d80b06da060dc6c8babb77838bdd02565bf88c8c057f64a86&token=1421790844&lang=zh_CN#rd)
+
+
 ### 高并发编程
 
 * [【高并发】ReadWriteLock怎么和缓存扯上关系了？！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490372&idx=1&sn=96f0ed94f9b0c8c19eb5586f0ff20e30&chksm=cf55ac45f82225538854df50ea3817cd5b07d90d59db9bd5259b1502bce4e795c0cdafc19afb&token=456594555&lang=zh_CN#rd)
@@ -148,8 +155,10 @@
 * [冰河教你一次性成功安装K8S集群（基于一主两从模式）！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489939&idx=1&sn=49cbcf19a0fdcfcd8e54375ff0c5b1fc&chksm=cee5065ef9928f4841fc7b83bc77db2b369fb2bbc7d3c47606af9205bb6ee2f2f84a1b915079&token=1318226570&lang=zh_CN#rd)
 
 
-### 我要进大厂系列
+### 一起进大厂系列
 
+* [冰河公开了进大厂必备的核心技能，服了！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490771&idx=1&sn=7a8870e3118117d5ae50b5fe94eda0a4&chksm=cf55abd2f82222c435213ee8d3865a44fcbe6c548a38db2f4c45620afd5ecf0a2cc22f02532d&token=1421790844&lang=zh_CN#rd)
+* [为何你进不了大厂？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490748&idx=1&sn=32ab2d8522b9f47f53d77b4880e15c87&chksm=cf55abbdf82222ab5267e0fe0cb1df953e8ee2f74cd18b1f7d01449611ce647ba880d47d1687&token=1421790844&lang=zh_CN#rd)
 * [字节跳动面试官这样问有关字符串的问题！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490675&idx=1&sn=eb63db12f3004dcde676224145128e50&chksm=cf55ab72f82222646f91b4c4c4f6b76b76b672f4f62e2a2916c29a9009d6e2473fadc1d703a9&token=1733057501&lang=zh_CN#rd)
 * [肝了很久的字节跳动消息队列面经，我不信你能看完！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490647&idx=1&sn=a002c9a5f547ce699a4fa4a9113cc74d&chksm=cf55ab56f82222406dc2966ccedd9a6eee31a937ac19baff844fd86d53ef49f8fc14eb6256a6&token=1733057501&lang=zh_CN#rd)
 * [即使技术再精，面试时一问这个必挂！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490521&idx=1&sn=da5bdb9e9079625a82cd843cbe4d136b&chksm=cf55acd8f82225ce9ef57ea0a2c7076eb267d65d02d703277cc254c35fa73e51d235544d7e2c&token=990338459&lang=zh_CN#rd)
@@ -496,6 +505,11 @@
 
 ### 程序人生
 
+* [年薪千万的产品经理打开了我对这个职位的新认知！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490782&idx=1&sn=8008870f8f460672ad6ad8e763f46815&chksm=cf55abdff82222c94a86cff432a19102d03640617f8806afd8cf64b58f684a4c39ed3c0a7ac4&token=1421790844&lang=zh_CN#rd)
+* [过完年，该减肥了（说的不是我）！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490777&idx=1&sn=28665e6a5c1624e4d951f047b4839259&chksm=cf55abd8f82222ce7cb2ea80817d97c6312df955fa01fe5b9fe2e3d316a0f19603235b09118d&token=1421790844&lang=zh_CN#rd)
+* [假期无聊冰河开发了一款国民级游戏！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490774&idx=1&sn=29f0db1cd78da44aa9e3b5c31a7d0b0a&chksm=cf55abd7f82222c1fa4a8637d1d789ddcafcac61ce789d249904cadac2d025c4b9ffdaa50829&token=1421790844&lang=zh_CN#rd)
+* [在一个执行力极差的团队工作是一种怎样的体验？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490758&idx=1&sn=ebde7336db83320f0886f716b327687d&chksm=cf55abc7f82222d1fb55be7b71be851a2e67d1410dcf3c0fa094da95c1ed7761d102c7ae0f0a&token=1421790844&lang=zh_CN#rd)
+* [团年](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490753&idx=1&sn=0bbe4a255b687f88a5579635274e920a&chksm=cf55abc0f82222d6e56e724be444d354a6e6a4096b3c02bcf955d3d07e7595ad942db396496b&token=1421790844&lang=zh_CN#rd)
 * [满满的干货，我不信你能看完！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490629&idx=1&sn=8fbbefd2da5f15e0e0827d2d50292385&chksm=cf55ab44f8222252c89aa414e75a818e370c0642eb3bd2eec03b6eefefc8b4dabedf9d156724&token=1733057501&lang=zh_CN#rd)
 * [冰河去腾讯了？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490481&idx=1&sn=d0e39c092165536f165ee5ceced37e2a&chksm=cf55acb0f82225a6d35f227e3b26d409a4b30683fb6531b3cad5e4c50c133ec3f79e8f0a1a9b&token=990338459&lang=zh_CN#rd)
 * [真正牛逼的人，都是极简主义者！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490442&idx=1&sn=f0fc5a95f429e75f1c5726867152ebd6&chksm=cf55ac8bf822259d639a1ee405167a8935cfa0c35c46f7f3c8c2622b6659c224f9d930cc7370&token=990338459&lang=zh_CN#rd)
