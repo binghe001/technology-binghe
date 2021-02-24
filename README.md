@@ -47,6 +47,7 @@
 
 ### 视频
 
+* [在服务器命令行输入 rm -rf /* 到底会发生什么？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490883&idx=1&sn=f90d57b6cb74e138b56106df10b597b9&chksm=cf55aa42f8222354e09e0fed24762d7e29f9965d5fa01412c6fa23924a54f65f061afedcfbac&token=59514255&lang=zh_CN#rd)
 * [冰河假期去哪啦？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490779&idx=1&sn=8d8183198cac59ef69a065301cb48ce6&chksm=cf55abdaf82222ccd2e593a0691de509fdfab9262892ec2aa392ee2dcded7cb1e78d1a4c0885&token=1421790844&lang=zh_CN#rd)
 * [春节喜气洋洋，小区给大家发红包，我也沾沾喜气！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490755&idx=1&sn=a57491f87164366ada53577f4218078f&chksm=cf55abc2f82222d406c09d4f881d8f83ff9e78db364cf770f1633e69baa00e937be7830fce9c&token=1421790844&lang=zh_CN#rd)
 * [AI正在深刻改变人们的生活！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490768&idx=1&sn=932d696c84b4d30358a7c4a6696dcd30&chksm=cf55abd1f82222c7c2763207783d80b06da060dc6c8babb77838bdd02565bf88c8c057f64a86&token=1421790844&lang=zh_CN#rd)
@@ -54,7 +55,7 @@
 
 ### 高并发编程
 
-* [【高并发】ReadWriteLock怎么和缓存扯上关系了？！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490372&idx=1&sn=96f0ed94f9b0c8c19eb5586f0ff20e30&chksm=cf55ac45f82225538854df50ea3817cd5b07d90d59db9bd5259b1502bce4e795c0cdafc19afb&token=456594555&lang=zh_CN#rd)
+* [ReadWriteLock怎么和缓存扯上关系了？！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490372&idx=1&sn=96f0ed94f9b0c8c19eb5586f0ff20e30&chksm=cf55ac45f82225538854df50ea3817cd5b07d90d59db9bd5259b1502bce4e795c0cdafc19afb&token=456594555&lang=zh_CN#rd)
 * [为何高并发系统中都要使用消息队列？这次彻底懂了！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489613&idx=1&sn=aa0ac24ae416effed3a11c46aaa127f4&chksm=cf55af4cf822265a2fcbb454265d2c3676bd481c3e1429c38a3999afb405f329ab6d4088826d&token=1924668976&lang=zh_CN#rd)
 * [我们该如何正确的中断一个正在执行的线程？？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489540&idx=1&sn=c86aa20794d406f11ce79b40ce356ef3&chksm=cf55af05f822261382ad28c05d0eb4374e3a941ee258ff09f78e5d0eceeb90b54a9cb5380825&token=420299024&lang=zh_CN#rd)
 * [并发编程中一种经典的分而治之的思想！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489094&idx=1&sn=9cd9c4efeb31d96cde375f15ea8e6ccb&chksm=cf55a147f8222851080c47f4dd5a4ef3aff6d2bdc7d9be3640f8dd9ab05e2ec32210719bba38&token=420299024&lang=zh_CN#rd)
@@ -138,7 +139,7 @@
 
 ### 程序员进阶系列
 
-
+* [冰河公开了其总结的一项重要的编程技能！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490847&idx=1&sn=5647a499f0188e1355ee4d722825e2e1&chksm=cf55aa1ef822230830bdbafcdfa23ae9536dfd0999949ffd582be8300baeb5c83b20cb0d8800&token=59514255&lang=zh_CN#rd)
 * [程序员心中的一道坎：主存的编址与计算和串并联系统！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490610&idx=1&sn=62ab9e5f3916d52ee4e6c1ddb56eb7a4&chksm=cf55ab33f82222254990d42b81ecd3c03d5e1636926f3347c409ab983e4dd6a95d8a2381b4dc&token=1733057501&lang=zh_CN#rd)
 * [计算机中的层次化存储究竟是个什么鬼？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490594&idx=1&sn=187341456d21256536b63e7caac8538a&chksm=cf55ab23f8222235078eb54e7356d981da5f64f4202668f46ccff9ee8938070541c99873259f&token=990338459&lang=zh_CN#rd)
 * [如何在服务器上进行双网卡双IP双网关配置？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490573&idx=1&sn=e9c39a58032ed20701079b4d6a1f02a6&chksm=cf55ab0cf822221a0ed0d395def3943079cb75b9b843a542120efc023afb33c7ae3d9d1df95c&token=990338459&lang=zh_CN#rd)
@@ -197,6 +198,7 @@
 
 ### 分布式存储
 
+* [新年上班第一天生产环境分布式文件系统崩了！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490878&idx=1&sn=89a0264f21d46cf36cf090c5f9612ba0&chksm=cf55aa3ff8222329ec181402b6942649b87511b972467fa6892dc61e63b0d9881625f252957c&token=59514255&lang=zh_CN#rd)
 * [如何扩容单台服务器的存储容量？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490300&idx=1&sn=ebd4555a8cf6f55369946a0e9a4a858a&chksm=cf55adfdf82224eb448c600284351ef24ad6d572a03099d93828c57847f63f36a987b0ee7c94&token=456594555&lang=zh_CN#rd)
 * [4.5万字手把手教你实现MySQL TB级数据存储！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490090&idx=1&sn=6cfda5e97794e947bb42709b7197e0d3&chksm=cf55ad2bf822243d2a270752ba6b9ace01b24b8aa2b9f79de505e082b97d9a04691ce7e59936&token=1473173499&lang=zh_CN#rd)
 * [互联网大厂有哪些分库分表的思路和技巧？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489682&idx=1&sn=1ce0d3631bc1054d53767bc3c47321c9&chksm=cf55af93f8222685205e2d2be2a696cd3be7e8102f0edfb52d8276aa91a1e3818c779eb934c8&token=1924668976&lang=zh_CN#rd)
@@ -505,6 +507,7 @@
 
 ### 程序人生
 
+* [深度思考：无关生智，局外生慧！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490856&idx=1&sn=ab1808517ce00ff189e1c7860a0ccaf9&chksm=cf55aa29f822233f3f226b9e7266456f7906f36569e6fbd4c9598f82179f6d6529ff30bd4a9b&token=59514255&lang=zh_CN#rd)
 * [年薪千万的产品经理打开了我对这个职位的新认知！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490782&idx=1&sn=8008870f8f460672ad6ad8e763f46815&chksm=cf55abdff82222c94a86cff432a19102d03640617f8806afd8cf64b58f684a4c39ed3c0a7ac4&token=1421790844&lang=zh_CN#rd)
 * [过完年，该减肥了（说的不是我）！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490777&idx=1&sn=28665e6a5c1624e4d951f047b4839259&chksm=cf55abd8f82222ce7cb2ea80817d97c6312df955fa01fe5b9fe2e3d316a0f19603235b09118d&token=1421790844&lang=zh_CN#rd)
 * [假期无聊冰河开发了一款国民级游戏！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490774&idx=1&sn=29f0db1cd78da44aa9e3b5c31a7d0b0a&chksm=cf55abd7f82222c1fa4a8637d1d789ddcafcac61ce789d249904cadac2d025c4b9ffdaa50829&token=1421790844&lang=zh_CN#rd)
