@@ -55,6 +55,7 @@
 
 ### 高并发编程
 
+* [冰河写的这部《深入理解高并发编程》电子书全网已累计下载15W+！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247491329&idx=1&sn=fa306c598453149daf646655236f01ed&chksm=cf55a800f8222116c05cb7f8b2036842aa8951e65237a5b1e86d597e5ab3273613e29ee45b10&token=776659970&lang=zh_CN#rd)
 * [ReadWriteLock怎么和缓存扯上关系了？！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490372&idx=1&sn=96f0ed94f9b0c8c19eb5586f0ff20e30&chksm=cf55ac45f82225538854df50ea3817cd5b07d90d59db9bd5259b1502bce4e795c0cdafc19afb&token=456594555&lang=zh_CN#rd)
 * [为何高并发系统中都要使用消息队列？这次彻底懂了！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489613&idx=1&sn=aa0ac24ae416effed3a11c46aaa127f4&chksm=cf55af4cf822265a2fcbb454265d2c3676bd481c3e1429c38a3999afb405f329ab6d4088826d&token=1924668976&lang=zh_CN#rd)
 * [我们该如何正确的中断一个正在执行的线程？？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489540&idx=1&sn=c86aa20794d406f11ce79b40ce356ef3&chksm=cf55af05f822261382ad28c05d0eb4374e3a941ee258ff09f78e5d0eceeb90b54a9cb5380825&token=420299024&lang=zh_CN#rd)
@@ -271,9 +272,12 @@
 * [域名还能绑定动态IP？看完又涨知识了！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247488494&idx=1&sn=51388c6f0f0c9057f3dadb2d36ca9f31&chksm=cee50c23f992853518f925340a3b34a97d0a28ad0608ff66a55ae54e03b4d8e3e32b244189d8&token=1078684296&lang=zh_CN#rd)
 
 
+### Kafka系列
+* [Kafka又出问题了！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247491002&idx=1&sn=1079a5e6ad9bc4cc8415d1b0c6b05083&chksm=cf55aabbf82223ad91dd208261d09301b1f5ddd165049299577a55c13161c6c431076256bf7b&token=776659970&lang=zh_CN#rd)
 
 ### Nginx技术
 
+* [一文带你搞懂Nginx如何配置Http、Https、WS、WSS！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247491149&idx=1&sn=04baa8af488a6ce39bc369a64c5109a6&chksm=cf55a94cf822205a4144f97bda5a79fefb2433c565f108f5e46bf8854284e0481c51d668d5aa&token=776659970&lang=zh_CN#rd)
 * [记一次生产环境大面积404问题！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490982&idx=1&sn=a030fac171a108c148badbb627ee8f35&chksm=cf55aaa7f82223b13b5b74b784a79bc2d7ff13348647f014d717452a79a3290e87bb881bd2d7&token=646318665&lang=zh_CN#rd)
 * [都是Nginx前缀惹的祸，FastDFS不能访问了！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489962&idx=1&sn=5b631916676fa008527da0d2508848fd&chksm=cee50667f9928f7181316df7360e1b0b53bac775cbf1567942d88876b403ff72bf639c78dc7f&token=261835649&lang=zh_CN#rd)
 * [冰河又一本超硬核Nginx PDF教程免费开源！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247487408&idx=1&sn=a6d45535fb6a97017084df3515438d5a&chksm=cee5107df992996b56326fb3fd23c3eeaa0cbcfe973f07f0a0e4be15f1ff5507ac2eb4348c78&token=1078684296&lang=zh_CN#rd)
@@ -306,8 +310,11 @@
 
 
 
-### Spring专题
+### Spring注解系列
 
+* [AnnotationAwareAspectJAutoProxyCreator类是干嘛的？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247491307&idx=1&sn=6eec4078f4eea8c265682784ab9a6b13&chksm=cf55a9eaf82220fcc54c4a15876335b2bc95b7ed6e3cc0524247379e401716cfdb166f404366&token=776659970&lang=zh_CN#rd)
+* [一张图带你窥探「Spring注解系列」到底要更新些啥？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247491259&idx=1&sn=8bda41604df41c407d6d3b6820c5495f&chksm=cf55a9baf82220acb058117cf4c3b204d2f911839abf05258f6e3c55b25038c98d5337e2e7a5&token=776659970&lang=zh_CN#rd)
+* [小伙伴们在催更Spring系列，于是我汇总了Spring中的各项注解！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247491199&idx=1&sn=524a1942c88d19e0536a2b1a06c4d3de&chksm=cf55a97ef8222068e51544a288302363290dd95c4bab7bd78205ffd5784c838cbfa745183e6c&token=776659970&lang=zh_CN#rd)
 * [Spring AOP核心类解析，这是最全的一篇了！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247490001&idx=1&sn=cbee0b31f655f584937973e357649e60&chksm=cee5061cf9928f0a0a7904e23a9a7ec5d4d3ae8ad6a3624fed05764139a8b5882b7496048193&token=2055257369&lang=zh_CN#rd)
 * [一张图带你彻底理解Spring如何解决循环依赖！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489677&idx=1&sn=1bc8e130146593b589183033931cc62f&chksm=cee50740f9928e566d28e45b6040ae3a3901fa2bd63f97b48e48c1c38fd730665ef46b60b32f&token=899210164&lang=zh_CN#rd)
 * [如何实现多数据源读写分离？这是我看过最详细的一篇！！](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247489519&idx=1&sn=89ecaeb241080ceb725f95105cfd489f&chksm=cee50822f9928134bae4261cf2bd7f2908b228b2aa3e4511c00bd67ec6b7cc7d58a9b0985575&token=1893358395&lang=zh_CN#rd)
@@ -357,6 +364,9 @@
 
 ### MySQL专题
 
+* [关于MySQL日志，我与阿里P9都聊了些啥？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247491119&idx=1&sn=321d6b7adaa98b2039111b01fe3515c0&chksm=cf55a92ef82220381474e43cdfe5cf8ec070a13c2279475c9f1c0b4e9faae7fc841a24214257&token=776659970&lang=zh_CN#rd)
+* [一文搞懂MySQL体系架构！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247491060&idx=1&sn=2fd0339f2b915a6a1eb63938883b3c18&chksm=cf55aaf5f82223e35f04c043dabd7204c3593a70e4be209d9b8bb9bb0e05c2a13b5949fd6a87&token=776659970&lang=zh_CN#rd)
+* [业务高峰期不小心拔掉了服务器电源！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247491043&idx=1&sn=03edc8bad89bb5f6176f1b1fa6011f2e&chksm=cf55aae2f82223f4e2fe53a0a1c1e1a8a49d0cd069f53b1c7c9b00553b5f51b1e541426e79ef&token=776659970&lang=zh_CN#rd)
 * [数据库调优思路图解](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490929&idx=1&sn=e8d98d0c9c357f32719af064b230cfa2&chksm=cf55aa70f8222366eea0a124adc70c5c2092c6e528414297f4b8e17deb6f3ebde56603154b41&token=646318665&lang=zh_CN#rd)
 * [两行代码修复了解析MySQL8.x binlog错位的问题！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490278&idx=1&sn=1681ff3ce2d7ccc133d5a4436fb21359&chksm=cf55ade7f82224f145462689ed0b0e7d0e86e162c1707a954b30fcb293f997d60568f2466534&token=1511921100&lang=zh_CN#rd)
 * [冰河，能不能讲讲如何实现MySQL数据存储的无限扩容？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489525&idx=1&sn=3a2d41612b208f67ead0c114fc6f7ca8&chksm=cf55a0f4f82229e29a03397d11a4cb366f1d6870d0b94d701ecd12ba5a89bedbd11a06402795&token=420299024&lang=zh_CN#rd)
@@ -389,6 +399,7 @@
 
 ### 中间件专题
 
+* [万字长文解密数据异构最佳实践（含完整代码实现）！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247491249&idx=1&sn=f1e24d969b3c1b3f312241c423908184&chksm=cf55a9b0f82220a61f664b21b8c3709821e13db7e9a2bf32a45f7db72005b829e41c44ef8601&token=776659970&lang=zh_CN#rd)
 * [万字长文教你消息中间件到底该如何选型？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490146&idx=1&sn=b01d1bc7281b5bfdb93bddca2e01553e&chksm=cf55ad63f8222475086b63080ea945805da036102bb199bd9ef4bdff4facaf7fc7041d337015&token=1473173499&lang=zh_CN#rd)
 * [贼好用，冰河再次升级了这款开源的精准定时任务和延时队列框架！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489571&idx=1&sn=addba2666568ade7f260852f4da7463b&chksm=cf55af22f8222634df9518c397a6fdf0af6bd4a80c84c58e220792d4bee5a1c07f53e2ec833f&token=420299024&lang=zh_CN#rd)
 * [冰河，能讲讲Mycat如何实现MySQL的读写分离吗？](https://mp.weixin.qq.com/s?__biz=Mzg3MzE1NTIzNA==&mid=2247490191&idx=1&sn=641966023ac4e950ace429b7ff0413c7&chksm=cee50542f9928c54a56aa8ec265ead9d3f97e76c724024fb881cb49b7013cc8c105d9cf37975&token=2055257369&lang=zh_CN#rd)
@@ -515,6 +526,7 @@
 
 ### 程序人生
 
+* [如何成为一名拖垮整个团队的产品经理？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247491156&idx=1&sn=ac80e9cdf4b5822c03cbad700e6d8d55&chksm=cf55a955f8222043cf4755d07a27f52eb62cb5cfd021980dca31189f77eba2ac401cb3f96c37&token=776659970&lang=zh_CN#rd)
 * [深度思考：无关生智，局外生慧！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490856&idx=1&sn=ab1808517ce00ff189e1c7860a0ccaf9&chksm=cf55aa29f822233f3f226b9e7266456f7906f36569e6fbd4c9598f82179f6d6529ff30bd4a9b&token=59514255&lang=zh_CN#rd)
 * [年薪千万的产品经理打开了我对这个职位的新认知！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490782&idx=1&sn=8008870f8f460672ad6ad8e763f46815&chksm=cf55abdff82222c94a86cff432a19102d03640617f8806afd8cf64b58f684a4c39ed3c0a7ac4&token=1421790844&lang=zh_CN#rd)
 * [过完年，该减肥了（说的不是我）！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490777&idx=1&sn=28665e6a5c1624e4d951f047b4839259&chksm=cf55abd8f82222ce7cb2ea80817d97c6312df955fa01fe5b9fe2e3d316a0f19603235b09118d&token=1421790844&lang=zh_CN#rd)
