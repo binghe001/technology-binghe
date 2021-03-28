@@ -47,6 +47,7 @@
 
 ### 视频系列
 
+* [2分钟完美手动安装Docker环境！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247491959&idx=1&sn=37f033cc90378390d140f12de03c1ad8&chksm=cf565676f821df6033b4bd1632f93ee1ed7564a2ff473dacd0b76f1e594bed5e0bd2b963ec92&token=1093611389&lang=zh_CN#rd)
 * [春节喜气洋洋，小区给大家发红包，我也沾沾喜气！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490755&idx=1&sn=a57491f87164366ada53577f4218078f&chksm=cf55abc2f82222d406c09d4f881d8f83ff9e78db364cf770f1633e69baa00e937be7830fce9c&token=776659970&lang=zh_CN#rd)
 * [AI正在深刻改变人们的生活！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490768&idx=1&sn=932d696c84b4d30358a7c4a6696dcd30&chksm=cf55abd1f82222c7c2763207783d80b06da060dc6c8babb77838bdd02565bf88c8c057f64a86&token=776659970&lang=zh_CN#rd)
 * [冰河假期去哪啦？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489644&idx=1&sn=f77943df3a6f2cc33974f83d7f536627&chksm=cf55af6df822267bbe9ed604c59db4cd71b004c489bc58d7441b3066455450ce5b066113186a&token=776659970&lang=zh_CN#rd)
@@ -54,6 +55,8 @@
 
 ### 高并发专题
 
+* [这部电子书凭什么短短几个月全网累计下载突破16万？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492194&idx=1&sn=536d8ac9c4ab6f5bb45a156ccb671f90&chksm=cf565563f821dc75a6ed888a5bec1ab1c3371e67fe8154d7f03903bf14b3767d77337fcab505&token=1093611389&lang=zh_CN#rd)
+* [更正《深入理解高并发编程（第1版）》中的一处错误！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247491931&idx=1&sn=63c272ddb2e6fefe1beeec0a9a748722&chksm=cf56565af821df4ce5c03fe29daf83dd3dfb55a0f20355c2ec90a922d380b965a503dfb59b3f&token=1093611389&lang=zh_CN#rd)
 * [冰河写的这部《深入理解高并发编程》电子书全网已累计下载15W+！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247491329&idx=1&sn=fa306c598453149daf646655236f01ed&chksm=cf55a800f8222116c05cb7f8b2036842aa8951e65237a5b1e86d597e5ab3273613e29ee45b10&token=776659970&lang=zh_CN#rd)
 * [高并发场景下如何优化服务器的性能？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490255&idx=1&sn=714509ac9747898d34489045e382387c&chksm=cf55adcef82224d8f2570dd02bd1bb1c3c23d1c564a820f09eb5158c6632d5faaf4bf716a741&token=776659970&lang=zh_CN#rd)
 * [ReadWriteLock怎么和缓存扯上关系了？！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490372&idx=1&sn=96f0ed94f9b0c8c19eb5586f0ff20e30&chksm=cf55ac45f82225538854df50ea3817cd5b07d90d59db9bd5259b1502bce4e795c0cdafc19afb&token=776659970&lang=zh_CN#rd)
@@ -93,6 +96,10 @@
 * [万字长文教你消息中间件到底该如何选型？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490146&idx=1&sn=b01d1bc7281b5bfdb93bddca2e01553e&chksm=cf55ad63f8222475086b63080ea945805da036102bb199bd9ef4bdff4facaf7fc7041d337015&token=776659970&lang=zh_CN#rd)
 * [两行代码修复了解析MySQL8.x binlog错位的问题！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490278&idx=1&sn=1681ff3ce2d7ccc133d5a4436fb21359&chksm=cf55ade7f82224f145462689ed0b0e7d0e86e162c1707a954b30fcb293f997d60568f2466534&token=776659970&lang=zh_CN#rd)
 
+### 分布式缓存系列
+
+* [到底是先更新数据库还是先更新缓存？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247491950&idx=1&sn=91f2fb8e87967c780b91772fb8f39df9&chksm=cf56566ff821df793e162510f97580e970eb84c1a39426febd920246edbdf721b5f35ab339c4&token=1093611389&lang=zh_CN#rd)
+
 ### 分布式存储
 
 * [4.5万字手把手教你实现MySQL TB级数据存储！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490090&idx=1&sn=6cfda5e97794e947bb42709b7197e0d3&chksm=cf55ad2bf822243d2a270752ba6b9ace01b24b8aa2b9f79de505e082b97d9a04691ce7e59936&token=776659970&lang=zh_CN#rd)
@@ -102,6 +109,7 @@
 
 ### 微服务专题
 
+* [一个很多人不知道的SpringBoot小技能！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247491991&idx=1&sn=d4447165cfb7be4237d3cf439075a36e&chksm=cf565696f821df80c766f6f5af0803d492c24527f0bffd6a4028cac4a150e216e79b19ffe1e7&token=1093611389&lang=zh_CN#rd)
 * [冰河公开了这份4万字的SpringCloud与SpringCloudAlibaba学习笔记！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490745&idx=1&sn=fb3cc2c3e94eec9e4dd4d5d3a33d8ffb&chksm=cf55abb8f82222aec0d694cb3e1a4f503d072e55a2cd6f35e2de1dee56c17f6cc92876cfe6e5&token=776659970&lang=zh_CN#rd)
 
 ### 中间件专题
@@ -149,6 +157,9 @@
 
 ### 程序人生
 
+* [敲定了，冰河要搞大事情了！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492020&idx=1&sn=66b8e7335c05067ad0187a45642c1884&chksm=cf5656b5f821dfa3437f652040bfb3efe51390773de8c1b9e2be1aab1985f3c7e5ac642faf0f&token=1093611389&lang=zh_CN#rd)
+* [连续一年多没有周末是一种怎样的体验？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247491980&idx=1&sn=cde6f4556e8dbb76798fd4aa9ac8aeb8&chksm=cf56568df821df9b22456fcc9495431d6fda8e756ef1a08410cf425388e9bbbf2ebcf08e069c&token=1093611389&lang=zh_CN#rd)
+* [小伙伴问我:「冰河技术」公号如何查看文章分类？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247491860&idx=1&sn=7a5692c74f88ac0e6e62cad958fe50b0&chksm=cf565615f821df0321278f83d50e1bbb961e2b5a3e2b9945219d4ded56b7aa7d73f8bb840402&token=1093611389&lang=zh_CN#rd)
 * [新年新气象，2021年我们一起携手前行！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489715&idx=1&sn=f6153571a149be56ee5c9242eccc2c35&chksm=cf55afb2f82226a4ac7101378220b60528015989e1c805b59575f982d993e9556e411c9d42df&token=776659970&lang=zh_CN#rd)
 * [元旦在家撸了两天Seata源码，你们是咋度过的呢？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489729&idx=1&sn=64c1c1089a8ff2103673042c7ddf0d3c&chksm=cf55afc0f82226d6e5d54724349d358c7298a9bacc57d0419127656c443eb6c78678428d20cb&token=776659970&lang=zh_CN#rd)
 * [完了，这货迟早要超过我！我该怎么办？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490414&idx=1&sn=1bf8eec5825d0a1299e32e643d8e0eda&chksm=cf55ac6ff8222579bace9de611cb34e258664fecb27420d41def225d990a61fc6f464cd73cfb&token=776659970&lang=zh_CN#rd)
@@ -398,6 +409,7 @@
 
 ### Java8新特性
 
+* [肝了一个月7.3万字的Java8新特性，我不信你能看完！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247491839&idx=1&sn=6fd08962ec03b6d91638849d181eefc9&chksm=cf5657fef821dee8cddc5737620ab1949a8b66cbc3ad05c01355c93614282b4eea74309e11ba&token=1093611389&lang=zh_CN#rd)
 * [冰河带你看尽Java8新特性，你想要的都在这儿了！！（文本有福利）](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489275&idx=1&sn=a5414c2e3224e262d40032646032414a&chksm=cf55a1faf82228ec6a73d6b7ea7b0dc14c839690353c305d1df2533d45bd48d1a98140544e21&token=776659970&lang=zh_CN#rd)
 * [一张图带你领略Java8有哪些新特性](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489333&idx=1&sn=b96556e9c99d458c2936d4f0ca10ea5f&chksm=cf55a034f8222922fc23579a19c770390461a310252a673e86b6bfa54b49fa2a2dfc5714894b&token=776659970&lang=zh_CN#rd)
 * [Java8为什么要引入Lambda表达式？原来如此！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489332&idx=1&sn=4d7e1e65fd44b3b8fc97df17bad58866&chksm=cf55a035f82229230d35c50b3c945bc57efd684baf318ea05ba57fb3e97ef00e968cca4d1907&token=776659970&lang=zh_CN#rd)
