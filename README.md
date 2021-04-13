@@ -74,6 +74,14 @@
 * [冰河公开了进大厂必备的核心技能，服了！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490771&idx=1&sn=7a8870e3118117d5ae50b5fe94eda0a4&chksm=cf55abd2f82222c435213ee8d3865a44fcbe6c548a38db2f4c45620afd5ecf0a2cc22f02532d&token=776659970&lang=zh_CN#rd)
 * [金三银四，冰河为你整理了这份20万字134页的面试圣经！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490906&idx=1&sn=c01aec12b225f9e0e69cba2c73b5e842&chksm=cf55aa5bf822234dcc319e42b803250bfd5ebb2d2b7db951b2409638252533c1d7cd1ae0416f&token=776659970&lang=zh_CN#rd)
 
+### 精通大数据系列
+
+* [精通Zookeeper系列开篇：进大厂不得不学的分布式协同利器！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492272&idx=1&sn=39b21a0f0da6629c72bf50fb21f51479&chksm=cf5655b1f821dca776ab19af8b477bdf590005606742dc4df30d34921b1b05608cb54cc4ba72&token=1053291757&lang=zh_CN#rd)
+
+### 精通运维系列
+
+* [我写了一个脚本，可在“任意”服务器上执行命令！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492340&idx=1&sn=35464589fc36bf80e09231d5f08d351b&chksm=cf5655f5f821dce3015bc74fa28f55e2dac08fa3a24e4ce3a99eaebc28b3ad115371b35ba5ae&token=1053291757&lang=zh_CN#rd)
+
 ### MySQL专题
 
 * [一文搞懂select语句在MySQL中的执行流程！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492253&idx=1&sn=6b943ad940c8db578fc0259b09c3d853&chksm=cf56559cf821dc8a4cd8bf87db9c5f615183e2f6ca4e7e20e043403880d89a0d2ceff7e575cf&token=154776380&lang=zh_CN#rd)
@@ -163,6 +171,10 @@
 
 ### 程序人生
 
+* [文章又被白嫖了，你说气不气？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492392&idx=1&sn=6a5449a08106ab03c7423fcff41cea1a&chksm=cf565429f821dd3f44d818b7452e3ac3bb5a756b673e168bb3a30839fd6fee07496f271357db&token=1053291757&lang=zh_CN#rd)
+* [清明节偷偷训练“熊猫烧香”，结果我的电脑为熊猫“献身了”！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492376&idx=1&sn=9df725eb8b40dbb85359dbc25f013e35&chksm=cf565419f821dd0f0195f17d2662cf8c72ec81c1c3e0fda8954a1e5c159e9230c8d1118eba3a&token=1053291757&lang=zh_CN#rd)
+* [千万不要轻易尝试“熊猫烧香”，这不，我后悔了！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492295&idx=1&sn=4d1a4407977febf2e8c2e234f42e1c30&chksm=cf5655c6f821dcd0eb1f6945217cb29a8ab89dd4aaeb507da173d2a94aae514c40c4185fad7e&token=1053291757&lang=zh_CN#rd)
+* [从小白程序员到大厂高级技术专家我看过哪些书籍？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492259&idx=1&sn=067e2f48577c23eadae9922f9bda0cf0&chksm=cf5655a2f821dcb47322fa711ba6e4c21d9d10ec52ef2c8d7c6ca228e402aba2ffd6f25303c2&token=1053291757&lang=zh_CN#rd)
 * [敲定了，冰河要搞大事情了！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492020&idx=1&sn=66b8e7335c05067ad0187a45642c1884&chksm=cf5656b5f821dfa3437f652040bfb3efe51390773de8c1b9e2be1aab1985f3c7e5ac642faf0f&token=1093611389&lang=zh_CN#rd)
 * [连续一年多没有周末是一种怎样的体验？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247491980&idx=1&sn=cde6f4556e8dbb76798fd4aa9ac8aeb8&chksm=cf56568df821df9b22456fcc9495431d6fda8e756ef1a08410cf425388e9bbbf2ebcf08e069c&token=1093611389&lang=zh_CN#rd)
 * [小伙伴问我:「冰河技术」公号如何查看文章分类？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247491860&idx=1&sn=7a5692c74f88ac0e6e62cad958fe50b0&chksm=cf565615f821df0321278f83d50e1bbb961e2b5a3e2b9945219d4ded56b7aa7d73f8bb840402&token=1093611389&lang=zh_CN#rd)
