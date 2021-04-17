@@ -76,6 +76,7 @@
 
 ### 精通大数据系列
 
+* [极简介绍Zookeeper，我想跟你聊这些！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492408&idx=1&sn=e5d8a1d3e8d4d28f836c11d631b66667&chksm=cf565439f821dd2fa002c09af2c2909e91dcf0e1917ca74e4bcf221530d99f246ec49bcaf5cb&token=78679959&lang=zh_CN#rd)
 * [精通Zookeeper系列开篇：进大厂不得不学的分布式协同利器！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492272&idx=1&sn=39b21a0f0da6629c72bf50fb21f51479&chksm=cf5655b1f821dca776ab19af8b477bdf590005606742dc4df30d34921b1b05608cb54cc4ba72&token=1053291757&lang=zh_CN#rd)
 
 ### 精通运维系列
@@ -171,6 +172,8 @@
 
 ### 程序人生
 
+* [很多小伙伴问我如何按分类查看「冰河技术」公号文章，往这儿瞧！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492619&idx=1&sn=cee7a99c29a19ddcc4dc7b00bf813fcf&chksm=cf56530af821da1c7e760521c24e238db37ad07b798eed804b91e134f6006b5a3d72b6d5e171&token=78679959&lang=zh_CN#rd)
+* [毕业五年，从月薪3000到年薪百万，我掌握了哪些核心技能？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492405&idx=1&sn=008cf51e22709b37f40c1f7e6b20be17&chksm=cf565434f821dd2281b97986f4fc59024524ed2338c64f9ba4352a363755e09ffe3929cc46d9&token=78679959&lang=zh_CN#rd)
 * [文章又被白嫖了，你说气不气？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492392&idx=1&sn=6a5449a08106ab03c7423fcff41cea1a&chksm=cf565429f821dd3f44d818b7452e3ac3bb5a756b673e168bb3a30839fd6fee07496f271357db&token=1053291757&lang=zh_CN#rd)
 * [清明节偷偷训练“熊猫烧香”，结果我的电脑为熊猫“献身了”！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492376&idx=1&sn=9df725eb8b40dbb85359dbc25f013e35&chksm=cf565419f821dd0f0195f17d2662cf8c72ec81c1c3e0fda8954a1e5c159e9230c8d1118eba3a&token=1053291757&lang=zh_CN#rd)
 * [千万不要轻易尝试“熊猫烧香”，这不，我后悔了！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492295&idx=1&sn=4d1a4407977febf2e8c2e234f42e1c30&chksm=cf5655c6f821dcd0eb1f6945217cb29a8ab89dd4aaeb507da173d2a94aae514c40c4185fad7e&token=1053291757&lang=zh_CN#rd)
