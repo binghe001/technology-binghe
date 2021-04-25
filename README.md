@@ -58,6 +58,7 @@
 
 ### 高并发专题
 
+* [刚研究完Callable和Future，各位随便问！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492717&idx=1&sn=14f9818c02884143e5a249a8eb6f541a&chksm=cf56536cf821da7a07e305e16938b0d754af05485498e68ba2b9c8adc711189eb56f3af50740&token=1574716246&lang=zh_CN#rd)
 * [这部电子书凭什么短短几个月全网累计下载突破16万？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492194&idx=1&sn=536d8ac9c4ab6f5bb45a156ccb671f90&chksm=cf565563f821dc75a6ed888a5bec1ab1c3371e67fe8154d7f03903bf14b3767d77337fcab505&token=1093611389&lang=zh_CN#rd)
 * [更正《深入理解高并发编程（第1版）》中的一处错误！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247491931&idx=1&sn=63c272ddb2e6fefe1beeec0a9a748722&chksm=cf56565af821df4ce5c03fe29daf83dd3dfb55a0f20355c2ec90a922d380b965a503dfb59b3f&token=1093611389&lang=zh_CN#rd)
 * [冰河写的这部《深入理解高并发编程》电子书全网已累计下载15W+！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247491329&idx=1&sn=fa306c598453149daf646655236f01ed&chksm=cf55a800f8222116c05cb7f8b2036842aa8951e65237a5b1e86d597e5ab3273613e29ee45b10&token=776659970&lang=zh_CN#rd)
@@ -85,6 +86,7 @@
 
 ### MySQL专题
 
+* [冰河视频聊架构：三分钟带你彻底掌握MySQL Undo Log和MVCC机制！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492818&idx=1&sn=f25ff876866929a84a2afc2464420fd1&chksm=cf5653d3f821dac563efbd2c97ed38b25872a7ce22056e31a023ff80ae8f4e64de08aeb84eb2&token=1574716246&lang=zh_CN#rd)
 * [一文搞懂select语句在MySQL中的执行流程！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492253&idx=1&sn=6b943ad940c8db578fc0259b09c3d853&chksm=cf56559cf821dc8a4cd8bf87db9c5f615183e2f6ca4e7e20e043403880d89a0d2ceff7e575cf&token=154776380&lang=zh_CN#rd)
 * [小伙伴们说要看MySQL体系架构的视频，我连夜整理出来了！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492240&idx=1&sn=98995b9dc5b749ad285139d6e45c3a4b&chksm=cf565591f821dc87d4143d70bc1a28c0bd503322de0288387c4725c93229210a895a7fbdd7e9&token=154776380&lang=zh_CN#rd)
 * [MySQL优化思路](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490929&idx=1&sn=e8d98d0c9c357f32719af064b230cfa2&chksm=cf55aa70f8222366eea0a124adc70c5c2092c6e528414297f4b8e17deb6f3ebde56603154b41&token=776659970&lang=zh_CN#rd)
@@ -94,6 +96,8 @@
 
 ### 程序员进阶系列
 
+* [如何将电脑上的“小电影”隐藏为一张图片？这波操作绝了！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492847&idx=1&sn=98b59658ed4e8240c3417fb4f9034b74&chksm=cf5653eef821daf864720d926ca846f6efe7d96ee92054254db00b88a74cd1310d92748fbb05&token=1574716246&lang=zh_CN#rd)
+* [2.5万字54张图爆肝计算机与操作系统基础！！（建议收藏](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492810&idx=1&sn=05adfc362125de1daedce9e20e476256&chksm=cf5653cbf821dadde9093e45b96c43291be0ee5e83e85525f1922c7f5c72e0e4b7528d8fa6dc&token=1574716246&lang=zh_CN#rd)
 * [Java中一个逐渐被遗忘的强大功能，强到你难以置信！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492241&idx=1&sn=e9473f721cb79e27196aac7b978f13b7&chksm=cf565590f821dc869c8fb7fe2d13a04a4c797e3874b09fa26120343e8f057bdd098d45974ac9&token=154776380&lang=zh_CN#rd)
 * [图解计算机中数据的表示形式](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490388&idx=1&sn=1805a62814452c598c567e65de274c67&chksm=cf55ac55f8222543d1506fb48dcc22c3d5be0a458e3b11a224fd98248e11f86d17468204fcfc&token=776659970&lang=zh_CN#rd)
 * [图解计算机中的数值范围和浮点数运算](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490432&idx=1&sn=12b644c45d8b5bbc1379426a7c9eeee9&chksm=cf55ac81f8222597307784843d90dfe2f1f2c6b6fd09328070509bd79aaa3fa36b85b42131f2&token=776659970&lang=zh_CN#rd)
