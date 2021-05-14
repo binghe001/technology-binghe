@@ -10,11 +10,11 @@
 
 ## 我出版的图书 
 
-### [《海量数据处理与大数据技术实战》](https://u.jd.com/qwEwSjF)
+### 《海量数据处理与大数据技术实战》
 
 ![](https://img-blog.csdnimg.cn/20200828011209412.png)  
 
-### [《MySQL技术大全：开发、优化与运维实战》](https://u.jd.com/qCAhBHC)
+### 《MySQL技术大全：开发、优化与运维实战》
 
 ![](https://img-blog.csdnimg.cn/20201203001148233.jpg)
 
