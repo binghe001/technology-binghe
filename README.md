@@ -10,11 +10,11 @@
 
 ## 我出版的图书 
 
-### 《海量数据处理与大数据技术实战》
+### [《海量数据处理与大数据技术实战》](https://u.jd.com/qwEwSjF)
 
 ![](https://img-blog.csdnimg.cn/20200828011209412.png)  
 
-### 《MySQL技术大全：开发、优化与运维实战》》
+### [《MySQL技术大全：开发、优化与运维实战》](https://u.jd.com/qCAhBHC)
 
 ![](https://img-blog.csdnimg.cn/20201203001148233.jpg)
 
@@ -58,6 +58,7 @@
 
 ### 高并发专题
 
+* [【漫画高并发】工作了3年的程序员小菜面试高并发岗位被吊打虐哭！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493121&idx=1&sn=cfc5676acd07a039c3716859479d9f46&chksm=cf565100f821d8168c2191fe6ab00590e657c96ad16727b708586c759dc568cae35065b2bd3b&token=1352513703&lang=zh_CN#rd)
 * [刚研究完Callable和Future，各位随便问！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492717&idx=1&sn=14f9818c02884143e5a249a8eb6f541a&chksm=cf56536cf821da7a07e305e16938b0d754af05485498e68ba2b9c8adc711189eb56f3af50740&token=1574716246&lang=zh_CN#rd)
 * [这部电子书凭什么短短几个月全网累计下载突破16万？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492194&idx=1&sn=536d8ac9c4ab6f5bb45a156ccb671f90&chksm=cf565563f821dc75a6ed888a5bec1ab1c3371e67fe8154d7f03903bf14b3767d77337fcab505&token=1093611389&lang=zh_CN#rd)
 * [更正《深入理解高并发编程（第1版）》中的一处错误！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247491931&idx=1&sn=63c272ddb2e6fefe1beeec0a9a748722&chksm=cf56565af821df4ce5c03fe29daf83dd3dfb55a0f20355c2ec90a922d380b965a503dfb59b3f&token=1093611389&lang=zh_CN#rd)
@@ -67,6 +68,9 @@
 
 ### 一起进大厂系列
 
+* [头条一面：Spring IOC容器中只存放单例Bean吗？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492924&idx=1&sn=39cf807fb5aa26b73d16cb490197a569&chksm=cf56523df821db2b665fa07c3c02c2c966dc25165c09cd555447597dae05ec4a20968d67e709&token=1352513703&lang=zh_CN#rd)
+* [热乎乎的面经：Spring中Scheduled和Async两种调度方式有啥区别？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492889&idx=1&sn=7b33ecf05cef968930399b46d147c193&chksm=cf565218f821db0ebd23154d38e689c44dd9f5bad3390f41036a3c0f4db1a52cb7644254fee6&token=1352513703&lang=zh_CN#rd)
+* [进大厂，到底需要掌握哪些核心技能？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492877&idx=1&sn=1624a1b0423de3857b28f852deae05f3&chksm=cf56520cf821db1a0ed3baa708f93c4f1d68d9f5d18507ac126bd1b9547e3418f56a31557712&token=1352513703&lang=zh_CN#rd)
 * [面试官：如果让你设计一个高并发的消息中间件，你会怎么做？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490267&idx=1&sn=2181dd10bc930f49b3bf5a44d62fcabc&chksm=cf55addaf82224cc42086018b6d77a8a17586ec414a324ec8473745150d60b7d1f14c626e2b8&token=776659970&lang=zh_CN#rd)
 * [同时拿到BATJMD的Offer是怎样的一种体验？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490503&idx=1&sn=3b2ad39a88ec09eeb1dc17d1ce259e7b&chksm=cf55acc6f82225d0cf074310020a2fc2d4ec85ebf44524bad96d2b239aa1fd11cc852c5f1353&token=776659970&lang=zh_CN#rd)
 * [即使技术再精，面试时一问这个必挂！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490521&idx=1&sn=da5bdb9e9079625a82cd843cbe4d136b&chksm=cf55acd8f82225ce9ef57ea0a2c7076eb267d65d02d703277cc254c35fa73e51d235544d7e2c&token=776659970&lang=zh_CN#rd)
@@ -86,6 +90,7 @@
 
 ### MySQL专题
 
+* [卧槽，安装完MySQL竟然提示数据表不存在！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492973&idx=1&sn=c397b6e5888bca04466843fdc2791b70&chksm=cf56526cf821db7a5b96ea223fe095fb44997d6f3f1c7e42a6d1396f7bcb62e4f2a39abd85b8&token=1352513703&lang=zh_CN#rd)
 * [冰河视频聊架构：三分钟带你彻底掌握MySQL Undo Log和MVCC机制！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492818&idx=1&sn=f25ff876866929a84a2afc2464420fd1&chksm=cf5653d3f821dac563efbd2c97ed38b25872a7ce22056e31a023ff80ae8f4e64de08aeb84eb2&token=1574716246&lang=zh_CN#rd)
 * [一文搞懂select语句在MySQL中的执行流程！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492253&idx=1&sn=6b943ad940c8db578fc0259b09c3d853&chksm=cf56559cf821dc8a4cd8bf87db9c5f615183e2f6ca4e7e20e043403880d89a0d2ceff7e575cf&token=154776380&lang=zh_CN#rd)
 * [小伙伴们说要看MySQL体系架构的视频，我连夜整理出来了！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492240&idx=1&sn=98995b9dc5b749ad285139d6e45c3a4b&chksm=cf565591f821dc87d4143d70bc1a28c0bd503322de0288387c4725c93229210a895a7fbdd7e9&token=154776380&lang=zh_CN#rd)
@@ -96,6 +101,7 @@
 
 ### 程序员进阶系列
 
+* [三天撸了个中国象棋！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493007&idx=1&sn=09fd7170d10c33970838e9e82fd0dba6&chksm=cf56528ef821db988e4796f16ccf02de3a905f0d124b1c3bfa2f92d081eb3071c3c863c2427b&token=1352513703&lang=zh_CN#rd)
 * [如何将电脑上的“小电影”隐藏为一张图片？这波操作绝了！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492847&idx=1&sn=98b59658ed4e8240c3417fb4f9034b74&chksm=cf5653eef821daf864720d926ca846f6efe7d96ee92054254db00b88a74cd1310d92748fbb05&token=1574716246&lang=zh_CN#rd)
 * [2.5万字54张图爆肝计算机与操作系统基础！！（建议收藏](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492810&idx=1&sn=05adfc362125de1daedce9e20e476256&chksm=cf5653cbf821dadde9093e45b96c43291be0ee5e83e85525f1922c7f5c72e0e4b7528d8fa6dc&token=1574716246&lang=zh_CN#rd)
 * [Java中一个逐渐被遗忘的强大功能，强到你难以置信！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492241&idx=1&sn=e9473f721cb79e27196aac7b978f13b7&chksm=cf565590f821dc869c8fb7fe2d13a04a4c797e3874b09fa26120343e8f057bdd098d45974ac9&token=154776380&lang=zh_CN#rd)
@@ -109,6 +115,11 @@
 * [程序员心中的一道坎：主存的编址与计算和串并联系统！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490610&idx=1&sn=62ab9e5f3916d52ee4e6c1ddb56eb7a4&chksm=cf55ab33f82222254990d42b81ecd3c03d5e1636926f3347c409ab983e4dd6a95d8a2381b4dc&token=776659970&lang=zh_CN#rd)
 * [冰河公开了其总结的一项重要的编程技能！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490847&idx=1&sn=5647a499f0188e1355ee4d722825e2e1&chksm=cf55aa1ef822230830bdbafcdfa23ae9536dfd0999949ffd582be8300baeb5c83b20cb0d8800&token=776659970&lang=zh_CN#rd)
 * [项目中数据库密码没有加密导致了数据泄露！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490951&idx=1&sn=c5a62f4355ca8c5dbced5f8da2cdae1f&chksm=cf55aa86f8222390ed02e43ce3f4330e712916eeccb37a051d4e5c42d6c0f2f217bfe0ae2ef5&token=776659970&lang=zh_CN#rd)
+
+### 云原生专题
+
+* [五一假期服务器“裂开”了！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493038&idx=1&sn=c69480fdb44a638109fb59c78e9499db&chksm=cf5652aff821dbb9bbd332ba95d44fdbada2d766b1ce5b0b58a0fae556ceeaa7007028f5be9d&token=1352513703&lang=zh_CN#rd)
+* [这次不鸽了，五一假期冰河为你整理了这些Dockerfile基础知识，拿走不谢！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492988&idx=1&sn=c6576dda9fc329b374093b18215cdbd9&chksm=cf56527df821db6bd9a4042f32c81380d8d465edd5feffcdb2b3fc4a63ac40d1ab389f013daa&token=1352513703&lang=zh_CN#rd)
 
 ### 中间件专题
 
@@ -163,6 +174,7 @@
 
 ### 计算机网路
 
+* [当年我凭啥能拿下月薪40K的信息安全职位？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493053&idx=1&sn=8c372106b7d569563817624a2b01ad62&chksm=cf5652bcf821dbaa6249c17ce127fcfcfd77942aa1b27d266860e009055c98d7fc06786b2be5&token=1352513703&lang=zh_CN#rd)
 * [万字长文带你图解计算机网络（超全）！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490922&idx=1&sn=52b2aafed859e5ac14db6115e3e1a7fe&chksm=cf55aa6bf822237d95b0e9409c5f3b517fb06db8206dd001524c38e506048b07c2fefb0d195f&token=776659970&lang=zh_CN#rd)
 
 ### 深度思考
@@ -176,6 +188,10 @@
 
 ### 程序人生
 
+* [冰河常逛这些学习网站！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493087&idx=1&sn=1c9a619471364701e059003ddb28d8ca&chksm=cf5652def821dbc8a193344c20a0d133926c7e765a565d9d4aef2ed5b37d184ee3d816877eef&token=1352513703&lang=zh_CN#rd)
+* [冰河这一个月都干啥啦？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493060&idx=1&sn=26c1ab30fe5dd021fc5f6e831694bceb&chksm=cf5652c5f821dbd3e8a415fa4e70f0b83dbff00bea9af5639c1244b78355956090522f6f119c&token=1352513703&lang=zh_CN#rd)
+* [五一假期偷偷学这些内容，然后惊艳所有人！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492954&idx=1&sn=b824f9fa6eb1e1c1683596458e4b9aba&chksm=cf56525bf821db4d2cf6ab008e20f8147c760bd70e41aca990c3b32a402ff3aedaf2c933fc82&token=1352513703&lang=zh_CN#rd)
+* [听说Seata发布新版本了？不慌，五一假期吃透它！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492935&idx=1&sn=ab7dbf10265ccd35cc0483c3adb70b47&chksm=cf565246f821db50a805dd563849cd767656ec7e26405b9e857632ff2df5171aa39654a09a85&token=1352513703&lang=zh_CN#rd)
 * [很多小伙伴问我如何按分类查看「冰河技术」公号文章，往这儿瞧！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492619&idx=1&sn=cee7a99c29a19ddcc4dc7b00bf813fcf&chksm=cf56530af821da1c7e760521c24e238db37ad07b798eed804b91e134f6006b5a3d72b6d5e171&token=78679959&lang=zh_CN#rd)
 * [毕业五年，从月薪3000到年薪百万，我掌握了哪些核心技能？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492405&idx=1&sn=008cf51e22709b37f40c1f7e6b20be17&chksm=cf565434f821dd2281b97986f4fc59024524ed2338c64f9ba4352a363755e09ffe3929cc46d9&token=78679959&lang=zh_CN#rd)
 * [文章又被白嫖了，你说气不气？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492392&idx=1&sn=6a5449a08106ab03c7423fcff41cea1a&chksm=cf565429f821dd3f44d818b7452e3ac3bb5a756b673e168bb3a30839fd6fee07496f271357db&token=1053291757&lang=zh_CN#rd)
