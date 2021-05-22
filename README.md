@@ -58,6 +58,7 @@
 
 ### 高并发专题
 
+* [除了技术，互联网大厂更看重这些基础能力！！（建议收藏）](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493259&idx=1&sn=2e17273ac15d8ca1f341303f46e4d438&chksm=cf56518af821d89c0b0ba592d405a23191eea804328d44250872a50e992e3c2d390a0e36b779&token=447597716&lang=zh_CN#rd)
 * [【漫画高并发】工作了3年的程序员小菜面试高并发岗位被吊打虐哭！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493121&idx=1&sn=cfc5676acd07a039c3716859479d9f46&chksm=cf565100f821d8168c2191fe6ab00590e657c96ad16727b708586c759dc568cae35065b2bd3b&token=1352513703&lang=zh_CN#rd)
 * [刚研究完Callable和Future，各位随便问！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492717&idx=1&sn=14f9818c02884143e5a249a8eb6f541a&chksm=cf56536cf821da7a07e305e16938b0d754af05485498e68ba2b9c8adc711189eb56f3af50740&token=1574716246&lang=zh_CN#rd)
 * [这部电子书凭什么短短几个月全网累计下载突破16万？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492194&idx=1&sn=536d8ac9c4ab6f5bb45a156ccb671f90&chksm=cf565563f821dc75a6ed888a5bec1ab1c3371e67fe8154d7f03903bf14b3767d77337fcab505&token=1093611389&lang=zh_CN#rd)
@@ -79,6 +80,10 @@
 * [冰河公开了进大厂必备的核心技能，服了！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490771&idx=1&sn=7a8870e3118117d5ae50b5fe94eda0a4&chksm=cf55abd2f82222c435213ee8d3865a44fcbe6c548a38db2f4c45620afd5ecf0a2cc22f02532d&token=776659970&lang=zh_CN#rd)
 * [金三银四，冰河为你整理了这份20万字134页的面试圣经！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490906&idx=1&sn=c01aec12b225f9e0e69cba2c73b5e842&chksm=cf55aa5bf822234dcc319e42b803250bfd5ebb2d2b7db951b2409638252533c1d7cd1ae0416f&token=776659970&lang=zh_CN#rd)
 
+### 精通渗透系列
+
+* [《冰河的渗透实战笔记》电子书正式发布！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493194&idx=1&sn=62e3c40b2cf963c1a0b0bc531465249c&chksm=cf56514bf821d85d5f56f437de1911724b89efc324e334fb26c5e0b7fc1ea82f99a0da289ba8&token=447597716&lang=zh_CN#rd)
+
 ### 精通大数据系列
 
 * [极简介绍Zookeeper，我想跟你聊这些！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492408&idx=1&sn=e5d8a1d3e8d4d28f836c11d631b66667&chksm=cf565439f821dd2fa002c09af2c2909e91dcf0e1917ca74e4bcf221530d99f246ec49bcaf5cb&token=78679959&lang=zh_CN#rd)
@@ -86,6 +91,7 @@
 
 ### 精通运维系列
 
+* [在服务器命令行输入rm -rf /* 究竟会发生什么？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493167&idx=1&sn=0bb0055b6705becf7904bd5fd347a67f&chksm=cf56512ef821d83865cd13a5bbbdc5efba101c84d59aecbee6df0d0651d161e7c47b9163620e&token=447597716&lang=zh_CN#rd)
 * [我写了一个脚本，可在“任意”服务器上执行命令！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492340&idx=1&sn=35464589fc36bf80e09231d5f08d351b&chksm=cf5655f5f821dce3015bc74fa28f55e2dac08fa3a24e4ce3a99eaebc28b3ad115371b35ba5ae&token=1053291757&lang=zh_CN#rd)
 
 ### MySQL专题
@@ -101,6 +107,7 @@
 
 ### 程序员进阶系列
 
+* [如何做到每天比别人少写200行代码？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493363&idx=1&sn=f7106317aa3cd53d0f87792e618f3239&chksm=cf5651f2f821d8e4d413c4897faa7241e635a22cdbd627657c4dd49346580a9687ca90a20f26&token=447597716&lang=zh_CN#rd)
 * [三天撸了个中国象棋！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493007&idx=1&sn=09fd7170d10c33970838e9e82fd0dba6&chksm=cf56528ef821db988e4796f16ccf02de3a905f0d124b1c3bfa2f92d081eb3071c3c863c2427b&token=1352513703&lang=zh_CN#rd)
 * [如何将电脑上的“小电影”隐藏为一张图片？这波操作绝了！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492847&idx=1&sn=98b59658ed4e8240c3417fb4f9034b74&chksm=cf5653eef821daf864720d926ca846f6efe7d96ee92054254db00b88a74cd1310d92748fbb05&token=1574716246&lang=zh_CN#rd)
 * [2.5万字54张图爆肝计算机与操作系统基础！！（建议收藏](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492810&idx=1&sn=05adfc362125de1daedce9e20e476256&chksm=cf5653cbf821dadde9093e45b96c43291be0ee5e83e85525f1922c7f5c72e0e4b7528d8fa6dc&token=1574716246&lang=zh_CN#rd)
@@ -188,6 +195,7 @@
 
 ### 程序人生
 
+* [冰河创作《深入理解高并发编程》的幕后故事！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493250&idx=1&sn=f07e7e632730995f864c38f79174a235&chksm=cf565183f821d895ad6f09d8a1bbc192f8a19f6f1d4768f2b3b272252c22ca1c85bc7d2a7684&token=447597716&lang=zh_CN#rd)
 * [冰河常逛这些学习网站！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493087&idx=1&sn=1c9a619471364701e059003ddb28d8ca&chksm=cf5652def821dbc8a193344c20a0d133926c7e765a565d9d4aef2ed5b37d184ee3d816877eef&token=1352513703&lang=zh_CN#rd)
 * [冰河这一个月都干啥啦？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493060&idx=1&sn=26c1ab30fe5dd021fc5f6e831694bceb&chksm=cf5652c5f821dbd3e8a415fa4e70f0b83dbff00bea9af5639c1244b78355956090522f6f119c&token=1352513703&lang=zh_CN#rd)
 * [五一假期偷偷学这些内容，然后惊艳所有人！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492954&idx=1&sn=b824f9fa6eb1e1c1683596458e4b9aba&chksm=cf56525bf821db4d2cf6ab008e20f8147c760bd70e41aca990c3b32a402ff3aedaf2c933fc82&token=1352513703&lang=zh_CN#rd)
