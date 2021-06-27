@@ -28,33 +28,28 @@
 
 关注 **冰河技术** 微信公众号：  
 
-回复 “**并发编程**” 领取《深入理解高并发编程（第1版）》PDF文档。  
+回复 “**并发编程**” 领取《深入理解高并发编程（第1版）》PDF电子书。   
 
-回复 “**并发源码**” 领取《并发编程核心知识（源码分析篇 第1版）》PDF文档。  
+回复 “**并发源码**” 领取《并发编程核心知识（源码分析篇 第1版）》PDF电子书。  
 
-回复 “**我要进大厂**” 领取《我要进大厂系列之面试圣经（第1版）》PDF文档。
+回复 “**渗透笔记**” 领取《冰河的渗透实战笔记》PDF电子书。  
 
-回复 ”**限流**“ 领取《亿级流量下的分布式解决方案》PDF文档。  
+回复 “**我要进大厂**” 领取《我要进大厂系列之面试圣经（第1版）》PDF电子书。  
 
-回复 “**设计模式**” 领取《深入浅出Java23种设计模式》PDF文档。  
+回复 ”**限流**“ 领取《亿级流量下的分布式解决方案》PDF电子书。  
 
-回复 “**Java8新特性**” 领取 《Java8新特性教程》PDF文档。  
+回复 “**设计模式**” 领取《深入浅出Java23种设计模式》PDF电子书。  
 
-回复 “**分布式存储**” 领取《跟冰河学习分布式存储技术》 PDF文档。  
+回复 “**Java8新特性**” 领取 《Java8新特性教程》PDF电子书。    
 
-回复 “**Nginx**” 领取《跟冰河学习Nginx技术》PDF文档。  
+回复 “**分布式存储**” 领取《跟冰河学习分布式存储技术》 PDF电子书。  
 
-回复 “**互联网工程**” 领取《跟冰河学习互联网工程技术》PDF文档。  
+回复 “**Nginx**” 领取《跟冰河学习Nginx技术》PDF电子书。  
+
+回复 “**互联网工程**” 领取《跟冰河学习互联网工程技术》PDF电子书。  
 
 ## 2021内容汇总
 
-### 视频系列
-
-* [2分钟完美手动安装Docker环境！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247491959&idx=1&sn=37f033cc90378390d140f12de03c1ad8&chksm=cf565676f821df6033b4bd1632f93ee1ed7564a2ff473dacd0b76f1e594bed5e0bd2b963ec92&token=1093611389&lang=zh_CN#rd)
-* [春节喜气洋洋，小区给大家发红包，我也沾沾喜气！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490755&idx=1&sn=a57491f87164366ada53577f4218078f&chksm=cf55abc2f82222d406c09d4f881d8f83ff9e78db364cf770f1633e69baa00e937be7830fce9c&token=776659970&lang=zh_CN#rd)
-* [AI正在深刻改变人们的生活！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490768&idx=1&sn=932d696c84b4d30358a7c4a6696dcd30&chksm=cf55abd1f82222c7c2763207783d80b06da060dc6c8babb77838bdd02565bf88c8c057f64a86&token=776659970&lang=zh_CN#rd)
-* [冰河假期去哪啦？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489644&idx=1&sn=f77943df3a6f2cc33974f83d7f536627&chksm=cf55af6df822267bbe9ed604c59db4cd71b004c489bc58d7441b3066455450ce5b066113186a&token=776659970&lang=zh_CN#rd)
-* [在服务器命令行输入 rm -rf /* 到底会发生什么？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490883&idx=1&sn=f90d57b6cb74e138b56106df10b597b9&chksm=cf55aa42f8222354e09e0fed24762d7e29f9965d5fa01412c6fa23924a54f65f061afedcfbac&token=776659970&lang=zh_CN#rd)
 
 ### 高并发专题
 
@@ -82,6 +77,7 @@
 
 ### 精通渗透系列
 
+* [卧槽，冰河又写了一本电子书！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247494015&idx=1&sn=b4e5c7fb01d6c6619e027a4546b72df2&chksm=cf565e7ef821d768ea6fd3bf3b9369df8934358838c9b12a662ad57c335ef8d5c6ce3b4ae690&token=1929495520&lang=zh_CN#rd)
 * [《冰河的渗透实战笔记》电子书正式发布！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493194&idx=1&sn=62e3c40b2cf963c1a0b0bc531465249c&chksm=cf56514bf821d85d5f56f437de1911724b89efc324e334fb26c5e0b7fc1ea82f99a0da289ba8&token=447597716&lang=zh_CN#rd)
 
 ### 精通大数据系列
@@ -107,6 +103,8 @@
 
 ### 程序员进阶系列
 
+* [10分钟搞懂各种内存溢出案例！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493602&idx=1&sn=abd5849009a189c31a6634e28bd4011f&chksm=cf5650e3f821d9f5cef8c4e743615e00fd969fadd303e5c6895b2963a1ca623fd38b37ea0fcc&token=1929495520&lang=zh_CN#rd)
+* [半小时实现Java手撸Http协议，爽！（含完整源码）](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493570&idx=1&sn=6f2d69a8d25cf08f972085782eb4391a&chksm=cf5650c3f821d9d5a548350be94cd8b3236548fcf47be338f28d431a0f77efcf1a51aadb0729&token=1929495520&lang=zh_CN#rd)
 * [如何做到每天比别人少写200行代码？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493363&idx=1&sn=f7106317aa3cd53d0f87792e618f3239&chksm=cf5651f2f821d8e4d413c4897faa7241e635a22cdbd627657c4dd49346580a9687ca90a20f26&token=447597716&lang=zh_CN#rd)
 * [三天撸了个中国象棋！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493007&idx=1&sn=09fd7170d10c33970838e9e82fd0dba6&chksm=cf56528ef821db988e4796f16ccf02de3a905f0d124b1c3bfa2f92d081eb3071c3c863c2427b&token=1352513703&lang=zh_CN#rd)
 * [如何将电脑上的“小电影”隐藏为一张图片？这波操作绝了！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492847&idx=1&sn=98b59658ed4e8240c3417fb4f9034b74&chksm=cf5653eef821daf864720d926ca846f6efe7d96ee92054254db00b88a74cd1310d92748fbb05&token=1574716246&lang=zh_CN#rd)
@@ -135,6 +133,7 @@
 
 ### 分布式缓存系列
 
+* [超强Redis数据类型与应用场景总结！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493921&idx=1&sn=f1182dab854b9510298a352ed4be1b3e&chksm=cf565e20f821d736248b076d8708ef7ade53056b954ba164abfac8a4cdd617b12629bd5b8a14&token=1929495520&lang=zh_CN#rd)
 * [到底是先更新数据库还是先更新缓存？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247491950&idx=1&sn=91f2fb8e87967c780b91772fb8f39df9&chksm=cf56566ff821df793e162510f97580e970eb84c1a39426febd920246edbdf721b5f35ab339c4&token=1093611389&lang=zh_CN#rd)
 
 ### 分布式存储
@@ -146,6 +145,7 @@
 
 ### 微服务专题
 
+* [系统由单体架构到微服务架构到底是如何演进的？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493667&idx=1&sn=2e0d21381a3f34d312c8a605e9144f4e&chksm=cf565f22f821d634243681ce40d19d396452b0156ebfe99c812c2d363d885511e3e9343d4e7f&token=1929495520&lang=zh_CN#rd)
 * [一个很多人不知道的SpringBoot小技能！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247491991&idx=1&sn=d4447165cfb7be4237d3cf439075a36e&chksm=cf565696f821df80c766f6f5af0803d492c24527f0bffd6a4028cac4a150e216e79b19ffe1e7&token=1093611389&lang=zh_CN#rd)
 * [冰河公开了这份4万字的SpringCloud与SpringCloudAlibaba学习笔记！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490745&idx=1&sn=fb3cc2c3e94eec9e4dd4d5d3a33d8ffb&chksm=cf55abb8f82222aec0d694cb3e1a4f503d072e55a2cd6f35e2de1dee56c17f6cc92876cfe6e5&token=776659970&lang=zh_CN#rd)
 
@@ -177,10 +177,12 @@
 
 ### MyBatis源码系列
 
+* [三天撸完了MyBatis，各位随便问！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247494053&idx=1&sn=643c4fcd2502d54a4c90d25dfb600f43&chksm=cf565ea4f821d7b27672a7ebc1c3350ad9bffa3b10677856399236094efa64835f5ab754c2b6&token=1929495520&lang=zh_CN#rd)
 * [三万字带你彻底吃透MyBatis源码！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489777&idx=1&sn=470f2d8277fe7d23c12a99de7953bef1&chksm=cf55aff0f82226e61991ebcab6c31adf28d3f86606937fcb6528dfae2e302eae0bc9fca7c18c&token=776659970&lang=zh_CN#rd)
 
 ### 计算机网路
 
+* [卧槽，VPN又断开了！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493964&idx=1&sn=25dd1e214ed00e2503bfe32aa91dd4d1&chksm=cf565e4df821d75b5976b0f0b4df1e6e8511851a6a4ccebcbc1251310171fef282c8bcdf7291&token=1929495520&lang=zh_CN#rd)
 * [当年我凭啥能拿下月薪40K的信息安全职位？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493053&idx=1&sn=8c372106b7d569563817624a2b01ad62&chksm=cf5652bcf821dbaa6249c17ce127fcfcfd77942aa1b27d266860e009055c98d7fc06786b2be5&token=1352513703&lang=zh_CN#rd)
 * [万字长文带你图解计算机网络（超全）！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490922&idx=1&sn=52b2aafed859e5ac14db6115e3e1a7fe&chksm=cf55aa6bf822237d95b0e9409c5f3b517fb06db8206dd001524c38e506048b07c2fefb0d195f&token=776659970&lang=zh_CN#rd)
 
@@ -195,6 +197,10 @@
 
 ### 程序人生
 
+* [生病了！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493983&idx=1&sn=401faebd5873ef02f8a5958121b04024&chksm=cf565e5ef821d74836c7458c62b67dbf714961f9fe07834825f0e037bf12873612b9f979a2c6&token=1929495520&lang=zh_CN#rd)
+* [想做一个平台，整合所有医院的资源！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493673&idx=1&sn=799ce630997d008c28517f302aa02417&chksm=cf565f28f821d63efeaa1431aacb9dbd0944dff2ebf4f7e02b5897c94f7f590a9be9ae4086be&token=1929495520&lang=zh_CN#rd)
+* [生病了，希望能早日康复！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493670&idx=1&sn=d07941b87378938d00c9d686ade7944a&chksm=cf565f27f821d63176bfc4103c8c7657c9400773325a9e54392e9959de51c319020599b7578e&token=1929495520&lang=zh_CN#rd)
+* [这本MySQL图书再次加印1万册！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493585&idx=1&sn=93ef5010dcf9ad9ee77b12be947e25a0&chksm=cf5650d0f821d9c65f5b0bd8c33096f0bd4ebb10667d9da31cbbd04d6f9bf4eb33592ec70e49&token=1929495520&lang=zh_CN#rd)
 * [冰河创作《深入理解高并发编程》的幕后故事！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493250&idx=1&sn=f07e7e632730995f864c38f79174a235&chksm=cf565183f821d895ad6f09d8a1bbc192f8a19f6f1d4768f2b3b272252c22ca1c85bc7d2a7684&token=447597716&lang=zh_CN#rd)
 * [冰河常逛这些学习网站！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493087&idx=1&sn=1c9a619471364701e059003ddb28d8ca&chksm=cf5652def821dbc8a193344c20a0d133926c7e765a565d9d4aef2ed5b37d184ee3d816877eef&token=1352513703&lang=zh_CN#rd)
 * [冰河这一个月都干啥啦？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493060&idx=1&sn=26c1ab30fe5dd021fc5f6e831694bceb&chksm=cf5652c5f821dbd3e8a415fa4e70f0b83dbff00bea9af5639c1244b78355956090522f6f119c&token=1352513703&lang=zh_CN#rd)
@@ -217,6 +223,19 @@
 * [团年啦](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490753&idx=1&sn=0bbe4a255b687f88a5579635274e920a&chksm=cf55abc0f82222d6e56e724be444d354a6e6a4096b3c02bcf955d3d07e7595ad942db396496b&token=776659970&lang=zh_CN#rd)
 * [假期无聊冰河开发了一款国民级游戏！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490774&idx=1&sn=29f0db1cd78da44aa9e3b5c31a7d0b0a&chksm=cf55abd7f82222c1fa4a8637d1d789ddcafcac61ce789d249904cadac2d025c4b9ffdaa50829&token=776659970&lang=zh_CN#rd)
 * [过完年，该减肥了（说的不是我）！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490777&idx=1&sn=28665e6a5c1624e4d951f047b4839259&chksm=cf55abd8f82222ce7cb2ea80817d97c6312df955fa01fe5b9fe2e3d316a0f19603235b09118d&token=776659970&lang=zh_CN#rd)
+
+### 视频系列
+
+* [2分钟完美安装Docker，学不会你捶我！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247494076&idx=1&sn=2502fc281ef2b42e7aca42ddfd72136b&chksm=cf565ebdf821d7abaa5079600af6f60d1223eec4d9375b634bdee59574381ac97591ef5d7fbc&token=1929495520&lang=zh_CN#rd)
+* [冰河开始“拍片儿”了？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247494009&idx=1&sn=e401cf9a39ce8106df0a6d6cef701f6f&chksm=cf565e78f821d76ee8f32204cb7681d90410ab2c8962e5f0299b23d222d0a45e80f11ab14b48&token=1929495520&lang=zh_CN#rd)
+* [看病排队大半天，诊断2分钟！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493675&idx=1&sn=de33bb8ab2029a992f398af154760264&chksm=cf565f2af821d63ce322648dcf74baeb8b9c8f9bad20cbbe78ef6c153abcb86e12b78544fcd4&token=1929495520&lang=zh_CN#rd)
+* [2分钟完美手动安装Docker环境！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247491959&idx=1&sn=37f033cc90378390d140f12de03c1ad8&chksm=cf565676f821df6033b4bd1632f93ee1ed7564a2ff473dacd0b76f1e594bed5e0bd2b963ec92&token=1093611389&lang=zh_CN#rd)
+* [春节喜气洋洋，小区给大家发红包，我也沾沾喜气！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490755&idx=1&sn=a57491f87164366ada53577f4218078f&chksm=cf55abc2f82222d406c09d4f881d8f83ff9e78db364cf770f1633e69baa00e937be7830fce9c&token=776659970&lang=zh_CN#rd)
+* [AI正在深刻改变人们的生活！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490768&idx=1&sn=932d696c84b4d30358a7c4a6696dcd30&chksm=cf55abd1f82222c7c2763207783d80b06da060dc6c8babb77838bdd02565bf88c8c057f64a86&token=776659970&lang=zh_CN#rd)
+* [冰河假期去哪啦？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489644&idx=1&sn=f77943df3a6f2cc33974f83d7f536627&chksm=cf55af6df822267bbe9ed604c59db4cd71b004c489bc58d7441b3066455450ce5b066113186a&token=776659970&lang=zh_CN#rd)
+* [在服务器命令行输入 rm -rf /* 到底会发生什么？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490883&idx=1&sn=f90d57b6cb74e138b56106df10b597b9&chksm=cf55aa42f8222354e09e0fed24762d7e29f9965d5fa01412c6fa23924a54f65f061afedcfbac&token=776659970&lang=zh_CN#rd)
+
+
 
 ## 2020内容汇总
 
