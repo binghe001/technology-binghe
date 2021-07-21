@@ -51,8 +51,9 @@
 ## 2021内容汇总
 
 
-### 高并发专题
+### 精通高并发系列
 
+* [StampedLock，一种比读写锁更快的锁！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247494645&idx=1&sn=e56f8780f857415464618b5b8546d28b&chksm=cf565cf4f821d5e21e1d91c0096680e2a6a437d51454298fd1c7a6c0d650774e8c89fda544cd&token=1772864567&lang=zh_CN#rd)
 * [除了技术，互联网大厂更看重这些基础能力！！（建议收藏）](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493259&idx=1&sn=2e17273ac15d8ca1f341303f46e4d438&chksm=cf56518af821d89c0b0ba592d405a23191eea804328d44250872a50e992e3c2d390a0e36b779&token=447597716&lang=zh_CN#rd)
 * [【漫画高并发】工作了3年的程序员小菜面试高并发岗位被吊打虐哭！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493121&idx=1&sn=cfc5676acd07a039c3716859479d9f46&chksm=cf565100f821d8168c2191fe6ab00590e657c96ad16727b708586c759dc568cae35065b2bd3b&token=1352513703&lang=zh_CN#rd)
 * [刚研究完Callable和Future，各位随便问！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492717&idx=1&sn=14f9818c02884143e5a249a8eb6f541a&chksm=cf56536cf821da7a07e305e16938b0d754af05485498e68ba2b9c8adc711189eb56f3af50740&token=1574716246&lang=zh_CN#rd)
@@ -77,6 +78,7 @@
 
 ### 精通渗透系列
 
+* [黑客常用SQL注入绕过技术总结！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247494362&idx=1&sn=dcc2b6e9722afac2963929800578bbc3&chksm=cf565ddbf821d4cdc5551c60dadbd1ee87facb24844eaa994eb58a87e31477fe56a8c133bc74&token=1772864567&lang=zh_CN#rd)
 * [卧槽，冰河又写了一本电子书！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247494015&idx=1&sn=b4e5c7fb01d6c6619e027a4546b72df2&chksm=cf565e7ef821d768ea6fd3bf3b9369df8934358838c9b12a662ad57c335ef8d5c6ce3b4ae690&token=1929495520&lang=zh_CN#rd)
 * [《冰河的渗透实战笔记》电子书正式发布！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493194&idx=1&sn=62e3c40b2cf963c1a0b0bc531465249c&chksm=cf56514bf821d85d5f56f437de1911724b89efc324e334fb26c5e0b7fc1ea82f99a0da289ba8&token=447597716&lang=zh_CN#rd)
 
@@ -103,6 +105,11 @@
 
 ### 程序员进阶系列
 
+* [被SpringBoot整合OpenFeign坑惨了！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247494602&idx=1&sn=1de5a61612a2679a893d1c52b729a1a7&chksm=cf565ccbf821d5dd1d14915d29100bcb9025b7fd8bbaa81d1c548a219d9af16947dc44c48606&token=1772864567&lang=zh_CN#rd)
+* [撸完Dubbo源码，我总结了这些阅读源码的技巧！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247494573&idx=1&sn=67e0016827b3a339c8cec216b8c4f7f7&chksm=cf565cacf821d5ba142a6f557203ac37cdae979ce1df14be78a42128ca9b268ff10cb5e0298b&token=1772864567&lang=zh_CN#rd)
+* [写了个工具，完美破解了MySQL！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247494142&idx=1&sn=5692a8facd99a0907358073a96381c3c&chksm=cf565efff821d7e9f8dcb276e7b75a2589a90e64bbe3345f8261e727db3a4b5903a48656509b&token=1772864567&lang=zh_CN#rd)
+* [写了个爬虫！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247494101&idx=1&sn=e0649b642bd43a91610907aa0cb9a524&chksm=cf565ed4f821d7c2a2b1811f2787525ee6e1ae0a90edd705ab4ca5d306064e814d9746368f6a&token=1772864567&lang=zh_CN#rd)
+* [发现一个超硬核学习宝藏！爱了！爱了！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247494087&idx=1&sn=3b3eee339ed21367476cd87bcf817467&chksm=cf565ec6f821d7d06824631c00f788205a685789065202800080eced0dea3d80b2492e559e38&token=1772864567&lang=zh_CN#rd)
 * [10分钟搞懂各种内存溢出案例！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493602&idx=1&sn=abd5849009a189c31a6634e28bd4011f&chksm=cf5650e3f821d9f5cef8c4e743615e00fd969fadd303e5c6895b2963a1ca623fd38b37ea0fcc&token=1929495520&lang=zh_CN#rd)
 * [半小时实现Java手撸Http协议，爽！（含完整源码）](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493570&idx=1&sn=6f2d69a8d25cf08f972085782eb4391a&chksm=cf5650c3f821d9d5a548350be94cd8b3236548fcf47be338f28d431a0f77efcf1a51aadb0729&token=1929495520&lang=zh_CN#rd)
 * [如何做到每天比别人少写200行代码？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493363&idx=1&sn=f7106317aa3cd53d0f87792e618f3239&chksm=cf5651f2f821d8e4d413c4897faa7241e635a22cdbd627657c4dd49346580a9687ca90a20f26&token=447597716&lang=zh_CN#rd)
@@ -166,6 +173,7 @@
 
 ### Kafka系列
 
+* [搞懂Kafka的这个问题，你离大厂就不远了！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247494670&idx=1&sn=8012de632d04b38bb70064baeb6c07ec&chksm=cf565b0ff821d219055d25f41c85d11ad4edcbb25250840f95ae68ad2c4d4d8b6c7cafcf8d4d&token=1772864567&lang=zh_CN#rd)
 * [Kafka又出问题了！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247491002&idx=1&sn=1079a5e6ad9bc4cc8415d1b0c6b05083&chksm=cf55aabbf82223ad91dd208261d09301b1f5ddd165049299577a55c13161c6c431076256bf7b&token=776659970&lang=zh_CN#rd)
 
 ### Dubbo系列
@@ -197,6 +205,10 @@
 
 ### 程序人生
 
+* [冰河裸考竟然过了！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247494619&idx=1&sn=0c8a69516ecb86480d7c8f5b1e45bfa7&chksm=cf565cdaf821d5ccd5f048524f8d2d18e48edba2de61ee56aa3ac9a0afa6247a68599992aac6&token=1772864567&lang=zh_CN#rd)
+* [我在清华大学看到了自己出版的图书！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247494563&idx=1&sn=e4b23e47fbe128d77a0efe63f0dfe052&chksm=cf565ca2f821d5b4e49a940e839349efe76ca6c3ab50a8f9827d3c487923a1f2769cfc82ff50&token=1772864567&lang=zh_CN#rd)
+* [冰河上百度百科了！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247494544&idx=1&sn=872111e8ad2fb4240f7502e8211a72f4&chksm=cf565c91f821d587c3d683ce7c148987acc73aebe716e34195fab18fe6b1e9c15a2929066e13&token=1772864567&lang=zh_CN#rd)
+* [在图书馆看到自己出版的图书是一种怎样的体验？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247494279&idx=1&sn=27fb28e4f62427a4d5f35b064419d9aa&chksm=cf565d86f821d4907c2deb2adaf7927736e0d515b74897253d58b8849870c2e7de34381fa09c&token=1772864567&lang=zh_CN#rd)
 * [生病了！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493983&idx=1&sn=401faebd5873ef02f8a5958121b04024&chksm=cf565e5ef821d74836c7458c62b67dbf714961f9fe07834825f0e037bf12873612b9f979a2c6&token=1929495520&lang=zh_CN#rd)
 * [想做一个平台，整合所有医院的资源！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493673&idx=1&sn=799ce630997d008c28517f302aa02417&chksm=cf565f28f821d63efeaa1431aacb9dbd0944dff2ebf4f7e02b5897c94f7f590a9be9ae4086be&token=1929495520&lang=zh_CN#rd)
 * [生病了，希望能早日康复！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493670&idx=1&sn=d07941b87378938d00c9d686ade7944a&chksm=cf565f27f821d63176bfc4103c8c7657c9400773325a9e54392e9959de51c319020599b7578e&token=1929495520&lang=zh_CN#rd)
