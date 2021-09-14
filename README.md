@@ -74,8 +74,15 @@
 
 ### 架构师进阶系列
 
-
 * [《架构师进阶系列》开篇：架构师与高级开发工程师的分水岭是啥？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247495897&idx=1&sn=a5479e4aebf18a3e4cc30c8bec807051&chksm=cf5647d8f821ceceb42deb500f4bdc4d7d28bc64f671a0da69ca955ecbf6b82b2396e42064f3&token=546222828&lang=zh_CN#rd)
+* [《架构师进阶系列》前言：要想进大厂成为架构师需要掌握哪些硬核技能？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247496020&idx=1&sn=aae3ea84c13d82e4027fb0381633d54b&chksm=cf564655f821cf4372325deb49ab982b4e290c73bdfba16095fae7d545a958d54a2686e1a329&token=1837443586&lang=zh_CN#rd)
+* [《架构师进阶系列》第1章：JVM整体架构与调优参数说明](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247495960&idx=1&sn=489edee13ada9612e3a92b3f624bb02a&chksm=cf564619f821cf0ff31050587a2979f9847ce1930f653f3d1d087d42346ab7625f6bcb90ed39&token=1837443586&lang=zh_CN#rd)
+
+
+### 视频号系列
+
+* [不费脑子学习MySQL体系架构，yyds！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247496106&idx=1&sn=d25ad3830ce89ee32d46e646eefd9e4f&chksm=cf5646abf821cfbd6251c7886d0b359d263833f912e6bba97531cc001ba7a61f86d2ea46fed9&token=1837443586&lang=zh_CN#rd)
+
 
 ### 性能调优系列
 
@@ -160,12 +167,14 @@
 
 ### 开源框架与中间件系列
 
+* [周末撸了个Excel框架，现已开源，yyds！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247496134&idx=1&sn=b1eff30e4b0547586251d588c34245b2&chksm=cf5646c7f821cfd1a3723cc2a40f038b1719c676ba855cc588c4ccf0e59c0d1c90f400078e8c&token=1837443586&lang=zh_CN#rd)
 * [报告：冰河写了个开源框架！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247495476&idx=1&sn=a5ed410dd3c13691000d3e11086eb370&chksm=cf565835f821d123c7172408ec88dc0b66354c163419c87300fa304b5be9cec111c100d6c4df&token=1081687632&lang=zh_CN#rd)
 * [万字长文教你消息中间件到底该如何选型？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490146&idx=1&sn=b01d1bc7281b5bfdb93bddca2e01553e&chksm=cf55ad63f8222475086b63080ea945805da036102bb199bd9ef4bdff4facaf7fc7041d337015&token=776659970&lang=zh_CN#rd)
 * [两行代码修复了解析MySQL8.x binlog错位的问题！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247490278&idx=1&sn=1681ff3ce2d7ccc133d5a4436fb21359&chksm=cf55ade7f82224f145462689ed0b0e7d0e86e162c1707a954b30fcb293f997d60568f2466534&token=776659970&lang=zh_CN#rd)
 
 ### 分布式缓存系列
 
+* [缓存最关心哪些指标？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247495996&idx=1&sn=27aa388ed9f841149746e8a2aa8546e5&chksm=cf56463df821cf2bf356191ec8c37085adc5852e2ca056fbd9da729873b3cbafca1169ae677b&token=1837443586&lang=zh_CN#rd)
 * [超强Redis数据类型与应用场景总结！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493921&idx=1&sn=f1182dab854b9510298a352ed4be1b3e&chksm=cf565e20f821d736248b076d8708ef7ade53056b954ba164abfac8a4cdd617b12629bd5b8a14&token=1929495520&lang=zh_CN#rd)
 * [到底是先更新数据库还是先更新缓存？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247491950&idx=1&sn=91f2fb8e87967c780b91772fb8f39df9&chksm=cf56566ff821df793e162510f97580e970eb84c1a39426febd920246edbdf721b5f35ab339c4&token=1093611389&lang=zh_CN#rd)
 
