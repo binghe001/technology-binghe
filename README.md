@@ -53,6 +53,7 @@
 
 ### 精通高并发系列
 
+* [一文扫尽Java中的并发原子类，yyds！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247496611&idx=1&sn=12885d386beeda9ebaa7192eeb74de07&chksm=cf5644a2f821cdb4b458a43e26c8f3af2c1f3d274d82ecc53ca9e0873f36cd12022a3c179a42&token=627091476&lang=zh_CN#rd)
 * [高并发秒杀系统如何实现正确的扣减库存？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247495768&idx=1&sn=7a9eadbfc54600b26fa1bcb00bca5b52&chksm=cf564759f821ce4fb234ced2deb2c2bee1c4ed3b78115545ae481fd5314d6eb1d865df9c6cc8&token=546222828&lang=zh_CN#rd)
 * [生产环境内存溢出了！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247495757&idx=1&sn=66ad5e42ee5bfb4e60ae257c1296f261&chksm=cf56474cf821ce5ada36c785e7086d341add1e3333330268c7e3ae8cc1dfdc5758d3c86930f9&token=546222828&lang=zh_CN#rd)
 * [实践出真知：全网最强秒杀系统架构解密！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247495561&idx=1&sn=84324d48463ebcb34aa3b095a6f3af87&chksm=cf565888f821d19eb98b83793f476c800287b7df2bae4f1f68e6af32c7adff38ad31de1df282&token=546222828&lang=zh_CN#rd)
@@ -123,6 +124,9 @@
 
 ### 吃透MySQL系列
 
+* [一招教你防止删库跑路！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247496625&idx=1&sn=244a98d5c672ffffe85bb17059f200aa&chksm=cf5644b0f821cda655977b9ad0ceb1cbd4296e2cd88c1fdd8d95e0b49819c0bb95fb1bd05ee9&token=627091476&lang=zh_CN#rd)
+* [糟了，生产环境MySQL主从数据库不一致怎么办？！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247496586&idx=2&sn=358d974f6a660d40263cd0d969f40570&chksm=cf56448bf821cd9dbbe948d795f634c0e5e2bc0fea1466d86d45d07b3afc5ffe4895d7f61afc&token=627091476&lang=zh_CN#rd)
+* [实际案例：MySQL主键性能压测！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247496514&idx=1&sn=5af221bf9fb726e9efb9e436cf3092fa&chksm=cf564443f821cd55b8788dccfb3ff5d9d16d3d36de86c572f7b3b933454f7723ba86d16beaa3&token=627091476&lang=zh_CN#rd)
 * [MySQL8索引篇：性能提升了100%！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247495115&idx=1&sn=d95725917c7ee850664e54ef0f3c4f66&chksm=cf565acaf821d3dc7ab3527b0ffe89e65e239b0d81a682de308a28b4d6789340cd243028ce2a&token=1081687632&lang=zh_CN#rd)
 * [卧槽，安装完MySQL竟然提示数据表不存在！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492973&idx=1&sn=c397b6e5888bca04466843fdc2791b70&chksm=cf56526cf821db7a5b96ea223fe095fb44997d6f3f1c7e42a6d1396f7bcb62e4f2a39abd85b8&token=1352513703&lang=zh_CN#rd)
 * [冰河视频聊架构：三分钟带你彻底掌握MySQL Undo Log和MVCC机制！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247492818&idx=1&sn=f25ff876866929a84a2afc2464420fd1&chksm=cf5653d3f821dac563efbd2c97ed38b25872a7ce22056e31a023ff80ae8f4e64de08aeb84eb2&token=1574716246&lang=zh_CN#rd)
@@ -135,6 +139,9 @@
 
 ### 程序员进阶系列
 
+* [8万字总结的Java8新特性！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247496648&idx=1&sn=06e0edf146e9e81092a4f894b20f27b0&chksm=cf5644c9f821cddf208a172144dec6c866928bfdbb6967c6c51464b9f0fe964b281c7833346b&token=627091476&lang=zh_CN#rd)
+* [这两年，我摊牌了！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247496495&idx=1&sn=359ea5749af291e33bb58460a6295e97&chksm=cf56442ef821cd38e056a888a42271e042fd8932a0b557aee3d02da1c9c60951d2c59e934284&token=627091476&lang=zh_CN#rd)
+* [两年时间我出版了三本技术图书，发布了10本电子书，写了400多篇文章！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247496437&idx=1&sn=780293c19e88e15660d94644fe27b159&chksm=cf5645f4f821cce24bccd7200791c333a2914f1394340480d63f07526f07866a3bc4018f2ba9&token=627091476&lang=zh_CN#rd)
 * [项目配置不当引发了数据泄露，人已裂开！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247495520&idx=1&sn=d5793dd1f185748917584fac2235967d&chksm=cf565861f821d17791d58e2536239dcf18e3ed4d0d2116e576d2447d76c43e2fd5cc0c97f755&token=546222828&lang=zh_CN#rd)
 * [程序员废掉的十大铁律，你中了几个？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247495133&idx=1&sn=c69e0fe0a342e6197f5957f5f4a53e51&chksm=cf565adcf821d3ca29d09531b71cefaf2531bba47a3e9d9eed4361d829d098cb1a10ebf94543&token=1081687632&lang=zh_CN#rd)
 * [被SpringBoot整合OpenFeign坑惨了！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247494602&idx=1&sn=1de5a61612a2679a893d1c52b729a1a7&chksm=cf565ccbf821d5dd1d14915d29100bcb9025b7fd8bbaa81d1c548a219d9af16947dc44c48606&token=1772864567&lang=zh_CN#rd)
@@ -242,6 +249,8 @@
 
 ### 程序人生
 
+* [这件事我坚持了9个月！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247496676&idx=1&sn=e3ee359da4ec9d8ff5cfb739c6ebfed5&chksm=cf5644e5f821cdf38fa76d6cc09ce922f11917021ba556caa2f5aee935f33d44fc308bf71f0a&token=627091476&lang=zh_CN#rd)
+* [跟小伙伴们聊聊我有趣的大学生活和我那两个好基友！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247496575&idx=1&sn=219b048616242887b1b2f828e9f8e28b&chksm=cf56447ef821cd68265098f37714357bf69c80ca640efd7a5da7e31ceca7a7237fbc3c83d090&token=627091476&lang=zh_CN#rd)
 * [冰河又被腾讯推荐了！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247495809&idx=1&sn=a347b7aefd968eb0e53e8401ef8abdd2&chksm=cf564780f821ce9690cef93dfbca06d3bea192578188aec4dc1d2cf2996e5b140ff5cb3a093f&token=546222828&lang=zh_CN#rd)
 * [冰河，能跟大家分享下你的经历吗？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247495593&idx=1&sn=d87489315dcb0c35671798926781f20d&chksm=cf5658a8f821d1bea6490629ca9903b0cf1ea7e7cddeb5ab5af5910a21e5f4c94deab2e0319a&token=546222828&lang=zh_CN#rd)
 * [冰河技术微信群开放啦！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247495127&idx=2&sn=50e126c1a5faab1ccc7f613a7876fb75&chksm=cf565ad6f821d3c0c6fee2478f804f1ceba0a838ea35ac9c51ec97649f78c0f13a73617f608e&token=1081687632&lang=zh_CN#rd)
