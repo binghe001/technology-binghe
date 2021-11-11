@@ -10,11 +10,14 @@
 
 ## 我出版的图书 
 
-### 《海量数据处理与大数据技术实战》 
+### 《[深入理解分布式事务：原理与实战](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247497263&idx=1&sn=8228a795261b0a90a3f42322368616fc&chksm=cf56412ef821c8389584e9e608aa4d6515cf68e26758b9c578a8f60a796999fafc8686a6a425&token=1170633251&lang=zh_CN#rd)》
+![](https://img-blog.csdnimg.cn/5ee367b68023466a87f66763a64a4133.jpg)
+
+### 《[海量数据处理与大数据技术实战](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489216&idx=1&sn=ba163354bcc2ce902208bd9295065ab1&chksm=cf55a1c1f82228d7d1d1b71939614e30b58fd44b1cdea452e4afad57e53f642af815cd268b0c&token=1170633251&lang=zh_CN#rd)》 
 
 ![](https://img-blog.csdnimg.cn/20200828011209412.png)  
 
-### 《MySQL技术大全：开发、优化与运维实战》
+### 《[MySQL技术大全：开发、优化与运维实战](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489670&idx=1&sn=fe4e1d4f3db05607e37f35cbd7837fc8&chksm=cf55af87f8222691c42b252444a2d5ec1989aadbc0956463169fe6bc8f77c4977b3a4d2dfe9c&token=1170633251&lang=zh_CN#rd)》
 
 ![](https://img-blog.csdnimg.cn/20201203001148233.jpg)
 
@@ -48,11 +51,25 @@
 
 回复 “**互联网工程**” 领取《跟冰河学习互联网工程技术》PDF电子书。  
 
+## 我的新书
+* [让大家久等了，冰河的《深入理解分布式事务：原理与实战》终于出版了！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247497263&idx=1&sn=8228a795261b0a90a3f42322368616fc&chksm=cf56412ef821c8389584e9e608aa4d6515cf68e26758b9c578a8f60a796999fafc8686a6a425&token=1170633251&lang=zh_CN#rd)
+* [没别的，这次全是图！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247497328&idx=1&sn=2220b14a5874b225ee032f2d53e55b92&chksm=cf564171f821c867a6dacd4ca6e6189136eb2de7a9a53a75338c6f4b347d2ad7a7d48a1399d9&token=1170633251&lang=zh_CN#rd)
+* [预售第一天霸榜No.1](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247497347&idx=1&sn=acf9fc57ecc5c44b5d28877bfd55c4d3&chksm=cf564182f821c894de668c19592419f2e629f5f200b7a548dc87e7b93f5ed0543d97a0960c4a&token=1170633251&lang=zh_CN#rd)
+* [分布式事务开山之作草图曝光！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247497427&idx=1&sn=1bc426317ef3d63109b5c6b679b60bc3&chksm=cf5641d2f821c8c425cb3b2f3edd802a16f27ecc31f6881a6180bf927d39c335a27a5e825f9a&token=1170633251&lang=zh_CN#rd)
+* [周六，签了100本书！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247497449&idx=1&sn=33ede1de6b2f66f21be579720f3419af&chksm=cf5641e8f821c8fe66d3f7d0379953169d4f8d7bfd44615de766796ece591685e9030a16232f&token=1170633251&lang=zh_CN#rd)
+* [成绩出来了，三项第一！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247497530&idx=1&sn=aae63e5c000ff6a310a227ec901eaa2d&chksm=cf56403bf821c92db65e9092a1d2c511e70db7adca1021d7342ffbc02db8afa5b96fb3007f75&token=1170633251&lang=zh_CN#rd)
+* [这本书爆了，上架不到6天紧急加印！！！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247497556&idx=1&sn=e5346ebb0dde3884137e13c7e68cb319&chksm=cf564055f821c943fced4e7d7729ca1ff9416ea9bab12b6b3e220b78311cb385c2b0e77c5249&token=1170633251&lang=zh_CN#rd)
+
+
+
+
 ## 2021内容汇总
 
 
 ### 精通高并发系列
 
+* [10分钟手撸Java线程池，yyds！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247497033&idx=1&sn=2d4dfe36a6799e8484915d0faf86c7d5&chksm=cf564248f821cb5e88fd823c1203a534fe3f9dff4b81cd29cebf5c43fc0619a765716bc7a093&token=1170633251&lang=zh_CN#rd)
+* [不得不说的几种限流算法](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247496873&idx=2&sn=be0a6919734f01d042c63a12cf692d03&chksm=cf5643a8f821cabeae2c37ab468552b9a104f3e0ed5f81ffb862faa1c6da982754eae2c0ac6d&token=1170633251&lang=zh_CN#rd)
 * [一文扫尽Java中的并发原子类，yyds！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247496611&idx=1&sn=12885d386beeda9ebaa7192eeb74de07&chksm=cf5644a2f821cdb4b458a43e26c8f3af2c1f3d274d82ecc53ca9e0873f36cd12022a3c179a42&token=627091476&lang=zh_CN#rd)
 * [高并发秒杀系统如何实现正确的扣减库存？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247495768&idx=1&sn=7a9eadbfc54600b26fa1bcb00bca5b52&chksm=cf564759f821ce4fb234ced2deb2c2bee1c4ed3b78115545ae481fd5314d6eb1d865df9c6cc8&token=546222828&lang=zh_CN#rd)
 * [生产环境内存溢出了！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247495757&idx=1&sn=66ad5e42ee5bfb4e60ae257c1296f261&chksm=cf56474cf821ce5ada36c785e7086d341add1e3333330268c7e3ae8cc1dfdc5758d3c86930f9&token=546222828&lang=zh_CN#rd)
@@ -75,13 +92,26 @@
 
 ### 架构师进阶系列
 
-* [《架构师进阶系列》开篇：架构师与高级开发工程师的分水岭是啥？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247495897&idx=1&sn=a5479e4aebf18a3e4cc30c8bec807051&chksm=cf5647d8f821ceceb42deb500f4bdc4d7d28bc64f671a0da69ca955ecbf6b82b2396e42064f3&token=546222828&lang=zh_CN#rd)
-* [《架构师进阶系列》前言：要想进大厂成为架构师需要掌握哪些硬核技能？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247496020&idx=1&sn=aae3ea84c13d82e4027fb0381633d54b&chksm=cf564655f821cf4372325deb49ab982b4e290c73bdfba16095fae7d545a958d54a2686e1a329&token=1837443586&lang=zh_CN#rd)
-* [《架构师进阶系列》第1章：JVM整体架构与调优参数说明](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247495960&idx=1&sn=489edee13ada9612e3a92b3f624bb02a&chksm=cf564619f821cf0ff31050587a2979f9847ce1930f653f3d1d087d42346ab7625f6bcb90ed39&token=1837443586&lang=zh_CN#rd)
+* [架构师与高级开发工程师的分水岭是啥？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247495897&idx=1&sn=a5479e4aebf18a3e4cc30c8bec807051&chksm=cf5647d8f821ceceb42deb500f4bdc4d7d28bc64f671a0da69ca955ecbf6b82b2396e42064f3&token=546222828&lang=zh_CN#rd)
+* [要想进大厂成为架构师需要掌握哪些硬核技能？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247496020&idx=1&sn=aae3ea84c13d82e4027fb0381633d54b&chksm=cf564655f821cf4372325deb49ab982b4e290c73bdfba16095fae7d545a958d54a2686e1a329&token=1837443586&lang=zh_CN#rd)
+* [JVM整体架构与调优参数说明](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247495960&idx=1&sn=489edee13ada9612e3a92b3f624bb02a&chksm=cf564619f821cf0ff31050587a2979f9847ce1930f653f3d1d087d42346ab7625f6bcb90ed39&token=1837443586&lang=zh_CN#rd)
+* [逃逸分析，yyds！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247497051&idx=1&sn=38312719e86b7f9cef31c00102da6c48&chksm=cf56425af821cb4c779873fdd793a73af274305f74de7ae72a06fcd2d9224f44541f4a2cad40&token=1170633251&lang=zh_CN#rd)
+
+### 手撸源码系列
+* [手撸一款属于自己的Maven插件，说干就干！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247497660&idx=1&sn=fb74836a052e0433ce64db1fcc5c3524&chksm=cf5640bdf821c9ab369207fa39caede4af0c822754203b4431b7f190699495b77c9dba859e09&token=1170633251&lang=zh_CN#rd)
+
+
+### 分布式事务系列
+* [面试分布式事务必问知识点！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247497675&idx=1&sn=ff56c55baa17f90d9bcf2bb5478771ab&chksm=cf5640caf821c9dce560d6b7ea619b4cbbb9fc082c4858131d1dc846a5275b9214e579d79a43&token=1170633251&lang=zh_CN#rd)
+
+### 精通JVM系列
+
+* [逃逸分析，yyds！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247497051&idx=1&sn=38312719e86b7f9cef31c00102da6c48&chksm=cf56425af821cb4c779873fdd793a73af274305f74de7ae72a06fcd2d9224f44541f4a2cad40&token=1170633251&lang=zh_CN#rd)
 
 
 ### 视频号系列
 
+* [冰河第一次真人出镜！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247497792&idx=1&sn=aeae1755bd4f63dc2821695c9ff4e1b0&chksm=cf564f41f821c6576b100425d1d8e5a39273a22383b2cc90716d9e3b0650fbc021b3e85baa42&token=1170633251&lang=zh_CN#rd)
 * [不费脑子学习MySQL体系架构，yyds！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247496106&idx=1&sn=d25ad3830ce89ee32d46e646eefd9e4f&chksm=cf5646abf821cfbd6251c7886d0b359d263833f912e6bba97531cc001ba7a61f86d2ea46fed9&token=1837443586&lang=zh_CN#rd)
 
 
@@ -107,6 +137,7 @@
 
 ### 精通渗透系列
 
+* [国庆第一天冰河在车上又肝了一本电子书！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247496713&idx=1&sn=d81f0ee9625ee041ebfb0390ba35fbda&chksm=cf564308f821ca1e190ce11cee1725dbd3f1753f27c0f7f266d8633605318af8ee7759422f09&token=1170633251&lang=zh_CN#rd)
 * [黑客常用SQL注入绕过技术总结！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247494362&idx=1&sn=dcc2b6e9722afac2963929800578bbc3&chksm=cf565ddbf821d4cdc5551c60dadbd1ee87facb24844eaa994eb58a87e31477fe56a8c133bc74&token=1772864567&lang=zh_CN#rd)
 * [卧槽，冰河又写了一本电子书！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247494015&idx=1&sn=b4e5c7fb01d6c6619e027a4546b72df2&chksm=cf565e7ef821d768ea6fd3bf3b9369df8934358838c9b12a662ad57c335ef8d5c6ce3b4ae690&token=1929495520&lang=zh_CN#rd)
 * [《冰河的渗透实战笔记》电子书正式发布！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247493194&idx=1&sn=62e3c40b2cf963c1a0b0bc531465249c&chksm=cf56514bf821d85d5f56f437de1911724b89efc324e334fb26c5e0b7fc1ea82f99a0da289ba8&token=447597716&lang=zh_CN#rd)
@@ -139,6 +170,10 @@
 
 ### 程序员进阶系列
 
+* [分库分表有哪些思路和技巧？（建议收藏）](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247497603&idx=1&sn=915322da262aaa7d2c8626038e748268&chksm=cf564082f821c99406b0b9cc1a7e6ab4d940d9c5abba96c2053030abce138046071d8dc57cbf&token=1170633251&lang=zh_CN#rd)
+* [一段很有意思的代码！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247497594&idx=1&sn=6d3a0de703dc32e1593eee5b9bc6b297&chksm=cf56407bf821c96df496de14273c819a33010e4a50b98c3cec9193f6fb435d2a4eabd6fe3e6b&token=1170633251&lang=zh_CN#rd)
+* [如何提高编码效率？yyds！！（建议收藏）](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247497004&idx=1&sn=fd73245e65b0c83aeb6bac39f9313248&chksm=cf56422df821cb3beeb185c1816374c7bdfc337bd439e6a7ae2a812e677688ec3e3c4b6d9a46&token=1170633251&lang=zh_CN#rd)
+* [冰河常逛的23大学习网站（建议收藏）！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247497003&idx=1&sn=87fd7485c213e250362019fc14075d9d&chksm=cf56422af821cb3cb7318048bfbfadc820ddfda9844dc8a20472c262b901a237f092eb89e2e3&token=1170633251&lang=zh_CN#rd)
 * [8万字总结的Java8新特性！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247496648&idx=1&sn=06e0edf146e9e81092a4f894b20f27b0&chksm=cf5644c9f821cddf208a172144dec6c866928bfdbb6967c6c51464b9f0fe964b281c7833346b&token=627091476&lang=zh_CN#rd)
 * [这两年，我摊牌了！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247496495&idx=1&sn=359ea5749af291e33bb58460a6295e97&chksm=cf56442ef821cd38e056a888a42271e042fd8932a0b557aee3d02da1c9c60951d2c59e934284&token=627091476&lang=zh_CN#rd)
 * [两年时间我出版了三本技术图书，发布了10本电子书，写了400多篇文章！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247496437&idx=1&sn=780293c19e88e15660d94644fe27b159&chksm=cf5645f4f821cce24bccd7200791c333a2914f1394340480d63f07526f07866a3bc4018f2ba9&token=627091476&lang=zh_CN#rd)
@@ -249,6 +284,11 @@
 
 ### 程序人生
 
+* [这些网站陪伴了我5年！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247497781&idx=1&sn=8880e760dd07a6ac6f2992bf6ea9cfd1&chksm=cf564f34f821c62289fe696f7960903a2cc4ba445a658be00111fbaf2f5290e96ffb936c6a31&token=1170633251&lang=zh_CN#rd)
+* [气愤：特么原创文章被抄袭者举报抄袭了！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247497737&idx=1&sn=8b02a91d1b6243cc788993d985a815fe&chksm=cf564f08f821c61e320c5d296e0cd92acfeacd4c0de1d7c2584e0f510f2839d66692d31def60&token=1170633251&lang=zh_CN#rd)
+* [冰河去开源中国了？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247497684&idx=1&sn=b6eb0c56807346e726ecb0cfc3464200&chksm=cf5640d5f821c9c326a5c35c2f3ea581b302555a69459fc781a9ce88cb45c14e0bc8d78a9ae9&token=1170633251&lang=zh_CN#rd)
+* [医院，你好狠！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247497618&idx=1&sn=c4f00728f452dbdd57840c7c541d8d28&chksm=cf564093f821c985217a626f404656261e98f5a110b32503991eb129279c4e18501920d91426&token=1170633251&lang=zh_CN#rd)
+* [冰河又被全球敏捷运维峰会推荐了！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247497081&idx=1&sn=0d94381c62d5daca51e1e4549d883c96&chksm=cf564278f821cb6e7ca96749658d1c235b9a1319b35f3a991efa47e76fbecd3f1dc26b6f212c&token=1170633251&lang=zh_CN#rd)
 * [这件事我坚持了9个月！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247496676&idx=1&sn=e3ee359da4ec9d8ff5cfb739c6ebfed5&chksm=cf5644e5f821cdf38fa76d6cc09ce922f11917021ba556caa2f5aee935f33d44fc308bf71f0a&token=627091476&lang=zh_CN#rd)
 * [跟小伙伴们聊聊我有趣的大学生活和我那两个好基友！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247496575&idx=1&sn=219b048616242887b1b2f828e9f8e28b&chksm=cf56447ef821cd68265098f37714357bf69c80ca640efd7a5da7e31ceca7a7237fbc3c83d090&token=627091476&lang=zh_CN#rd)
 * [冰河又被腾讯推荐了！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247495809&idx=1&sn=a347b7aefd968eb0e53e8401ef8abdd2&chksm=cf564780f821ce9690cef93dfbca06d3bea192578188aec4dc1d2cf2996e5b140ff5cb3a093f&token=546222828&lang=zh_CN#rd)
@@ -742,7 +782,10 @@
 
 微信搜一搜【冰河技术】微信公众号，关注这个有深度的程序员，每天阅读超硬核技术干货，公众号内回复【PDF】有我准备的一线大厂面试资料和我原创的超硬核PDF技术文档，以及我为大家精心准备的多套简历模板（不断更新中），希望大家都能找到心仪的工作，学习是一条时而郁郁寡欢，时而开怀大笑的路，加油。如果你通过努力成功进入到了心仪的公司，一定不要懈怠放松，职场成长和新技术学习一样，不进则退。如果有幸我们江湖再见！       
 
-另外，我开源的各个PDF，后续我都会持续更新和维护，感谢大家长期以来对冰河的支持！！
+另外，我开源的各个PDF，后续我都会持续更新和维护，感谢大家长期以来对冰河的支持！！  
+  
+回复【并发编程】获取全网累计下载50W+的《深入理解高并发编程》电子书。  
+回复【渗透笔记】获取全网5星好评的《冰河的渗透实战笔记》电子书。
 
 ## 写在最后
 
