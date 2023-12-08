@@ -2,13 +2,13 @@
 
 ## 我是冰河
 
-- :dog: 互联资深技术专家，数据库技术专家，分布式与微服务架构专家，全网45万+粉互联网技术博主。
+- :dog: 互联资深技术专家，[TVP腾讯云最具价值专家](https://cloud.tencent.com/tvp/member/669)、数据库技术专家，分布式与微服务架构专家，全网45万+粉互联网技术博主。
 - :bus: 作品：[`BingheGuide | 冰河指南`](https://github.com/binghe001/BingheGuide) | [`《深入理解高并发编程：核心原理与案例实战》`](https://github.com/binghe001/mykit-concurrent-principle) | [`《深入理解高并发编程：JDK核心技术》`](https://github.com/binghe001/mykit-concurrent-jdk) | [`数据同步`](https://github.com/binghe001/mykit-data) | [`Spring核心技术`](https://github.com/binghe001/spring-annotation-book) | [`分布式限流`](https://github.com/binghe001/mykit-ratelimiter) | [`分布式锁`](https://github.com/binghe001/mykit-lock) | [`分布式缓存`](https://github.com/binghe001/mykit-cache) | [`异步并行框架`](https://github.com/binghe001/mykit-async) | [`分布式事务`](https://github.com/binghe001/mykit-transaction-message) | [`简易版IM`](https://github.com/binghe001/mykit-chat) | [`微信SDK`](https://github.com/binghe001/mykit-wechat-sdk) | [`延迟队列`](https://github.com/binghe001/mykit-delay) | [`分布式ID`](https://github.com/binghe001/mykit-serial) | [更多搜索...](https://github.com/binghe001?tab=repositories)
 - :seedling: 干货：[公众号『 冰河技术 』](https://img-blog.csdnimg.cn/20210426115714643.jpg)
 - :pencil: 博客：[binghe.gitcode.host](https://binghe.gitcode.host/) - 硬核文章，应有尽有！
 - :tv: 视频：[B站 冰河技术](https://space.bilibili.com/517638832)
 - :love_letter: 微信：[hacker_binghe](https://binghe.gitcode.host/images/personal/hacker_binghe.jpg) - 备注来意
-- :feet: 我的知识星球：[手写企业级中间件项目、大厂高并发秒杀系统、并发编程、性能调优、框架源码、分布式、微服务、1对1解答、答辩晋升技巧、定期直播](https://binghe.gitcode.host/md/starball/2023-01-01-2023%E6%98%9F%E7%90%83%E6%96%B0%E5%B9%B4%E8%A7%84%E5%88%92.html)
+- :feet: 我的知识星球：[手写企业级中间件项目、大厂高并发秒杀系统、并发编程、性能调优、框架源码、分布式、微服务、1对1解答、答辩晋升技巧、定期直播](https://binghe.gitcode.host/md/zsxq/introduce.html)
 
 ## 今年的努力 ✨
 
@@ -21,23 +21,30 @@
 - 2021年出版[《深入理解分布式事务：原理与实战》](https://u.jd.com/KbHp4dI) —— 全网首部系统、深入讲解分布式事务的书籍，涵盖：分布式事务基础、解决方案、原理、源码与实战等篇章，真正从企业实际需求出发，系统、深入的讲解分布式事务，来自京东、阿里、腾讯、蚂蚁金服、滴滴、饿了么、58集团、IBM等互联网大厂及Apache软件基金会的近20位专家高口碑力荐。
 - 2022年出版[《深入理解高并发编程：核心原理与案例实战》](https://u.jd.com/KuH2Qhe) —— 全面、系统、深入的讲解高并发技术，涵盖：并发基础、原理、实战与架构的方方面面知识。来自阿里巴巴、蚂蚁金服、京东、高德、CSDN、饿了么、58集团等互联网大厂以及多家互联网独角兽企业的近20位专家高口碑力荐。
 - 2022年出版[《深入高平行開發：深度原理&專案實戰》](https://u.jd.com/K8H0mUV) —— 《深入理解高并发编程：核心原理与案例实战》的繁体版书籍。
+- 2023年出版[《深入理解高并发编程：JDK核心技术》](https://u.jd.com/izMwOkE) ——全面、系统、深入的讲解JDK高并发编程技术，涵盖：JDK并发基础、核心工具和线程池核心技术等篇章，深度剖析了JDK中各种并发类库和线程池的核心源码，并提供手写线程池案例。来自阿里巴巴、腾讯、蚂蚁金服、京东、高德、CSDN、饿了么、58集团等互联网大厂以及多家互联网独角兽企业的近20位专家高口碑力荐。
 
 ## 我的部分电子书
 
+- [《实战高并发设计模式》](https://mp.weixin.qq.com/s/qb5bvW7uMYRzL4LCZZkgTg) —— 涵盖最核心，也是最常用的12种并发设计模式，共60多个章节，涉及到多个真实场景的案例，包含：**社区电商系统、消息聚合发送系统、交易系统、监控报警系统、积分系统、优惠券系统、文件同步助手、个人文库系统、商详页系统、单点登录系统、报表系统、热点商品统计系统、实时交易统计系统。**
 - [《深入理解高并发编程（第2版）》](https://mp.weixin.qq.com/s/E5XZW_HSqKBbgxix6xQGAQ) —— 全书共计 八 大篇章，433页，耗时 4 个月完成，全网最全的高并发编程知识手册，涵盖：学习路线、源码分析、JDK核心类库、基础案例、实战案例、性能优化、面试、和系统架构等篇章，发布当月下载量即突破5万，全网累计下载30万+。
-- [《深入理解高并发编程（第1版）》](https://mp.weixin.qq.com/s/yPUzyssTJ3Jv9prljhrmrQ) —— 全书共计 五 大篇章节，392页，耗时6个月完成。涵盖源码分析、基础案例、实战案例、面试和系统架构等篇章，全网累计下载65万+。
-- 《[SpringCloud Alibaba实战](https://mp.weixin.qq.com/s/nuK5qC0TCQ6UYlyv0Y0m8A)》—— 全书共计 十 大篇章，26个章节，332页，涵盖：专栏设计、微服务介绍、微服务环境搭建、服务治理、服务容错、服务网关、链路追踪、消息服务、服务配置和分布式事务等篇章，全网累计下载10万+。
-- 《[冰河的渗透实战笔记](https://mp.weixin.qq.com/s/maXLSjgqTkkv4-BvYFkgzA)》—— 冰河整理的全网首个开源的以实战案例为背景的渗透实战笔记，全书共442页，共计37万字（不计空格）。整本书的内容涵盖：Kali基础、渗透工具、木马制作、钓鱼链接生成、爆破密码、内存溢出攻击、web渗透、数据提权、社会工程学，全网累计下载20万+。
-- 《[从零开始写RPC框架（基础版）](https://mp.weixin.qq.com/s/Z13jGNY94rEewp1HW9yiPQ)》 —— 在RPC框架中会实现同步调用、异步调用、回调调用、单向调用和泛化调用。框架中会使用大量的SPI技术来实现扩展性，其中，整个框架会采用微内核、插件化的开发模式，最终真正做一款可在实际场景使用的RPC框架。
+- [《深入理解高并发编程（第1版）》](https://mp.weixin.qq.com/s/yPUzyssTJ3Jv9prljhrmrQ) —— 全书共计 五 大篇章节，392页，耗时6个月完成。涵盖源码分析、基础案例、实战案例、面试和系统架构等篇章，全网累计下载70万+。
+- [《SpringCloud Alibaba实战》](https://mp.weixin.qq.com/s/nuK5qC0TCQ6UYlyv0Y0m8A) —— 全书共计 十 大篇章，26个章节，332页，涵盖：专栏设计、微服务介绍、微服务环境搭建、服务治理、服务容错、服务网关、链路追踪、消息服务、服务配置和分布式事务等篇章，全网累计下载10万+。
+- [《冰河的渗透实战笔记》](https://mp.weixin.qq.com/s/maXLSjgqTkkv4-BvYFkgzA) —— 冰河整理的全网首个开源的以实战案例为背景的渗透实战笔记，全书共442页，共计37万字（不计空格）。整本书的内容涵盖：Kali基础、渗透工具、木马制作、钓鱼链接生成、爆破密码、内存溢出攻击、web渗透、数据提权、社会工程学，全网累计下载20万+。
+- [《从零开始写RPC框架（基础版）》](https://mp.weixin.qq.com/s/Z13jGNY94rEewp1HW9yiPQ) —— 在RPC框架中会实现同步调用、异步调用、回调调用、单向调用和泛化调用。框架中会使用大量的SPI技术来实现扩展性，其中，整个框架会采用微内核、插件化的开发模式，最终真正做一款可在实际场景使用的RPC框架。
 - [《MySQL核心技术》](https://mp.weixin.qq.com/s/jd7vTSZ7wqj3BMLRlhn3DA) —— 全书共19章、16万字，涵盖了MySQL核心基础知识的方方面面内容，非常适合MySQL数据库初学者入门，也适合MySQL技术高手系统化的梳理MySQL基础知识，及时查漏补缺，全网累计下载5万+。
 - [《Spring IOC核心技术》](https://mp.weixin.qq.com/s/5wCnprKkMRx0Pd1gDImKtg) —— 全书共27章，19万字，涵盖Spring IOC最核心的技术，全网累计下载8万+。
+
+## 面试必备
+- [1000+套精美简历模板与面试技巧](https://t.zsxq.com/150wNNbz9) - 1000+套简历模板与现场面试技巧，打开你面试通往成功的大门，助力面试软技能。
+- [Java面试核心知识点手册](https://t.zsxq.com/15hhLhYjs) - 冰河整理并亲自验证的Java核心面试知识点，助力面试硬核技能。
+
 
 ## 联系我
 
 添加微信：[hacker_binghe](https://binghe.gitcode.host/images/personal/hacker_binghe.jpg) - 备注来意
 
 ## 关于本仓库
-📚 本仓库是作者冰河多年从事互联网大厂开发、架构的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容、底层原理、架构知识、渗透技术。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
+📚 本仓库是作者冰河多年从事互联网开发、架构的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容、底层原理、架构知识、渗透技术。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
 
 
 <div align="center">
@@ -60,7 +67,7 @@
 
 <div align="center">
     <img src="https://binghe.gitcode.host/images/personal/hacker_binghe.jpg?raw=true" width="180px">
-    <div style="font-size: 9px;">冰河微信</div>
+    <div style="font-size: 18px;">冰河微信</div>
     <br/>
 </div>
 
@@ -72,8 +79,19 @@
 分享各种编程语言、开发技术、分布式与微服务架构、分布式数据库、分布式事务、云原生、大数据与云计算技术和渗透技术。另外，还会分享各种面试题和面试技巧。内容在 **冰河技术** 微信公众号首发，强烈建议大家关注。
 
 <div align="center">
-    <img src="https://img-blog.csdnimg.cn/20210426115714643.jpg?raw=true" width="180px">
-    <div style="font-size: 9px;">公众号：冰河技术</div>
+    <img src="https://binghe.gitcode.host/images/personal/ice_wechat.jpg?raw=true" width="180px">
+    <div style="font-size: 18px;">公众号：冰河技术</div>
+    <br/>
+</div>
+
+
+## 视频号
+
+定期分享各种编程语言、开发技术、分布式与微服务架构、分布式数据库、分布式事务、云原生、大数据与云计算技术和渗透技术。另外，还会分享各种面试题和面试技巧。
+
+<div align="center">
+    <img src="https://binghe.gitcode.host/images/personal/ice_video.png?raw=true" width="180px">
+    <div style="font-size: 18px;">视频号：冰河技术</div>
     <br/>
 </div>
 
@@ -83,11 +101,11 @@
 
 加入星球 **[冰河技术](http://m6z.cn/6aeFbs)**，可以获得本站点所有学习内容的指导与帮助。如果你遇到不能独立解决的问题，也可以添加冰河的微信：**hacker_binghe**， 我们一起沟通交流。另外，在星球中不只能学到实用的硬核技术，还能学习**实战项目**！
 
-关注 [冰河技术](https://img-blog.csdnimg.cn/20210426115714643.jpg?raw=true)公众号，回复 `星球` 可以获取入场优惠券。
+关注 [冰河技术](https://binghe.gitcode.host/images/personal/ice_wechat.jpg)公众号，回复 `星球` 可以获取入场优惠券。
 
 <div align="center">
     <img src="https://binghe.gitcode.host/images/personal/xingqiu.png?raw=true" width="180px">
-    <div style="font-size: 9px;">知识星球：冰河技术</div>
+    <div style="font-size: 18px;">知识星球：冰河技术</div>
     <br/>
 </div>
 
@@ -159,6 +177,12 @@
 ### 我的新书
 
 <div align="center">
+    <img src="https://binghe.gitcode.host/images/book/2023-02-20-001.jpg?raw=true" width="80%">
+      <div style="font-size: 18px;"><a href="https://u.jd.com/izMwOkE">《深入理解高并发编程：JDK核心技术》</a></div>
+    <br/>
+</div>
+
+<div align="center">
     <img src="https://img-blog.csdnimg.cn/fe76310aea734752b3b79c4df1438943.jpeg?raw=true" width="80%">
       <div style="font-size: 18px;"><a href="https://item.jd.com/13190783.html">《深入理解高并发编程：核心原理与案例实战》</a></div>
     <br/>
@@ -191,6 +215,11 @@
 
 ### 新书介绍
 
+* [《深入理解高并发编程：JDK核心技术》-冰河新书上市](https://mp.weixin.qq.com/s/R4lqlbXpZsFTOUYALFWZUg)
+* [十年大促亿级流量并发编程总结与规划！](https://mp.weixin.qq.com/s/u5t88cAq1eWuoEzF9qZKMQ)
+* [听说B站和ChatGPT都被搞宕机了？](https://mp.weixin.qq.com/s/5ipbD7oKEHo5zvBrcWCxNQ)
+* [沉淀、成长、突破，下一本会是啥？](https://mp.weixin.qq.com/s/CfZHDlfR3g9kQtDyZfa9nw)
+* [我竟然买不起自己出版的书！！](https://mp.weixin.qq.com/s/sPn11eI1zeZyWwy_TqWHOg)
 * [多年亿级流量下的高并发经验总结，我毫无保留的写在了这本书中](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247502342&idx=1&sn=2fed57688d1f747dd1f167648b5f629d&chksm=cf567d07f821f411080fd0a91a8f6b0e93467be15ccecbf1250a2b5c79064265a48d6def0e0c&token=2138570566&lang=zh_CN#rd)
 * [冰河最新出版的《深入理解高并发编程：核心原理与案例实战》到底讲了些啥？(视频为证)](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247502370&idx=1&sn=7ca6db495e46a89e707d6390f19eb7b4&chksm=cf567d23f821f4354fe2fa8f6f93502abdac9f3514c1f18ca672ad489c0b402a0b9e1254550c&token=2138570566&lang=zh_CN#rd)
 * [让大家久等了，冰河的《深入理解分布式事务：原理与实战》终于出版了！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247497263&idx=1&sn=8228a795261b0a90a3f42322368616fc&chksm=cf56412ef821c8389584e9e608aa4d6515cf68e26758b9c578a8f60a796999fafc8686a6a425&token=1170633251&lang=zh_CN#rd)
@@ -209,7 +238,254 @@
 * [两本书，你更喜欢哪一本？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489114&idx=1&sn=f6d3ecc53f7b53e91e050aa6d9e4b9e0&chksm=cf55a15bf822284d4759def938cb06a0da92aadd9768308aedd54bc86e09f9f708b916f957fd&token=776659970&lang=zh_CN#rd)
 * [冰河又一MySQL技术力作出版（文末送书）！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247489670&idx=1&sn=fe4e1d4f3db05607e37f35cbd7837fc8&chksm=cf55af87f8222691c42b252444a2d5ec1989aadbc0956463169fe6bc8f77c4977b3a4d2dfe9c&token=776659970&lang=zh_CN#rd)
 
-### 🔥🔥🔥 RPC手撸专栏 持续更新中...
+#### 星球专栏
+
+* [一个人也许走的很快，但一群人走的更远！](https://mp.weixin.qq.com/s/tpwdPO0qtqwbInppIvgY9g)
+* [假期做了一项调研：结果合乎情理！](https://mp.weixin.qq.com/s/uoR0fcZ4TOb4PbUviYDMxw)
+* [五一假期，正式开卷（再送超大福利）](https://mp.weixin.qq.com/s/CcfLI9aH9RSSiK7dWVx4uA)
+* [冰河生日，限时5折！！](https://mp.weixin.qq.com/s/UlyCSK-tdfZIHRWNXKz2qA)
+* [自研的RPC零侵入完美整合了SpringCloud Alibaba，很有成就感！](https://mp.weixin.qq.com/s/RAvSWiT3UkYCPJHvIMdFUg)
+* [《Seckill秒杀系统》开篇：我要手把手教你搭建并研发一套抗瞬时百万流量的秒杀系统](https://mp.weixin.qq.com/s/BCjuU2Dyy685iASeM9xOpg)
+* [硬核 | 这应该是最强的从零开始手写RPC的专栏](https://mp.weixin.qq.com/s/6tWqrijUq7uAQjjWpmzK7g)
+* [一周年，太狠了！（文末有福利）](https://mp.weixin.qq.com/s/NF-FEwRwN7taH3J_8Oa3VQ)
+* [我做了件绝大部分人和机构做不到的事情！！](https://mp.weixin.qq.com/s/_S82AThasfupCCvWogwP6g)
+* [原来大厂面试官也会在这里偷偷学习！](https://mp.weixin.qq.com/s/Zp0nI2RyFb_UCYpSsUt2OQ)
+* [转管理被下属怼，如何破局？](https://mp.weixin.qq.com/s/sCuzs3WBrY-71SH08LbUuw)
+
+### 💥 分布式IM即时通讯系统
+
+* [《分布式IM系统》开篇：分布式IM即时通讯系统正式启动](https://t.zsxq.com/14WPONMB1)
+* [《分布式IM系统》需求设计-第01节：为何要学习分布式IM即时通讯系统](https://t.zsxq.com/14pDoU2bm)
+* [《分布式IM系统》需求设计-第02节：分布式IM即时通讯系统的目标与挑战](https://t.zsxq.com/14vNxrhs5)
+* [《分布式IM系统》需求设计-第03节：分布式IM即时通讯系统功能需求与流程梳理](https://t.zsxq.com/149IP0Ctv)
+* [《分布式IM系统》需求设计-第04节：分布式IM即时通讯系统技术流程梳理](https://t.zsxq.com/144SWUMPi)
+* [《分布式IM系统》总体架构-第01节：分布式IM即时通讯系统总体方案目标与架构设计](https://t.zsxq.com/144pEihGb)
+* [《分布式IM系统》总体架构-第02节：分布式IM即时通讯系统数据模型设计](https://t.zsxq.com/14ie4NqRD)
+* [《分布式IM系统》环境搭建-第01节：分布式IM即时通讯系统研发环境搭建](https://t.zsxq.com/14oOdmec0)
+* [《分布式IM系统》环境搭建-第02节：分布式IM即时通讯系统项目工程搭建](https://t.zsxq.com/15FTjKpI2)
+
+### 💥 Seckill秒杀系统
+
+* [《Seckill秒杀系统》开篇：我要手把手教你搭建并研发一套抗瞬时百万流量的秒杀系统](https://articles.zsxq.com/id_52v1wwqt8uez.html)
+* [《Seckill秒杀系统》第1章：从多个角度聊聊为何要学习秒杀系统](https://articles.zsxq.com/id_568x6zv029p0.html)
+* [《Seckill秒杀系统》第2章：秒杀系统的目标与挑战](https://articles.zsxq.com/id_o8mpr6wa7ckz.html)
+* [《Seckill秒杀系统》第3章：秒杀系统高并发大流量的应对之道](https://articles.zsxq.com/id_twifx1gmaqp5.html)
+* [《Seckill秒杀系统》第4章：秒杀系统需求与流程梳理](https://articles.zsxq.com/id_dl7wxs3uea1x.html)
+* [《Seckill秒杀系统》第5章：秒杀系统技术流程梳理](https://articles.zsxq.com/id_34je77wpb9ul.html)
+* [《Seckill秒杀系统》第6章：秒杀系统总体方案目标与架构设计](https://articles.zsxq.com/id_6beq5lgdxv16.html)
+* [《Seckill秒杀系统》第7章：秒杀系统基础环境搭建](https://articles.zsxq.com/id_k0a488ltsvsc.html)
+* [《Seckill秒杀系统》第8章：秒杀系统研发环境搭建](https://articles.zsxq.com/id_0icjzih3iia1.html)
+* [《Seckill秒杀系统》第9章：秒杀系统数据模型设计](https://articles.zsxq.com/id_wienuttsbsl6.html)
+* [《Seckill秒杀系统》第10章：基于DDD快速搭建秒杀系统项目并测试](https://articles.zsxq.com/id_p5k53dcnsmot.html)
+* [《Seckill秒杀系统》第11章：用户登录授权认证流程的设计与实现](https://articles.zsxq.com/id_6loz5zwuc8pd.html)
+* [《Seckill秒杀系统》第12章：访问登录授权限制接口的流程设计与实现](https://articles.zsxq.com/id_hnrl4fo6novx.html)
+* [《Seckill秒杀系统》第13章：秒杀活动业务流程与接口设计](https://articles.zsxq.com/id_wdfwtvodfnb4.html)
+* [《Seckill秒杀系统》第14章：秒杀活动后端业务与接口开发](https://articles.zsxq.com/id_20cgmqtahkow.html)
+* [《Seckill秒杀系统》第15章：秒杀活动运营端业务开发](https://articles.zsxq.com/id_rphbmq1x6ohj.html)
+* [《Seckill秒杀系统》第16章：秒杀活动用户端业务开发](https://articles.zsxq.com/id_b0r7cbkn1z5d.html)
+* [《Seckill秒杀系统》第17章：秒杀商品业务流程与接口设计](https://articles.zsxq.com/id_7xeu66680um9.html)
+* [《Seckill秒杀系统》第18章：秒杀商品后端业务与接口开发](https://articles.zsxq.com/id_oljjuu2nwrgd.html)
+* [《Seckill秒杀系统》第19章：秒杀商品运营端业务开发](https://articles.zsxq.com/id_w3ii5bkwh5gm.html)
+* [《Seckill秒杀系统》第20章：秒杀商品用户端业务开发](https://articles.zsxq.com/id_ocqncwn7kji9.html)
+* [《Seckill秒杀系统》第21章：秒杀订单业务流程与接口设计](https://articles.zsxq.com/id_mmxb7tfkj035.html)
+* [《Seckill秒杀系统》第22章：秒杀订单后端业务与接口开发](https://articles.zsxq.com/id_z7pvr4qj6azh.html)
+* [《Seckill秒杀系统》第23章：秒杀订单用户端业务开发](https://articles.zsxq.com/id_r16tqrglj0zd.html)
+* [《Seckill秒杀系统》第24章：秒杀订单运营端业务开发](https://articles.zsxq.com/id_1tww82zwaj30.html)
+* [《Seckill秒杀系统》第25章：重现刷单流量问题](https://articles.zsxq.com/id_lpob0g9wq78k.html)
+* [《Seckill秒杀系统》第26章：重现库存超卖问题](https://articles.zsxq.com/id_iuwm7wxw65z1.html)
+* [《Seckill秒杀系统》第27章：混合型缓存设计场景与原则](https://articles.zsxq.com/id_vkg89cwmiplq.html)
+* [《Seckill秒杀系统》第28章：混合型缓存架构设计与技术选型](https://articles.zsxq.com/id_b1k5io028b3w.html)
+* [《Seckill秒杀系统》第29章：混合型缓存通用代码设计与实现](https://articles.zsxq.com/id_0wkdzau58v0j.html)
+* [《Seckill秒杀系统》第30章：分布式锁通用代码设计与实现](https://articles.zsxq.com/id_mqv8hetgxwd5.html)
+* [《Seckill秒杀系统》第31章：混合型缓存通用模型设计与实现](https://articles.zsxq.com/id_x5kditct932j.html)
+* [《Seckill秒杀系统》第32章：活动列表混合型缓存设计与实现](https://articles.zsxq.com/id_jup74sh3lvfv.html)
+* [《Seckill秒杀系统》第33章：活动详情混合型缓存设计与实现](https://articles.zsxq.com/id_1rln216kx577.html)
+* [《Seckill秒杀系统》第34章：商品列表混合型缓存设计与实现](https://articles.zsxq.com/id_3juzlk9zuxch.html)
+* [《Seckill秒杀系统》第35章：商品详情混合型缓存设计与实现](https://articles.zsxq.com/id_wfbn75le9jdt.html)
+* [《Seckill秒杀系统》第36章：领域事件通用缓存模型设计](https://articles.zsxq.com/id_rj7wlsf94bjo.html)
+* [《Seckill秒杀系统》第37章：秒杀活动监听缓存领域事件的设计与实现](https://articles.zsxq.com/id_r91w0tv22iha.html)
+* [《Seckill秒杀系统》第38章：秒杀活动发送缓存领域事件的设计与实现](https://articles.zsxq.com/id_c6p9gl22z93v.html)
+* [《Seckill秒杀系统》第39章：秒杀商品监听缓存领域事件的设计与实现](https://articles.zsxq.com/id_wk6nrsmwxla7.html)
+* [《Seckill秒杀系统》第40章：秒杀商品发送缓存领域事件的设计与实现](https://articles.zsxq.com/id_05mkgmlxe4wa.html)
+* [《Seckill秒杀系统》第41章：秒杀订单监听领域事件的设计与实现](https://articles.zsxq.com/id_xrk938m6odxi.html)
+* [《Seckill秒杀系统》第42章：秒杀订单发送领域事件的设计与实现](https://articles.zsxq.com/id_lmgdiuerguce.html)
+* [《Seckill秒杀系统》第43章：秒杀扣减库存设计](https://articles.zsxq.com/id_ghzd1fwxws1l.html)
+* [《Seckill秒杀系统》第44章：基于数据库设计并实现库存防超卖](https://articles.zsxq.com/id_26bhpj32qsht.html)
+* [《Seckill秒杀系统》第45章：基于分布式锁设计并实现库存防超卖](https://articles.zsxq.com/id_ugbgwqmpqf06.html)
+* [《Seckill秒杀系统》第46章：基于Lua脚本设计并实现库存防超卖](https://articles.zsxq.com/id_488nwittqk50.html)
+* [《Seckill秒杀系统》第47章：从单体到微服务重构项目](https://articles.zsxq.com/id_3iqbf48v3onj.html)
+* [《Seckill秒杀系统》第48章：重现分布式事务问题](https://articles.zsxq.com/id_s3warwg7btxb.html)
+* [《Seckill秒杀系统》第49章：基于TCC模型解决分布式事务问题](https://articles.zsxq.com/id_h91ffi7klc5w.html)
+* [《Seckill秒杀系统》第50章：基于AT模型解决分布式事务问题](https://articles.zsxq.com/id_csqoe1svaowx.html)
+* [《Seckill秒杀系统》第51章：基于可靠消息最终一致性模型解决分布式事务问题](https://articles.zsxq.com/id_152lm5hnghsv.html)
+* [《Seckill秒杀系统》第52章：零侵入重构秒杀活动异步事件后置处理器](https://articles.zsxq.com/id_b9wvclbcbmzr.html)
+* [《Seckill秒杀系统》第53章：零侵入重构秒杀商品异步事件后置处理器](https://articles.zsxq.com/id_qf1qlhaahnba.html)
+* [《Seckill秒杀系统》第54章：零侵入重构秒杀订单异步事件后置处理器](https://articles.zsxq.com/id_kb9vj6ddu8f2.html)
+* [《Seckill秒杀系统》第55章：异步化下单流程设计](https://articles.zsxq.com/id_fra3l7clibjr.html)
+* [《Seckill秒杀系统》第56章：异步化下单编码实现](https://articles.zsxq.com/id_x6ifoesa4hu1.html)
+* [《Seckill秒杀系统》第57章：异步化扣减商品库存流程设计](https://articles.zsxq.com/id_v7kkzg2w6awz.html)
+* [《Seckill秒杀系统》第58章：异步化扣减商品库存编码实现](https://articles.zsxq.com/id_4tvlwq3wgdh7.html)
+* [《Seckill秒杀系统》第59章：商品库存分库分表与分桶设计](https://articles.zsxq.com/id_ww038en11sou.html)
+* [《Seckill秒杀系统》第60章：商品库存分库分表与分桶编码实现](https://articles.zsxq.com/id_u23r14prl43c.html)
+* [《Seckill秒杀系统》第61章：下单流程整合商品库存分桶](https://articles.zsxq.com/id_mfx8bc73rku0.html)
+* [《Seckill秒杀系统》第62章：订单分库分表设计](https://articles.zsxq.com/id_8e4hbh4rxzd7.html)
+* [《Seckill秒杀系统》第63章：订单分库分表编码实现](https://articles.zsxq.com/id_oz5hg1m3drww.html)
+* [《Seckill秒杀系统》第64章：下单流程整合订单分库分表](https://articles.zsxq.com/id_b3c0udkhuzkx.html)
+* [《Seckill秒杀系统》第65章：秒杀系统流量隔离策略](https://articles.zsxq.com/id_pbddoqgimhun.html)
+* [《Seckill秒杀系统》第66章：秒杀系统规模限制策略](https://articles.zsxq.com/id_md0gzi4esxdt.html)
+* [《Seckill秒杀系统》第67章：预约系统需求梳理与架构设计](https://articles.zsxq.com/id_hwk8hpcndk2a.html)
+* [《Seckill秒杀系统》第68章：预约系统数据模型设计](https://articles.zsxq.com/id_pw4mgl1acvzc.html)
+* [《Seckill秒杀系统》第69章：预约系统业务流程与接口设计](https://articles.zsxq.com/id_9uokwpg1sm2o.html)
+* [《Seckill秒杀系统》第70章：预约系统运营端业务与接口开发](https://articles.zsxq.com/id_31audag7ajrh.html)
+* [《Seckill秒杀系统》第71章：预约系统用户端业务与接口开发](https://articles.zsxq.com/id_ui4rlupig7rc.html)
+* [《Seckill秒杀系统》第72章：下单流程整合预约系统](https://articles.zsxq.com/id_mmm8cjtnr8r7.html)
+* [《Seckill秒杀系统》第73章：预约系统分库分表设计](https://articles.zsxq.com/id_jxv1umew3qva.html)
+* [《Seckill秒杀系统》第74章：预约系统分库分表实现](https://articles.zsxq.com/id_4qm51glv343t.html)
+* [《Seckill秒杀系统》第75章：预约系统整合分库分表](https://articles.zsxq.com/id_lca80cou1s4m.html)
+* [《Seckill秒杀系统》第76章：秒杀系统限流总体概述](https://articles.zsxq.com/id_a515brw13w1w.html)
+* [《Seckill秒杀系统》第77章：打散客户端流量](https://articles.zsxq.com/id_a0v4rjf76vbo.html)
+* [《Seckill秒杀系统》第78章：消息队列削峰](https://articles.zsxq.com/id_ewbv8ci2xd1a.html)
+* [《Seckill秒杀系统》第79章：限流削峰](https://articles.zsxq.com/id_ktkdpqp8u1bm.html)
+* [《Seckill秒杀系统》第80章：Sentinel概述与本地搭建环境](https://articles.zsxq.com/id_ofdkbfo5ptww.html)
+* [《Seckill秒杀系统》第81章：秒杀系统整合Sentinel实现流控](https://articles.zsxq.com/id_88wejhb2hgzg.html)
+* [《Seckill秒杀系统》第82章：Sentinel核心技术与配置规则（加餐）](https://articles.zsxq.com/id_kt44xk81wbd8.html)
+* [《Seckill秒杀系统》第83章：基于QPS实现本地API限流](https://articles.zsxq.com/id_ww7xdag29t94.html)
+* [《Seckill秒杀系统》第84章：基于线程池实现单机并发数限流](https://articles.zsxq.com/id_qkvxkxpomv3n.html)
+* [《Seckill秒杀系统》第85章：业务网关概述与核心架构](https://articles.zsxq.com/id_1lwdvarhwn3m.html)
+* [《Seckill秒杀系统》第86章：秒杀系统整合业务网关](https://articles.zsxq.com/id_dopd3zuw0363.html)
+* [《Seckill秒杀系统》第87章：业务网关整合Nacos配置](https://articles.zsxq.com/id_k3v3cwv7ogmd.html)
+* [《Seckill秒杀系统》第88章：业务网关整合Sentinel流控](https://articles.zsxq.com/id_25vqhrif9cf4.html)
+* [《Seckill秒杀系统》第89章：业务网关整合Guava流控](https://articles.zsxq.com/id_c2dzqg1fx62u.html)
+* [《Seckill秒杀系统》第90章：业务网关使用自带流控](https://articles.zsxq.com/id_weo8s8g7rq8f.html)
+* [《Seckill秒杀系统》第91章：流量网关初步搭建](https://articles.zsxq.com/id_1ew35nlixd6c.html)
+* [《Seckill秒杀系统》第92章：流量网关项目搭建](https://articles.zsxq.com/id_hgqv1euj81d3.html)
+* [《Seckill秒杀系统》第93章：流量网关实现限流](https://articles.zsxq.com/id_41bnbsox6dif.html)
+* [《Seckill秒杀系统》第94章：服务雪崩与容错方案](https://articles.zsxq.com/id_6d1um38qrxs7.html)
+* [《Seckill秒杀系统》第95章：服务降级核心原理与落地方案](https://articles.zsxq.com/id_ehf2k7838z4b.html)
+* [《Seckill秒杀系统》第96章：热点数据问题与解决方案](https://articles.zsxq.com/id_1j5n26femjpb.html)
+* [《Seckill秒杀系统》第97章：秒杀系统实现服务容错](https://articles.zsxq.com/id_06nk8672ng7a.html)
+* [《Seckill秒杀系统》第98章：凌乱的服务配置与解决方案](https://articles.zsxq.com/id_acu0vrc86wdo.html)
+* [《Seckill秒杀系统》第99章：秒杀系统整合Nacos配置中心](https://articles.zsxq.com/id_az4qpenpf439.html)
+* [《Seckill秒杀系统》第100章：实现配置动态刷新](https://articles.zsxq.com/id_wi6hrxskrwqp.html)
+* [《Seckill秒杀系统》第101章：实现配置动态共享](https://articles.zsxq.com/id_jz6er8fk05vp.html)
+* [《Seckill秒杀系统》第102章：链路追踪核心原理与解决方案](https://articles.zsxq.com/id_w0kgroc8pw49.html)
+* [《Seckill秒杀系统》第103章：整合Sleuth实现链路追踪](https://articles.zsxq.com/id_i68crg1dcwlj.html)
+* [《Seckill秒杀系统》第104章：扩展Dubbo源码实现链路追踪](https://articles.zsxq.com/id_njz1wp1hsjac.html)
+* [《Seckill秒杀系统》第105章：Sleuth整合ZipKin实现可视化](https://articles.zsxq.com/id_gkdo616fwap6.html)
+* [《Seckill秒杀系统》第106章：日志治理概述、原则与架构](https://articles.zsxq.com/id_v47kptus05xf.html)
+* [《Seckill秒杀系统》第107章：快速搭建ELK环境并导入配置](https://articles.zsxq.com/id_l1w75ok62ws6.html)
+* [《Seckill秒杀系统》第108章：秒杀系统整合日志治理](https://articles.zsxq.com/id_2s53oznk3aox.html)
+* [《Seckill秒杀系统》第109章：实现基于条件限流防刷](https://articles.zsxq.com/id_r0vtpqu8stp3.html)
+* [《Seckill秒杀系统》第110章：实现基于Token编排机制防刷](https://articles.zsxq.com/id_6qu3h1z8lrcn.html)
+* [《Seckill秒杀系统》第111章：实现基于黑名单机制防刷](https://articles.zsxq.com/id_nbiqv82rroru.html)
+* [《Seckill秒杀系统》第112章：黑灰产与风控基础知识介绍](https://articles.zsxq.com/id_2p4ahqwgvd5g.html)
+* [《Seckill秒杀系统》第113章：风控模型架构与落地方案](https://articles.zsxq.com/id_3tw56uw470jg.html)
+* [《Seckill秒杀系统》第114章：秒杀系统风控模型设计](https://articles.zsxq.com/id_rhnfwh1bwao5.html)
+* [《Seckill秒杀系统》第115章：秒杀系统风控模型实现](https://articles.zsxq.com/id_rw4vcwo2o0wa.html)
+* [《Seckill秒杀系统》第116章：容器化集群部署架构设计](https://articles.zsxq.com/id_v6vtpb1kg0mx.html)
+* [《Seckill秒杀系统》第117章：容器化集群部署落地实现](https://articles.zsxq.com/id_6wuxvmdjmbdt.html)
+* [《Seckill秒杀系统》第118章：容灾架构设计与落地方案](https://articles.zsxq.com/id_mji5v2i3uv6w.html)
+* [《Seckill秒杀系统》第119章：全链路压测场景与核心流程](https://articles.zsxq.com/id_s0t8jzza7z4b.html)
+* [《Seckill秒杀系统》第120章：全链路压测核心原则与策略](https://articles.zsxq.com/id_bvtd2s2xujqn.html)
+* [《Seckill秒杀系统》第121章：全链路压测落地方案实施](https://articles.zsxq.com/id_nvinjjexe8q3.html)
+* [《Seckill秒杀系统》第122章：服务器物理机极致优化](https://articles.zsxq.com/id_i7qwgtktwgdo.html)
+* [《Seckill秒杀系统》第123章：单机服务极致优化](https://articles.zsxq.com/id_vla569lwcv5p.html)
+* [《Seckill秒杀系统》第124章：秒杀系统流程极致优化](https://articles.zsxq.com/id_ezkr511hqn61.html)
+* [《Seckill秒杀系统》结尾：秒杀系统整体专栏总结](https://articles.zsxq.com/id_lsps4inuwvh3.html)
+
+### 💥 实战高并发设计模式
+
+* [《并发设计模式》开篇-全新的开始：用讲故事的形式带你彻底吃透并发设计模式](https://articles.zsxq.com/id_q2kgu3c14nsd.html)
+* [《并发设计模式》第01章-不可变模式-这特么到底是哪里不对？](https://articles.zsxq.com/id_uw7tjugiwwxb.html)
+* [《并发设计模式》第02章-不可变模式-原来问题出在这里！](https://articles.zsxq.com/id_u2gkpv36nh57.html)
+* [《并发设计模式》第03章-不可变模式-有哪些方法能够解决并发问题?](https://articles.zsxq.com/id_9jwx90cmdrkh.html)
+* [《并发设计模式》第04章-不可变模式-可变类的线程安全问题](https://articles.zsxq.com/id_xe1cqh5er2wc.html)
+* [《并发设计模式》第05章-不可变模式-实现不可变类解决线程安全问题](https://articles.zsxq.com/id_1q7rwtvd7hjc.html)
+* [《并发设计模式》第06章-不可变模式-实战案例：实现消息聚合发送系统](https://articles.zsxq.com/id_v4v48uab2vr3.html)
+* [《并发设计模式》第07章-不可变模式-JDK中的等效不可变类](https://articles.zsxq.com/id_ddja6s5xbq1g.html)
+* [《并发设计模式》第08章-保护性暂挂模式-线程的流转状态](https://articles.zsxq.com/id_76uo8j4g0tj7.html)
+* [《并发设计模式》第09章-保护性暂挂模式-解决交易过程加锁的安全性问题](https://articles.zsxq.com/id_whqh4vdiu6zx.html)
+* [《并发设计模式》第10章-保护性暂挂模式-解决交易过程性能与死锁问题](https://articles.zsxq.com/id_tidr0w5rtej0.html)
+* [《并发设计模式》第11章-保护性暂挂模式-使用保护性暂挂模式优化交易系统性能](https://articles.zsxq.com/id_h5o2r8zmh1np.html)
+* [《并发设计模式》第12章-保护性暂挂模式-基于护性暂挂模式实现监控报警系统](https://articles.zsxq.com/id_l880mcv56e3h.html)
+* [《并发设计模式》第13章-保护性暂挂模式-保护性暂挂模式在JDK中的应用](https://articles.zsxq.com/id_gp53gti23an2.html)
+* [《并发设计模式》第14章-两阶段终止模式-线程还没执行完任务怎么就退出了？](https://articles.zsxq.com/id_7mwg6a0hqk0c.html)
+* [《并发设计模式》第15章-两阶段终止模式-到底什么是两阶段终止模式](https://articles.zsxq.com/id_3g2ow8pqf4g8.html)
+* [《并发设计模式》第16章-两阶段终止模式-实现监控报警系统线程优雅退出](https://articles.zsxq.com/id_9qpwzcjtds5j.html)
+* [《并发设计模式》第17章-两阶段终止模式-两阶段终止模式在线程池中的应用](https://articles.zsxq.com/id_4rrqutltpxtm.html)
+* [《并发设计模式》第18章-承诺模式-这代码性能怎么这么差！](https://articles.zsxq.com/id_m4tljcopq6ic.html)
+* [《并发设计模式》第19章-承诺模式-到底什么是承诺模式](https://articles.zsxq.com/id_h6wuv5xlrd7n.html)
+* [《并发设计模式》第20章-承诺模式-基于承诺模式优化社区电商项目](https://articles.zsxq.com/id_vh8k3z0hscz0.html)
+* [《并发设计模式》第21章-承诺模式-文件同步助手项目性能太差原因分析](https://articles.zsxq.com/id_ca0swb2g05eb.html)
+* [《并发设计模式》第22章-承诺模式-基于承诺模式优化文件同步助手项目](https://articles.zsxq.com/id_7fcambhqxl0p.html)
+* [《并发设计模式》第23章-承诺模式-承诺模式在FutureTask类中的应用](https://articles.zsxq.com/id_wnt2fe2zj79g.html)
+* [《并发设计模式》第24章-生产者消费者模式-面向C端的个人文库系统崩了](https://articles.zsxq.com/id_crwfbz23zex2.html)
+* [《并发设计模式》第25章-生产者消费者模式-面向C端的个人文库系统资源耗尽](https://articles.zsxq.com/id_90b8unib0p08.html)
+* [《并发设计模式》第26章-生产者消费者模式-优化面向C端的个人文库系统](https://articles.zsxq.com/id_9vf49n3p904o.html)
+* [《并发设计模式》第27章-生产者消费者模式-消息堆积问题场景分析](https://articles.zsxq.com/id_rfvzquvd4pra.html)
+* [《并发设计模式》第28章-生产者消费者模式-消息堆积问题解决方案](https://articles.zsxq.com/id_axtimwf09xex.html)
+* [《并发设计模式》第29章-生产者消费者模式-生产者消费者模式在线程池中的应用](https://articles.zsxq.com/id_fhf4ogjm0lbo.html)
+* [《并发设计模式》第30章-主动对象模式-重大事故访问商品链接404](https://articles.zsxq.com/id_ui9fmr2m0wzw.html)
+* [《并发设计模式》第31章-主动对象模式-访问商品链接404原因分析](https://articles.zsxq.com/id_rmxsf80skzmk.html)
+* [《并发设计模式》第32章-主动对象模式-到底什么是主动对象模式](https://articles.zsxq.com/id_85kti3gez2il.html)
+* [《并发设计模式》第33章-主动对象模式-基于主动对象模式优化社区电商系统](https://articles.zsxq.com/id_gu45bjs5xb7d.html)
+* [《并发设计模式》第34章-主动对象模式-主动对象模式在线程池中的应用](https://articles.zsxq.com/id_2gqeemxztmph.html)
+* [《并发设计模式》第35章-线程池模式-服务器内存爆了](https://articles.zsxq.com/id_r3ztn9euce90.html)
+* [《并发设计模式》第36章-线程池模式-无法创建新的本地线程](https://articles.zsxq.com/id_pakd18vvpiba.html)
+* [《并发设计模式》第37章-线程池模式-优化社区电商系统优惠券服务](https://articles.zsxq.com/id_x769xr7qw5vi.html)
+* [《并发设计模式》第38章-线程池模式-线程池核心参数解析](https://articles.zsxq.com/id_luezbnhkbz58.html)
+* [《并发设计模式》第39章-线程池模式-线程池执行任务源码深度解析](https://articles.zsxq.com/id_5ttacdve8e0o.html)
+* [《并发设计模式》第40章-线程池模式-实现手写线程池](https://articles.zsxq.com/id_mrqouitax3wh.html)
+* [《并发设计模式》第41章-线程特有存储模式-用户信息怎么错乱了？](https://articles.zsxq.com/id_bb5mzcqmqgxi.html)
+* [《并发设计模式》第42章-线程特有存储模式-到底什么是线程特有存储](https://articles.zsxq.com/id_sje5felxnnrg.html)
+* [《并发设计模式》第43章-线程特有存储模式-解决格式化时间的线程安全问题](https://articles.zsxq.com/id_fu94e6rhhtxc.html)
+* [《并发设计模式》第44章-线程特有存储模式-线程特有存储模式在JDK中的应用](https://articles.zsxq.com/id_odw1i53kfs6d.html)
+* [《并发设计模式》第45章-线程特有存储模式-ThreadLocal内存泄露分析](https://articles.zsxq.com/id_g8i50u1mshoi.html)
+* [《并发设计模式》第46章-串行线程封闭模式-导出报表数据错乱了](https://articles.zsxq.com/id_4g3r4z1wjm30.html)
+* [《并发设计模式》第47章-串行线程封闭模式-到底什么是串行线程封闭模式](https://articles.zsxq.com/id_fwpc3tkwvzai.html)
+* [《并发设计模式》第48章-串行线程封闭模式-优化报表系统导出数据功能](https://articles.zsxq.com/id_dx1gcrlun4z0.html)
+* [《并发设计模式》第49章-主仆模式-统计个数据性能太差了](https://articles.zsxq.com/id_b73twrf4ldki.html)
+* [《并发设计模式》第50章-主仆模式-到底什么是主仆模式](https://articles.zsxq.com/id_m3tci09ujp2l.html)
+* [《并发设计模式》第51章-主仆模式-基于主仆模式优化统计热点商品功能](https://articles.zsxq.com/id_uiled8l9uajs.html)
+* [《并发设计模式》第52章-主仆模式-主仆模式在JDK中的应用](https://articles.zsxq.com/id_7h09wiqjk460.html)
+* [《并发设计模式》第53章-流水线模式-统计个交易额也能这么慢？](https://articles.zsxq.com/id_6pxhk5tk32mu.html)
+* [《并发设计模式》第54章-流水线模式-到底什么是流水线模式](https://articles.zsxq.com/id_505fvncpo9jk.html)
+* [《并发设计模式》第55章-流水线模式-基于流水线模式优化实时统计交易额功能](https://articles.zsxq.com/id_ph1ucvgdekcr.html)
+* [《并发设计模式》第56章-流水线模式-流水线模式在Netty中的应用](https://articles.zsxq.com/id_ewor0fsfwn4g.html)
+* [《并发设计模式》第57章-半同步半异步模式-支付系统性能太差了](https://articles.zsxq.com/id_9e55sf8hn7zd.html)
+* [《并发设计模式》第58章-半同步半异步模式-到底什么是半同步半异步模式](https://articles.zsxq.com/id_bbwwn8t9wes2.html)
+* [《并发设计模式》第59章-半同步半异步模式-使用半同步半异步模式优化支付系统](https://articles.zsxq.com/id_4plt07zs2cvb.html)
+* [《并发设计模式》第60章-半同步半异步模式-如何处理消息堆积问题](https://articles.zsxq.com/id_qnths0pr5w1t.html)
+* [《并发设计模式》总结-并发设计模式整体专栏总结](https://articles.zsxq.com/id_hgu65zj3epna.html)
+
+### 💥 Java极简设计模式
+
+* [《Java极简设计模式》第01章：单例模式（Singleton）](https://binghe.gitcode.host/md/core/design/java/2023-07-09-%E3%80%8AJava%E6%9E%81%E7%AE%80%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8B%E7%AC%AC01%E7%AB%A0-%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.html)
+* [《Java极简设计模式》第02章：抽象工厂模式(AbstractFactoty)](https://binghe.gitcode.host/md/core/design/java/2023-07-10-%E3%80%8AJava%E6%9E%81%E7%AE%80%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8B%E7%AC%AC02%E7%AB%A0-%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.html)
+* [《Java极简设计模式》第03章：工厂方法模式(FactoryMethod)](https://binghe.gitcode.host/md/core/design/java/2023-07-11-%E3%80%8AJava%E6%9E%81%E7%AE%80%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8B%E7%AC%AC03%E7%AB%A0-%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F.html)
+* [《Java极简设计模式》第04章：建造者模式(Builder)](https://binghe.gitcode.host/md/core/design/java/2023-07-12-%E3%80%8AJava%E6%9E%81%E7%AE%80%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8B%E7%AC%AC04%E7%AB%A0-%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F.html)
+* [《Java极简设计模式》第05章：原型模式（Prototype）](https://binghe.gitcode.host/md/core/design/java/2023-07-13-%E3%80%8AJava%E6%9E%81%E7%AE%80%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8B%E7%AC%AC05%E7%AB%A0-%E5%8E%9F%E5%9E%8B%E6%A8%A1%E5%BC%8F.html)
+* [《Java极简设计模式》第06章：适配器模式（Adapter）](https://binghe.gitcode.host/md/core/design/java/2023-07-14-%E3%80%8AJava%E6%9E%81%E7%AE%80%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8B%E7%AC%AC06%E7%AB%A0-%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F.html)
+* [《Java极简设计模式》第07章：装饰模式（Decorator）](https://binghe.gitcode.host/md/core/design/java/2023-07-15-%E3%80%8AJava%E6%9E%81%E7%AE%80%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8B%E7%AC%AC07%E7%AB%A0-%E8%A3%85%E9%A5%B0%E6%A8%A1%E5%BC%8F.html)
+* [《Java极简设计模式》第08章：外观模式(Facade)](https://binghe.gitcode.host/md/core/design/java/2023-07-16-%E3%80%8AJava%E6%9E%81%E7%AE%80%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8B%E7%AC%AC08%E7%AB%A0-%E5%A4%96%E8%A7%82%E6%A8%A1%E5%BC%8F.html)
+* [《Java极简设计模式》第09章：代理模式(Proxy)](https://binghe.gitcode.host/md/core/design/java/2023-07-17-%E3%80%8AJava%E6%9E%81%E7%AE%80%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8B%E7%AC%AC09%E7%AB%A0-%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8F.html)
+* [《Java极简设计模式》第10章：桥接模式（Bridge）](https://binghe.gitcode.host/md/core/design/java/2023-07-18-%E3%80%8AJava%E6%9E%81%E7%AE%80%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8B%E7%AC%AC10%E7%AB%A0-%E6%A1%A5%E6%8E%A5%E6%A8%A1%E5%BC%8F.html)
+* [《Java极简设计模式》第11章：组合模式（Composite）](https://binghe.gitcode.host/md/core/design/java/2023-07-19-%E3%80%8AJava%E6%9E%81%E7%AE%80%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8B%E7%AC%AC11%E7%AB%A0-%E7%BB%84%E5%90%88%E6%A8%A1%E5%BC%8F.html)
+* [《Java极简设计模式》第12章：享元模式(Flyweight)](https://binghe.gitcode.host/md/core/design/java/2023-07-20-%E3%80%8AJava%E6%9E%81%E7%AE%80%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8B%E7%AC%AC12%E7%AB%A0-%E4%BA%AB%E5%85%83%E6%A8%A1%E5%BC%8F.html)
+* [《Java极简设计模式》第13章：责任链模式(COR)](https://binghe.gitcode.host/md/core/design/java/2023-07-21-%E3%80%8AJava%E6%9E%81%E7%AE%80%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8B%E7%AC%AC13%E7%AB%A0-%E8%B4%A3%E4%BB%BB%E9%93%BE%E6%A8%A1%E5%BC%8F.html)
+* [《Java极简设计模式》第14章：命令模式(Command)](https://binghe.gitcode.host/md/core/design/java/2023-07-22-%E3%80%8AJava%E6%9E%81%E7%AE%80%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8B%E7%AC%AC14%E7%AB%A0-%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F.html)
+* [《Java极简设计模式》第15章：解析器模式（Interpreter）](https://binghe.gitcode.host/md/core/design/java/2023-07-23-%E3%80%8AJava%E6%9E%81%E7%AE%80%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8B%E7%AC%AC15%E7%AB%A0-%E8%A7%A3%E6%9E%90%E5%99%A8%E6%A8%A1%E5%BC%8F.html)
+* [《Java极简设计模式》第16章：迭代器模式（Interator）](https://binghe.gitcode.host/md/core/design/java/2023-07-24-%E3%80%8AJava%E6%9E%81%E7%AE%80%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8B%E7%AC%AC16%E7%AB%A0-%E8%BF%AD%E4%BB%A3%E5%99%A8%E6%A8%A1%E5%BC%8F.html)
+* [《Java极简设计模式》第17章：中介者模式（Mediator）](https://binghe.gitcode.host/md/core/design/java/2023-07-25-%E3%80%8AJava%E6%9E%81%E7%AE%80%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8B%E7%AC%AC17%E7%AB%A0-%E4%B8%AD%E4%BB%8B%E8%80%85%E6%A8%A1%E5%BC%8F.html)
+* [《Java极简设计模式》第18章：备忘录模式（Memento）](https://binghe.gitcode.host/md/core/design/java/2023-07-26-%E3%80%8AJava%E6%9E%81%E7%AE%80%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8B%E7%AC%AC18%E7%AB%A0-%E5%A4%87%E5%BF%98%E5%BD%95%E6%A8%A1%E5%BC%8F.html)
+* [《Java极简设计模式》第19章：观察者模式（Observer）](https://binghe.gitcode.host/md/core/design/java/2023-07-27-%E3%80%8AJava%E6%9E%81%E7%AE%80%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8B%E7%AC%AC19%E7%AB%A0-%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F.html)
+* [《Java极简设计模式》第20章：状态模式（State）](https://binghe.gitcode.host/md/core/design/java/2023-07-28-%E3%80%8AJava%E6%9E%81%E7%AE%80%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8B%E7%AC%AC20%E7%AB%A0-%E7%8A%B6%E6%80%81%E6%A8%A1%E5%BC%8F.html)
+* [《Java极简设计模式》第21章：策略模式（Strategy）](https://binghe.gitcode.host/md/core/design/java/2023-07-29-%E3%80%8AJava%E6%9E%81%E7%AE%80%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8B%E7%AC%AC21%E7%AB%A0-%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F.html)
+* [《Java极简设计模式》第22章：模板方法（TemplateMethod）](https://binghe.gitcode.host/md/core/design/java/2023-07-30-%E3%80%8AJava%E6%9E%81%E7%AE%80%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8B%E7%AC%AC22%E7%AB%A0-%E6%A8%A1%E6%9D%BF%E6%96%B9%E6%B3%95.html)
+* [《Java极简设计模式》第23章：访问者模式（Visitor）](https://binghe.gitcode.host/md/core/design/java/2023-07-31-%E3%80%8AJava%E6%9E%81%E7%AE%80%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8B%E7%AC%AC23%E7%AB%A0-%E8%AE%BF%E9%97%AE%E8%80%85%E6%A8%A1%E5%BC%8F.html)
+
+
+### 💥 RPC手撸专栏
 
 #### RPC框架介绍
 * [《RPC手撸专栏》介绍：我一个人开发了“Dubbo”框架](https://mp.weixin.qq.com/s/WbDutwhnzoVhuqq6tYmGHg)
@@ -437,18 +713,97 @@
 
 #### 番外篇
 * [《从零开始手写RPC框架》电子书升级啦！](https://mp.weixin.qq.com/s/Z13jGNY94rEewp1HW9yiPQ)
+* [用过来人的身份告诉你为何大厂都要自研RPC？](https://mp.weixin.qq.com/s/7DkT5hWw8XHqqWV3JkX7pg)
 
-### 🔥🔥🔥 Spring核心技术
+### 💥 Spring核心技术
 
 * [《Spring IOC核心技术》共27章，19万字，打包发布！！](https://mp.weixin.qq.com/s/5wCnprKkMRx0Pd1gDImKtg)
-* [《Spring核心技术》开篇：我要带你一步步调试Spring6.0源码啦！](https://mp.weixin.qq.com/s/0HVmss9eqdI1-TpU1tFsRw)
-* [《Spring核心技术》第1章：深度解析@Configuration注解](https://mp.weixin.qq.com/s/OAq0vmYC49ErlV69LBa9mA)
-* [《Spring核心技术》第2章：深度解析@ComponentScan注解](https://mp.weixin.qq.com/s/yr1_BQKD2eRvv0OBayHz-g)
-* [《Spring核心技术》第3章：深度解析@Bean注解](https://mp.weixin.qq.com/s/geOOpL_1dVQShkKabylI7Q)
-* [《Spring核心技术》第4章：深度解析从IOC容器中获取Bean的过程](https://mp.weixin.qq.com/s/T_UgoBe9gepQhp9e20pQhw)
 
-### 🔥🔥🔥 精通高并发系列
+#### 专栏介绍
+* [《Spring核心技术》开篇：我要带你一步步调试Spring6.0源码啦！](https://articles.zsxq.com/id_dxl5ojx1vt2j.html)
 
+#### 第一篇：IOC容器
+* [《Spring核心技术》第1章：深度解析@Configuration注解（注解、案例与时序图部分）](https://articles.zsxq.com/id_jgn1d90d9nqo.html)
+* [《Spring核心技术》第1章：深度解析@Configuration注解（源码解析部分）](https://articles.zsxq.com/id_88k0ww2tsr6n.html)
+* [《Spring核心技术》第2章：深度解析@ComponentScan注解（注解、案例与时序图部分）](https://articles.zsxq.com/id_fvkiczjwem3u.html)
+* [《Spring核心技术》第2章：深度解析@ComponentScan注解（源码解析部分）](https://articles.zsxq.com/id_w84u4e7fraen.html)
+* [《Spring核心技术》第3章：深度解析@Bean注解（注解、案例与时序图部分）](https://articles.zsxq.com/id_h6ssgch50ohq.html)
+* [《Spring核心技术》第3章：深度解析@Bean注解（源码解析部分）](https://articles.zsxq.com/id_vf8ki780f0on.html)
+* [《Spring核心技术》第3章：深度解析@Bean注解（完善篇）](https://articles.zsxq.com/id_olf2fecx1h6x.html)
+* [《Spring核心技术》第4章：深度解析从IOC容器中获取Bean的过程](https://articles.zsxq.com/id_ac2wkclvokp3.html)
+* [《Spring核心技术》第5章：深度解析@Import注解（注解、案例与时序图部分）](https://articles.zsxq.com/id_m85awf52ap7s.html)
+* [《Spring核心技术》第5章：深度解析@Import注解（源码解析部分）](https://articles.zsxq.com/id_2wqrrl87q4ww.html)
+* [《Spring核心技术》第6章：深度解析@PropertySource注解](https://articles.zsxq.com/id_b7de867wms62.html)
+* [《Spring核心技术》第7章：深度解析@DependsOn注解](https://articles.zsxq.com/id_erb3xg2db8s4.html)
+* [《Spring核心技术》第8章：深度解析@Conditional注解](https://articles.zsxq.com/id_j1615j8bswpu.html)
+* [《Spring核心技术》第9章：深度解析@Lazy注解](https://articles.zsxq.com/id_umk0hfrr4qf2.html)
+* [《Spring核心技术》第10章：深度解析@Component注解（含扩展注解）](https://articles.zsxq.com/id_2svfoc2onw0p.html)
+* [《Spring核心技术》第11章：深度解析@Value注解（含@Autowired和@Inject）](https://articles.zsxq.com/id_1qtfp128b7wc.html)
+* [《Spring核心技术》第12章：深度解析@Autowired注解](https://articles.zsxq.com/id_xodqwm77k51b.html)
+* [《Spring核心技术》第13章：深度解析@Qualifier注解](https://articles.zsxq.com/id_tro8zjto40zn.html)
+* [《Spring核心技术》第14章：深度解析@Resource注解](https://articles.zsxq.com/id_v9wd5237pgu6.html)
+* [《Spring核心技术》第15章：深度解析@Inject注解](https://articles.zsxq.com/id_2lbs516korwe.html)
+* [《Spring核心技术》第16章：深度解析@Primary注解](https://articles.zsxq.com/id_ag4v69xzpla1.html)
+* [《Spring核心技术》第17章：深度解析@Scope注解](https://articles.zsxq.com/id_gbhw3a0m659q.html)
+* [《Spring核心技术》第18章：深度解析@PostConstruct注解与@PreDestroy注解](https://articles.zsxq.com/id_q1dtx07qi6tx.html)
+* [《Spring核心技术》第19章：深度解析@Profile注解](https://articles.zsxq.com/id_eproza82fs1w.html)
+* [《Spring核心技术》第20章：深度解析循环依赖](https://articles.zsxq.com/id_jjiexxsn8j3f.html)
+* [《Spring核心技术》第21章：深度解析事件监听机制](https://articles.zsxq.com/id_94mft95hpqe5.html)
+
+#### 第二篇：AOP切面
+* [《Spring核心技术》第22章：AOP切面型注解实战](https://articles.zsxq.com/id_xhaep3mgxbel.html)
+* [《Spring核心技术》第23章：深度解析@EnableAspectJAutoProxy注解](https://articles.zsxq.com/id_khq22od1cfhz.html)
+* [《Spring核心技术》第24章：深度解析切入点表达式](https://articles.zsxq.com/id_c8z1ro4n7iqu.html)
+* [《Spring核心技术》第25章：深度解析构建AOP拦截器链的流程](https://articles.zsxq.com/id_1le7i7cflbec.html)
+* [《Spring核心技术》第26章：深度解析调用通知方法的流程](https://articles.zsxq.com/id_twxhnxik8enc.html)
+* [《Spring核心技术》第27章：深度解析@DeclareParents注解](https://articles.zsxq.com/id_rw597583o4jg.html)
+* [《Spring核心技术》第28章：@EnableLoadTimeWeaving注解](https://articles.zsxq.com/id_hsvnjsdjoci8.html)
+
+#### 第三篇：声明式事务
+* [《Spring核心技术》第29章：Spring事务概述与编程实战](https://articles.zsxq.com/id_kq76kv1nwzoe.html)
+* [《Spring核心技术》第30章：深度解析Spring事务三大接口](https://articles.zsxq.com/id_ho2wnitvu0w1.html)
+* [《Spring核心技术》第31章：深度解析Spring事务隔离级别与传播机制](https://articles.zsxq.com/id_27ujpfwf1mh3.html)
+* [《Spring核心技术》第32章：深度解析@EnableTransactionManagement注解](https://articles.zsxq.com/id_8oxd67xgmkdk.html)
+* [《Spring核心技术》第33章：深度解析@Transactional注解](https://articles.zsxq.com/id_ezlz9t1pjks0.html)
+* [《Spring核心技术》第34章：深度解析Spring事务的执行流程](https://articles.zsxq.com/id_8q0nz7rucvjd.html)
+* [《Spring核心技术》第35章：深度解析Spring底层事务传播机制源码](https://articles.zsxq.com/id_6sw4tcdnl0qf.html)
+* [《Spring核心技术》第36章：深度解析@TransactionEventListener注解](https://articles.zsxq.com/id_6mqzv4xx6n58.html)
+* [《Spring核心技术》第37章：七大场景深度分析Spring事务嵌套最佳实践](https://articles.zsxq.com/id_je5i1cblcqkn.html)
+* [《Spring核心技术》第38章：深度解析Spring事务失效的八大场景](https://articles.zsxq.com/id_z55u4dijij8c.html)
+
+#### 第四篇：AOT预编译
+* [《Spring核心技术》第39章：AOT预编译技术概述](https://articles.zsxq.com/id_p5c7maejbow8.html)
+* [《Spring核心技术》第40章：构建Native Image](https://articles.zsxq.com/id_rh08wot03ls8.html)
+* [《Spring核心技术》第41章：Maven构建Native Image](https://articles.zsxq.com/id_ssa05mm62s0r.html)
+
+#### 第五篇：SpringMVC
+* [《Spring核心技术》第42章：注解型SpringMVC通用SpringBoot启动模型设计与实现](https://articles.zsxq.com/id_rt2w9t6inv5j.html)
+* [《Spring核心技术》第43章：深度解析@Controller注解](https://articles.zsxq.com/id_2tkel05tilvq.html)
+* [《Spring核心技术》第44章：深度解析@RestController注解](https://articles.zsxq.com/id_wrrk6j19tov0.html)
+* [《Spring核心技术》第45章：深度解析@RequestMapping注解](https://articles.zsxq.com/id_lr7351z398mb.html)
+* [《Spring核心技术》第46章：深度解析@RequestParam注解](https://articles.zsxq.com/id_uvbwbxp5pwgw.html)
+* [《Spring核心技术》第47章：深度解析@PathVariable注解](https://articles.zsxq.com/id_27gccis9me0v.html)
+* [《Spring核心技术》第48章：深度解析@RequestBody注解](https://articles.zsxq.com/id_wzt9ndj1t2o2.html)
+* [《Spring核心技术》第49章：深度解析@RequestHeader注解](https://articles.zsxq.com/id_vd0nabjnlo9x.html)
+* [《Spring核心技术》第50章：深度解析@CookieValue注解](https://articles.zsxq.com/id_aphnzhoz3wd3.html)
+* [《Spring核心技术》第51章：深度解析@ModelAttribute注解](https://articles.zsxq.com/id_6zpnxo0j94za.html)
+* [《Spring核心技术》第52章：深度解析@ExceptionHandler注解](https://articles.zsxq.com/id_0zdvz0bk7zgn.html)
+* [《Spring核心技术》第53章：深度解析@InitBinder注解](https://articles.zsxq.com/id_qcwj4wrgz6vo.html)
+* [《Spring核心技术》第54章：深度解析@ControllerAdvice注解](https://articles.zsxq.com/id_l1q55mu4o9ou.html)
+* [《Spring核心技术》第55章：深度解析@RequestAttribute注解](https://articles.zsxq.com/id_8rw7tq1wuzom.html)
+* [《Spring核心技术》第56章：深度解析@SessionAttribute注解](https://articles.zsxq.com/id_m3ssh7jnnpcg.html)
+* [《Spring核心技术》第57章：深度解析@SessionAttributes注解](https://articles.zsxq.com/id_wnv2f8smr4c6.html)
+* [《Spring核心技术》第58章：深度解析@ResponseBody注解](https://articles.zsxq.com/id_x5e4eh58lfrv.html)
+* [《Spring核心技术》第59章：深度解析@CrossOrigin注解](https://articles.zsxq.com/id_iehog588vfef.html)
+
+#### 作业篇
+* [《Spring核心技术》作业：专栏整体作业](https://t.zsxq.com/0cK9NLELB)
+
+
+### 💥 精通高并发系列
+
+* [为何要学习Seckill分布式秒杀系统？它能为你带来什么？](https://mp.weixin.qq.com/s/H4l26h3qRV-05XiNZtQ7OA)
+* [秒杀系统瞬时百万并发流量的六种应对之道](https://mp.weixin.qq.com/s/Mj1DRFOmzThRV7CW6jWugg)
 * [🔥🔥🔥 《深入理解高并发编程（第2版）》八大篇章，共433页，打包发布！！](https://mp.weixin.qq.com/s/E5XZW_HSqKBbgxix6xQGAQ)
 * [深入理解CPU缓存一致性协议MESI（建议收藏）](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247499147&idx=1&sn=757b83308cef7248a0d4549dd1ffa9a7&chksm=cf564a8af821c39c28c911e08b9367979a4cd868c2be64f93ef3571936b614416716f3ad6d9b&token=2138570566&lang=zh_CN#rd)
 * [面试高并发，凉了！！（全程高能，建议收藏）](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247499600&idx=1&sn=cdb4b375676fc71357cbca6a30d9b93d&chksm=cf564851f821c147617db702fe4af386fe1e2acea1caa318ba33a3dd3878f538ae4ce74d3ea4&token=2138570566&lang=zh_CN#rd)
@@ -563,7 +918,7 @@
 * [手撸一款属于自己的Maven插件，说干就干！！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247497660&idx=1&sn=fb74836a052e0433ce64db1fcc5c3524&chksm=cf5640bdf821c9ab369207fa39caede4af0c822754203b4431b7f190699495b77c9dba859e09&token=1170633251&lang=zh_CN#rd)
 
 
-### 🔥🔥🔥 SA实战
+### 💥 SA实战
 
 #### 第一篇：专栏设计
 * [SA实战 ·《SpringCloud Alibaba实战》第1章-专栏设计：专栏开篇](https://mp.weixin.qq.com/s/1kS9RImTuL4hCnbxgfY1HQ)
@@ -618,7 +973,7 @@
 #### 整合bhrpc框架
 * [震撼！自己手写的100+工程的RPC框架成功整合了SpringCloud Alibaba](https://mp.weixin.qq.com/s/a2Y-qP6okUtkSKpxt8GzCg)
 
-### 🔥🔥🔥 MySQL核心知识
+### MySQL核心知识
 
 * [《MySQL核心知识手册》完结，共19章，16万字，打包发布！](https://mp.weixin.qq.com/s/jd7vTSZ7wqj3BMLRlhn3DA)
 * [《MySQL核心知识》第1章：开篇：专栏介绍](https://mp.weixin.qq.com/s/oJyL6xz7YYDTbMT8bpz-dw)
@@ -658,7 +1013,9 @@
 * [面试必问 | 聊聊Kafka的消费模型？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247498784&idx=1&sn=e645d07e2e4e3341a628f89f93d2e7d2&chksm=cf564b21f821c23746d15b4f4cca534ea6d83105ca3ce9eac48f7e8d11bb3e37d1194fb89a67&token=2138570566&lang=zh_CN#rd)
 * [面试必问 | 为何数据库连接池不采用IO多路复用？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247499378&idx=1&sn=608f17c9da784e6863e7db36ab2be414&chksm=cf564973f821c065f1a3d772ab5d84d686830a07663d9b57539c37d356a8685f2dc5e4ee15b4&token=2138570566&lang=zh_CN#rd)
 * [面试必问 | 一个线程从创建到消亡要经历哪些阶段？](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247500042&idx=1&sn=a6bb4c40af2edaa8f85ce72c3b562cb9&chksm=cf56760bf821ff1d065a11bbea690ccf6263ecf71b6066c4241323f953eab25a359ffec71718&token=2138570566&lang=zh_CN#rd)
-
+* [连续40场面试后的一点总结与心得（文末附面试真题](https://mp.weixin.qq.com/s/FLz3xixrOZ-mrbp23MwdWg)
+* [恭喜星球又一名小伙伴上岸大厂（附面试真题）](https://mp.weixin.qq.com/s/b1l2wDUIQDRkMwU830wYWA)
+* [面试现场 | 聊聊JVM性能调优？](https://mp.weixin.qq.com/s/w4kkd6lKtlS0Bv-S6Uptkw)
 
 ### 架构师进阶系列
 
@@ -1153,6 +1510,7 @@
 
 ### 程序人生
 
+* [冰河被邀请成为TVP腾讯云最具价值专家啦](https://mp.weixin.qq.com/s/k-t1CfLs70-wFu-3mZTuHA)
 * [2023，新的一年，新的规划！（文末有福利）](https://mp.weixin.qq.com/s/wGwpkZ4Rk4spfP5K8tseTQ)
 * [请给原作者和原创一点尊重！](https://mp.weixin.qq.com/s/1zSApb4QKN9dDbAj9661ZA)
 * [2022年，大部分人半途而废的原因](https://mp.weixin.qq.com/s/TQAKNnMI40oDEOV-KU6pVg)
