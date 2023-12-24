@@ -128,7 +128,7 @@
 
 ### 注意事项
 
-**文章转载务必添加冰河微信: hacker_binghe**  
+**文章转载务必添加冰河微信: hacker_binghe**
 
 转载时请务必在文章开头注明如下信息：    
 作者：冰河  
@@ -137,39 +137,39 @@
 
 ## 冰河整理PDF
 
-关注 **冰河技术** 微信公众号：  
+关注 **冰河技术** 微信公众号：
 
-回复 “**并发编程2**” 领取《深入理解高并发编程（第2版）》PDF电子书。   
+回复 “**并发编程2**” 领取《深入理解高并发编程（第2版）》PDF电子书。
 
-回复 “**并发编程**” 领取《深入理解高并发编程（第1版）》PDF电子书。   
+回复 “**并发编程**” 领取《深入理解高并发编程（第1版）》PDF电子书。
 
-回复 “**并发源码**” 领取《并发编程核心知识（源码分析篇 第1版）》PDF电子书。  
+回复 “**并发源码**” 领取《并发编程核心知识（源码分析篇 第1版）》PDF电子书。
 
 回复 “**并发路线**” 领取并发编程高清学习路线。
 
 回复 “**SA实战**” 领取《SpringCloud Alibaba实战》PDF电子书。
 
-回复 “**渗透笔记**” 领取《冰河的渗透实战笔记》PDF电子书。  
+回复 “**渗透笔记**” 领取《冰河的渗透实战笔记》PDF电子书。
 
 回复 “**ngx2**” 获取《Nginx核心技术手册》PDF电子书。
 
-回复 “**我要进大厂**” 领取《我要进大厂系列之面试圣经（第1版）》PDF电子书。  
+回复 “**我要进大厂**” 领取《我要进大厂系列之面试圣经（第1版）》PDF电子书。
 
-回复 ”**限流**“ 领取《亿级流量下的分布式解决方案》PDF电子书。  
+回复 ”**限流**“ 领取《亿级流量下的分布式解决方案》PDF电子书。
 
-回复 “**设计模式**” 领取《深入浅出Java23种设计模式》PDF电子书。  
+回复 “**设计模式**” 领取《深入浅出Java23种设计模式》PDF电子书。
 
-回复 “**Java8新特性**” 领取 《Java8新特性教程》PDF电子书。    
+回复 “**Java8新特性**” 领取 《Java8新特性教程》PDF电子书。
 
-回复 “**分布式存储**” 领取《跟冰河学习分布式存储技术》 PDF电子书。  
+回复 “**分布式存储**” 领取《跟冰河学习分布式存储技术》 PDF电子书。
 
-回复 “**Nginx**” 领取《跟冰河学习Nginx技术》PDF电子书。  
+回复 “**Nginx**” 领取《跟冰河学习Nginx技术》PDF电子书。
 
-回复 “**互联网工程**” 领取《跟冰河学习互联网工程技术》PDF电子书。  
+回复 “**互联网工程**” 领取《跟冰河学习互联网工程技术》PDF电子书。
 
-回复 “**冰河索引**” 领取《冰河技术公号文章索引》PDF电子书。  
+回复 “**冰河索引**” 领取《冰河技术公号文章索引》PDF电子书。
 
-回复 “**星球**” 获取知识星球优惠券 。   
+回复 “**星球**” 获取知识星球优惠券 。
 
 
 ## 公众号文章同步（善用 Ctrl+F 搜索文章）
@@ -215,6 +215,7 @@
 
 ### 新书介绍
 
+* [冰河的第三本高并发书籍面市了！！](https://mp.weixin.qq.com/s/qb5bvW7uMYRzL4LCZZkgTg)
 * [《深入理解高并发编程：JDK核心技术》-冰河新书上市](https://mp.weixin.qq.com/s/R4lqlbXpZsFTOUYALFWZUg)
 * [十年大促亿级流量并发编程总结与规划！](https://mp.weixin.qq.com/s/u5t88cAq1eWuoEzF9qZKMQ)
 * [听说B站和ChatGPT都被搞宕机了？](https://mp.weixin.qq.com/s/5ipbD7oKEHo5zvBrcWCxNQ)
@@ -240,6 +241,19 @@
 
 #### 星球专栏
 
+* [年底冰河又在搞事情了：堪称史上最强福利！](https://mp.weixin.qq.com/s/XpQMu2dG2KOCeBD6CX6V2A)
+* [打卡计划启动：每个项目的价值都远超门票！](https://mp.weixin.qq.com/s/PUlQsPy6nt4XBn9GPvd3ww)
+* [10张图总结并发编程最佳学习路线，上车！](https://mp.weixin.qq.com/s/Wowk6qs-wWfbBCin_RU3eQ)
+* [管你是不是应届生，我们只招有高并发项目经验的候选人！](https://mp.weixin.qq.com/s/G1P4QKsF8JpDkeQswwa0Vw)
+* [万字长文通关计算机与操作系统基础知识（面试必备）](https://mp.weixin.qq.com/s/uRjsyDqi4Gafj5-XOubz2w)
+* [微服务必备电子书最终版发布！](https://mp.weixin.qq.com/s/cOL56BmcJ67jDNtJD8UEng)
+* [是真卷？还是内耗？这次面试造的火箭对比薪资后着实有点离谱！](https://mp.weixin.qq.com/s/xI0k0Mblyl0mdoP6LyC2Sw)
+* [这本系统讲解Java最牛框架的电子书免费了！](https://mp.weixin.qq.com/s/U9S_Rd49qmi-RQ_ea-W4SA)
+* [高并发下缓存穿透、击穿、雪崩问题的解决方案，落地到代码该如何实现？](https://mp.weixin.qq.com/s/QKEJjAVWV7p1rm6XPwBLvA)
+* [从单体到微服务，冰河的秒杀系统上硬菜了！](https://mp.weixin.qq.com/s/k0EjQdkYK5UB9VinQy0UDA)
+* [高考成绩都出来了，你的秒杀系统如何了？](https://mp.weixin.qq.com/s/bz29IEXpbqcDNImMukjsQQ)
+* [撸完Dubbo3源码，我总结了这些阅读源码的技巧](https://mp.weixin.qq.com/s/f95-pjM0dmXAhO7Hv1B4_g)
+* [一年肝了4个项目，10万+行代码，面试妥妥的！](https://mp.weixin.qq.com/s/wwr8qmf-6PjjcSqfzN8Tig)
 * [一个人也许走的很快，但一群人走的更远！](https://mp.weixin.qq.com/s/tpwdPO0qtqwbInppIvgY9g)
 * [假期做了一项调研：结果合乎情理！](https://mp.weixin.qq.com/s/uoR0fcZ4TOb4PbUviYDMxw)
 * [五一假期，正式开卷（再送超大福利）](https://mp.weixin.qq.com/s/CcfLI9aH9RSSiK7dWVx4uA)
@@ -255,6 +269,7 @@
 ### 💥 分布式IM即时通讯系统
 
 * [《分布式IM系统》开篇：分布式IM即时通讯系统正式启动](https://t.zsxq.com/14WPONMB1)
+* [《分布式IM系统》面试：可以写到简历上的分布式IM即时通讯系统](https://binghe.gitcode.host/md/project/im/start/2023-12-08-interview.html)
 * [《分布式IM系统》需求设计-第01节：为何要学习分布式IM即时通讯系统](https://t.zsxq.com/14pDoU2bm)
 * [《分布式IM系统》需求设计-第02节：分布式IM即时通讯系统的目标与挑战](https://t.zsxq.com/14vNxrhs5)
 * [《分布式IM系统》需求设计-第03节：分布式IM即时通讯系统功能需求与流程梳理](https://t.zsxq.com/149IP0Ctv)
@@ -263,6 +278,26 @@
 * [《分布式IM系统》总体架构-第02节：分布式IM即时通讯系统数据模型设计](https://t.zsxq.com/14ie4NqRD)
 * [《分布式IM系统》环境搭建-第01节：分布式IM即时通讯系统研发环境搭建](https://t.zsxq.com/14oOdmec0)
 * [《分布式IM系统》环境搭建-第02节：分布式IM即时通讯系统项目工程搭建](https://t.zsxq.com/15FTjKpI2)
+* [《分布式IM系统》环境搭建-第03节：分布式IM即时通讯系统Maven私服搭建](https://t.zsxq.com/15Xw7Odd6)
+* [《分布式IM系统》环境搭建-第04节：搭建并优化多节点Minio分布式文件系统](https://t.zsxq.com/15G8ZLxlB)
+* [《分布式IM系统》通用模型-第01节：分布式IM即时通讯系统通用模型设计](https://t.zsxq.com/15uoKuaGL)
+* [《分布式IM系统》通用模型-第02节：分布式IM即时通讯系统通用缓存设计](https://t.zsxq.com/15GZ04X9k)
+* [《分布式IM系统》通用模型-第03节：混合型缓存通用模型设计与实现](https://t.zsxq.com/15BdD7wvS)
+* [《分布式IM系统》通用模型-第04节：分布式锁通用代码设计与实现](https://t.zsxq.com/15YbS6Hr5)
+* [《分布式IM系统》通用模型-第05节：MQ消息发送通用代码设计与实现](https://t.zsxq.com/15d9MTsU6)
+* [《分布式IM系统》通用模型-第06节：多系统共用模型与工具推送到Maven私服](https://t.zsxq.com/15pszNu2l)
+* [《分布式IM系统》即时通讯后端服务-第01节：即时通讯后端服务通用代码设计与实现](https://t.zsxq.com/15XHfbP8C)
+* [《分布式IM系统》即时通讯后端服务-第02节：即时通讯后端服务自定义编解码器的设计与实现](https://t.zsxq.com/154VxZSq4)
+* [《分布式IM系统》即时通讯后端服务-第03节：即时通讯后端服务通用ChannelHanler的设计与实现](https://t.zsxq.com/15cCvfYNv)
+* [《分布式IM系统》即时通讯后端服务-第04节：即时通讯后端服务登录处理器的设计与实现](https://t.zsxq.com/15Fbs6GZ1)
+* [《分布式IM系统》即时通讯后端服务-第05节：即时通讯后端服务心跳处理器的设计与实现](https://t.zsxq.com/15bXHo0dr)
+* [《分布式IM系统》即时通讯后端服务-第06节：即时通讯后端服务单聊处理器的设计与实现](https://t.zsxq.com/15z05Tfy0)
+* [《分布式IM系统》即时通讯后端服务-第07节：即时通讯后端服务群聊处理器的设计与实现](https://t.zsxq.com/15jflSI9W)
+* [《分布式IM系统》即时通讯SDK-第01节：发送单聊消息的流程设计与实现](https://t.zsxq.com/15wTbdXXn)
+* [《分布式IM系统》即时通讯SDK-第02节：发送群聊消息的流程设计与实现](https://t.zsxq.com/15iRx5OZV)
+* [《分布式IM系统》即时通讯SDK-第03节：在线状态的统一设计与实现](https://articles.zsxq.com/id_dw9wl4tepecq.html)
+* [《分布式IM系统》即时通讯SDK-第04节：消息监听与广播机制的设计与实现](https://articles.zsxq.com/id_almw6i45p8ve.html)
+* [《分布式IM系统》即时通讯SDK-第05节：接收消息发送结果的流程设计与实现](https://articles.zsxq.com/id_u1zndh0fwr0j.html)
 
 ### 💥 Seckill秒杀系统
 
@@ -392,6 +427,7 @@
 * [《Seckill秒杀系统》第123章：单机服务极致优化](https://articles.zsxq.com/id_vla569lwcv5p.html)
 * [《Seckill秒杀系统》第124章：秒杀系统流程极致优化](https://articles.zsxq.com/id_ezkr511hqn61.html)
 * [《Seckill秒杀系统》结尾：秒杀系统整体专栏总结](https://articles.zsxq.com/id_lsps4inuwvh3.html)
+* [《Seckill秒杀系统》番外篇：第01章：互联网大厂是如何设计和使用缓存的](https://binghe.gitcode.host/md/project/seckill/2023-12-10-cache-design.html)
 
 ### 💥 实战高并发设计模式
 
@@ -1214,6 +1250,27 @@
 
 ### 程序员进阶系列
 
+* [小卡拉米们：来年的春招，你们准备好了吗？](https://mp.weixin.qq.com/s/FxdYOnWH91lby5OnfzQ-lQ)
+* [研发提效必备技能：25张图手把手教你基于Docker搭建Maven私服仓库](https://mp.weixin.qq.com/s/_pW1Br_qSP_mfWUajGs8iw)
+* [真实还原面试过程，被问懵了！（全程高能）](https://mp.weixin.qq.com/s/OnxLEm48BTTYlWZ-y2ScXw)
+* [互联网大厂是如何设计和使用缓存的？方案已开源！](https://mp.weixin.qq.com/s/6L-chBzWbI8nVRCez2PHhQ)
+* [这套分布式IM即时通讯系统如何写到简历上？我给你整理好了！](https://mp.weixin.qq.com/s/4CYsL_OZip3g0LYfvOmFQA)
+* [万字长文带你彻底吃透Spring循环依赖，堪称全网最全（文末福利）](https://mp.weixin.qq.com/s/Z2-p_pLdH_kVUfCxaFNVGw)
+* [又一个涵盖前后端+DevOps+OpenAI大模型的高并发项目启动了](https://mp.weixin.qq.com/s/NuVSfPUERzKvT_nSJ297fg)
+* [深入理解CPU缓存一致性协议MESI（建议收藏）](https://mp.weixin.qq.com/s/n2_1ylKrkwB71lhMQfuhUg)
+* [花费500多天，我做了这样一件成体系的事情](https://mp.weixin.qq.com/s/I2HR45t4vDOX7Ugu1BEFWg)
+* [又一个小而美的涵盖多个实际场景的高并发项目完结了](https://mp.weixin.qq.com/s/hYmt02lUORSgnomTCK1BzQ)
+* [一个项目彻底搞定并发编程可落地的方案和知识点](https://mp.weixin.qq.com/s/JJuJ2694dJb_TKI13F5Ujw)
+* [废掉一个程序员的十大铁律，你中招了吗？](https://mp.weixin.qq.com/s/DtMKesrWtT-5S8O54pdnCQ)
+* [阿里二面：ThreadLocal内存泄露灵魂四问，人麻了！](https://mp.weixin.qq.com/s/85-68EpBa4A2SbmI400pSw)
+* [生产真实案例：震惊，几条SQL把服务器干崩了，事后还大言不惭！](https://mp.weixin.qq.com/s/a5Z2a2TBkK3TQi4QsOTAnQ)
+* [3天面了20个候选人，聊聊我的感受](https://mp.weixin.qq.com/s/6Vdqu4rbujBGpCxJ6JBt3A)
+* [简历上的项目拿不出手怎么办？](https://mp.weixin.qq.com/s/VNhIabLxVY8qOzTr_RY9Ow)
+* [重磅开源：高并发下缓存穿透、击穿、雪崩问题的解决方案！](https://mp.weixin.qq.com/s/oUMYVTlZnnnC8FG9D959qg)
+* [阿里终面：听说你会架构设计，那你说说如何设计一个秒杀系统？](https://mp.weixin.qq.com/s/yfsvCDulkcwmXqGShhN7Aw)
+* [小伙伴问：冰河，你星球有哪些项目呢？](https://mp.weixin.qq.com/s/q1KaLLtyDHUB24FiZg8Uyw)
+* [五个月，秒杀，38个大的篇章，126+篇文章、视频、小册，150+源码分支，完美收官！](https://mp.weixin.qq.com/s/FwUR0jSaaSqyOc_xNhaKxw)
+* [是真卷？还是内耗？这次面试造的火箭对比薪资后着实有点离谱！](https://mp.weixin.qq.com/s/xI0k0Mblyl0mdoP6LyC2Sw)
 * [分库分表有哪些思路和技巧？（建议收藏）](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247497603&idx=1&sn=915322da262aaa7d2c8626038e748268&chksm=cf564082f821c99406b0b9cc1a7e6ab4d940d9c5abba96c2053030abce138046071d8dc57cbf&token=1170633251&lang=zh_CN#rd)
 * [周末给大家推荐一款无需注解的 SpringBoot API文档生成神器！](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247500966&idx=1&sn=60e2d84f7546b1553975c5b0f5c22e4e&chksm=cf5673a7f821fab11bfe6e6d243c4d7f69786835b6e409fd84b598740d7ceb3844cc25fdcbc3&token=2138570566&lang=zh_CN#rd)
 * [操作系统基础知识总结（重要）](https://mp.weixin.qq.com/s?__biz=Mzg4MjU0OTM1OA==&mid=2247499626&idx=1&sn=d6475af51bf2d8551d1ded75828b9cf4&chksm=cf56486bf821c17dd1b34456c56c0d61e0a8998d0b85fd9e19fa3d4c6a991caffa0bbffc957f&token=2138570566&lang=zh_CN#rd)
@@ -1612,12 +1669,12 @@
 
 ## 重磅福利
 
-微信搜一搜【冰河技术】微信公众号，关注这个有深度的程序员，每天阅读超硬核技术干货，公众号内回复【PDF】有我准备的一线大厂面试资料和我原创的超硬核PDF技术文档，以及我为大家精心准备的多套简历模板（不断更新中），希望大家都能找到心仪的工作，学习是一条时而郁郁寡欢，时而开怀大笑的路，加油。如果你通过努力成功进入到了心仪的公司，一定不要懈怠放松，职场成长和新技术学习一样，不进则退。如果有幸我们江湖再见！       
+微信搜一搜【冰河技术】微信公众号，关注这个有深度的程序员，每天阅读超硬核技术干货，公众号内回复【PDF】有我准备的一线大厂面试资料和我原创的超硬核PDF技术文档，以及我为大家精心准备的多套简历模板（不断更新中），希望大家都能找到心仪的工作，学习是一条时而郁郁寡欢，时而开怀大笑的路，加油。如果你通过努力成功进入到了心仪的公司，一定不要懈怠放松，职场成长和新技术学习一样，不进则退。如果有幸我们江湖再见！
 
-另外，我开源的各个PDF，后续我都会持续更新和维护，感谢大家长期以来对冰河的支持！！  
+另外，我开源的各个PDF，后续我都会持续更新和维护，感谢大家长期以来对冰河的支持！！
 
 回复【并发编程2】获取冰河最新整理的《深入理解高并发编程（第2版）》电子书。  
 回复【并发编程】获取全网累计下载60W+的《深入理解高并发编程》电子书。  
-回复【渗透笔记】获取全网5星好评的《冰河的渗透实战笔记》电子书。  
+回复【渗透笔记】获取全网5星好评的《冰河的渗透实战笔记》电子书。
 
 ![](https://binghe.gitcode.host/images/system/gongzhonghao.png)
